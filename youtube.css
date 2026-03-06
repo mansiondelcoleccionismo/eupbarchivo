@@ -873,3 +873,13 @@
           grid-template-columns: 1fr;
         }
       }
+
+/* ═ ACCESIBILIDAD ═ */
+:focus-visible {
+  outline: 2px solid var(--r);
+  outline-offset: 2px;
+}
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible {
+  outline: 2px solid var(--r);
+  outline-offset: 2px;
+}

@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta
       name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+      content="width=device-width, initial-scale=1.0"
     />
     <title>EUPB Museo — YouTube</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -39,7 +39,7 @@
     <nav class="drawer" id="drawer">
       <div class="drawer-hd">
         <span class="drawer-logo">EUPB <span>ARCHIVO</span></span>
-        <button class="drawer-x" id="drawer-x">✕</button>
+        <button class="drawer-x" id="drawer-x" aria-label="Cerrar menú">✕</button>
       </div>
       <div class="drawer-links">
         <a href="index.html" class="drawer-link">CATÁLOGO</a>
@@ -61,6 +61,7 @@
             id="search-input"
             type="text"
             placeholder="Buscar vídeo, artista, canal..."
+            aria-label="Buscar vídeo"
             autocomplete="off"
             spellcheck="false"
           />
@@ -125,7 +126,7 @@
     <!-- MODAL PLAYER -->
     <div class="mo-overlay" id="mo-overlay">
       <div class="mo-box">
-        <button class="mo-close" id="mo-close">✕</button>
+        <button class="mo-close" id="mo-close" aria-label="Cerrar">✕</button>
         <div class="mo-rand-badge" id="mo-rand-badge">
           <div class="mo-rand-badge-dot"></div>
           MODO ALEATORIO ACTIVO

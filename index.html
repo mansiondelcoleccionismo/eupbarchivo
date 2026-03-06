@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta
       name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+      content="width=device-width, initial-scale=1.0"
     />
     <title>EUPB Museo — Archivo Digital del Rap en Español (2010-2019)</title>
     <meta
@@ -80,7 +80,7 @@
     <nav class="drawer" id="drawer">
       <div class="drawer-hd">
         <span class="drawer-logo">EUPB <span>ARCHIVO</span></span>
-        <button class="drawer-x" id="drawer-x">✕</button>
+        <button class="drawer-x" id="drawer-x" aria-label="Cerrar menú">✕</button>
       </div>
       <div class="drawer-links">
         <a href="#" class="drawer-link" data-v="cat">DISCOS</a>
@@ -152,10 +152,11 @@
             type="text"
             id="q"
             placeholder="Buscar artista, disco, ciudad..."
+            aria-label="Buscar artista, disco o ciudad"
           />
         </div>
         <div class="pls" id="pls"></div>
-        <select class="sel" id="srt">
+        <select class="sel" id="srt" aria-label="Ordenar discos">
           <option value="year">POR AÑO</option>
           <option value="artist">A-Z ARTISTA</option>
           <option value="votes">MÁS VOTADOS</option>
@@ -187,9 +188,9 @@
         <div class="ctrl" style="max-width: 100%; padding: 0 0 14px">
           <div class="srch" style="min-width: 140px">
             <span class="srch-i">🔍</span
-            ><input type="text" id="q-art" placeholder="Buscar artista..." />
+            ><input type="text" id="q-art" placeholder="Buscar artista..." aria-label="Buscar artista" />
           </div>
-          <select class="sel" id="srt-art">
+          <select class="sel" id="srt-art" aria-label="Ordenar artistas">
             <option value="alpha">A-Z</option>
             <option value="discos">MÁS DISCOS</option>
             <option value="score">MÁS VOTADOS</option>
@@ -221,7 +222,7 @@
     </div>
 
     <div class="mo" id="mo">
-      <button class="mo-x" id="mox">
+      <button class="mo-x" id="mox" aria-label="Cerrar">
         <span class="mo-x-label">CERRAR</span> ✕
       </button>
       <div class="mo-in" id="moc"></div>
@@ -246,12 +247,12 @@
       id="ph-lb"
       onclick="if(event.target===this)window._phClose()"
     >
-      <button class="ph-lb-x" onclick="window._phClose()">✕</button>
-      <button class="ph-lb-nav ph-lb-prev" onclick="window._phNav(-1)">
+      <button class="ph-lb-x" onclick="window._phClose()" aria-label="Cerrar galería">✕</button>
+      <button class="ph-lb-nav ph-lb-prev" onclick="window._phNav(-1)" aria-label="Foto anterior">
         ‹
       </button>
       <img id="ph-lb-img" src="" alt="" />
-      <button class="ph-lb-nav ph-lb-next" onclick="window._phNav(1)">›</button>
+      <button class="ph-lb-nav ph-lb-next" onclick="window._phNav(1)" aria-label="Foto siguiente">›</button>
       <div class="ph-lb-count" id="ph-lb-count"></div>
     </div>
 
@@ -701,13 +702,13 @@
         <div class="mo-vt">
           <button class="vb ${
             uv === "like" ? "on" : ""
-          }" onclick="window._vt('${id}','like')">👍</button>
+          }" onclick="window._vt('${id}','like')" aria-label="Me gusta">👍</button>
           <div><div class="vsc">${
             s > 0 ? "+" : ""
           }${s}</div><div class="vlb">PUNTUACIÓN</div></div>
           <button class="vb ${
             uv === "dislike" ? "on" : ""
-          }" onclick="window._vt('${id}','dislike')">👎</button>
+          }" onclick="window._vt('${id}','dislike')" aria-label="No me gusta">👎</button>
           <div style="flex:1"></div><div class="vdt">${v.likes || 0} 👍 · ${
           v.dislikes || 0
         } 👎</div>
@@ -1348,7 +1349,7 @@
               localStorage.getItem("artvote_" + artSlug) === "like" ? "on" : ""
             }" onclick="event.stopPropagation();window._vtArt('${esc(
           artSlug
-        )}','like')">👍</button>
+        )}','like')" aria-label="Me gusta">👍</button>
             <div class="art-vote-score">
               <div class="vsc">${gass(artSlug) > 0 ? "+" : ""}${gass(
           artSlug
@@ -1361,7 +1362,7 @@
                 : ""
             }" onclick="event.stopPropagation();window._vtArt('${esc(
           artSlug
-        )}','dislike')">👎</button>
+        )}','dislike')" aria-label="No me gusta">👎</button>
             <div class="art-vote-detail">${gasv(artSlug).likes || 0} 👍 · ${
           gasv(artSlug).dislikes || 0
         } 👎</div>
