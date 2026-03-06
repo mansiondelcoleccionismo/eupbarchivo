@@ -998,7 +998,7 @@
         border-top: 1px solid var(--grf);
       }
       .cd-o {
-        font-size: clamp(0.48rem, 0.8vw, 0.56rem);
+        font-size: clamp(0.6rem, 0.9vw, 0.68rem);
         color: var(--grd);
         letter-spacing: 0.08em;
       }
@@ -1007,7 +1007,7 @@
         align-items: center;
         gap: 3px;
         font-family: var(--fd);
-        font-size: clamp(0.52rem, 0.85vw, 0.6rem);
+        font-size: clamp(0.6rem, 0.9vw, 0.68rem);
         font-weight: 700;
         letter-spacing: 0.05em;
       }
@@ -2645,13 +2645,13 @@
           flex-shrink: 0;
         }
         .nl {
-          font-size: 0.55rem;
+          font-size: 0.75rem;
           padding: 6px 0;
           white-space: nowrap;
           flex-shrink: 0;
         }
         .btn3d {
-          font-size: 0.5rem;
+          font-size: 0.75rem;
           padding: 6px 8px;
           flex-shrink: 0;
         }
@@ -2659,6 +2659,8 @@
         .hero {
           padding-left: 10px;
           padding-right: 10px;
+          padding-top: 24px;
+          padding-bottom: 16px;
         }
         .st-l {
           font-size: 0.62rem;
@@ -2745,7 +2747,7 @@
           color: #444;
         }
         .sel {
-          font-size: 0.68rem;
+          font-size: 0.75rem;
           padding: 8px 10px;
         }
         .brnd {
@@ -2753,7 +2755,19 @@
           padding: 8px 12px;
         }
         .pls {
+          display: flex;
+          flex-wrap: nowrap;
+          overflow-x: auto;
+          -webkit-overflow-scrolling: touch;
+          scrollbar-width: none;
+          gap: 4px;
+          padding-bottom: 4px;
+        }
+        .pls::-webkit-scrollbar {
           display: none;
+        }
+        .pl {
+          font-size: 0.75rem;
         }
         /* ─ Year headers ─ */
         .yc {
@@ -2777,7 +2791,7 @@
           font-size: 0.78rem;
         }
         .cd-t {
-          font-size: 0.72rem;
+          font-size: 0.75rem;
           margin-top: 2px;
         }
         .cd-ft {
@@ -2785,10 +2799,10 @@
           padding-top: 6px;
         }
         .cd-o {
-          font-size: 0.65rem;
+          font-size: 0.75rem;
         }
         .cd-v {
-          font-size: 0.62rem;
+          font-size: 0.75rem;
         }
         .cd-badge {
           font-size: 0.58rem;
@@ -2876,7 +2890,7 @@
         }
         /* ─ Tracklist ─ */
         .tk-n {
-          font-size: 0.72rem;
+          font-size: 0.75rem;
         }
         .tk-nm {
           font-size: 0.88rem;
@@ -2896,7 +2910,7 @@
           line-height: 1.5;
         }
         .cmt-d {
-          font-size: 0.62rem;
+          font-size: 0.75rem;
         }
         .cf input {
           font-size: 0.9rem;
@@ -2930,10 +2944,10 @@
           justify-content: center;
         }
         .art-back {
-          font-size: 0.68rem;
+          font-size: 0.75rem;
         }
         .art-chip {
-          font-size: 0.65rem;
+          font-size: 0.75rem;
         }
         .art-st-l {
           font-size: 0.65rem;
@@ -2993,7 +3007,7 @@
           font-size: 0.68rem;
         }
         .rk-tab {
-          font-size: 0.65rem;
+          font-size: 0.75rem;
           padding: 10px 8px;
         }
       }
@@ -3001,31 +3015,31 @@
       /* Tablet tweaks */
       @media (min-width: 541px) and (max-width: 768px) {
         .nl {
-          font-size: 0.55rem;
+          font-size: 0.75rem;
         }
         .btn3d {
-          font-size: 0.5rem;
+          font-size: 0.75rem;
         }
         .st-l {
           font-size: 0.5rem;
         }
         .cd-a {
-          font-size: 0.6rem;
+          font-size: 0.75rem;
         }
         .cd-t {
-          font-size: 0.55rem;
+          font-size: 0.75rem;
         }
         .cd-o {
-          font-size: 0.45rem;
+          font-size: 0.75rem;
         }
         .srch input {
           font-size: 0.7rem;
         }
         .pl {
-          font-size: 0.5rem;
+          font-size: 0.75rem;
         }
         .sel {
-          font-size: 0.5rem;
+          font-size: 0.75rem;
         }
       }
 
