@@ -1165,7 +1165,7 @@
 
       function activarListenerTiempoReal() {
         // Escuchar cambios en tiempo real
-        db.collection("graffitis").onSnapshot(
+        _unsubGraffitis = db.collection("graffitis").onSnapshot(
           (snapshot) => {
             snapshot.docChanges().forEach((change) => {
               if (change.type === "added") {
@@ -1211,6 +1211,9 @@
       // ══════════════════════════════════════════════════════════════════
 
       // Cache local de votos {albumId: {likes: N, dislikes: N}}
+      let _unsubGraffitis = null;
+      let _unsubVotos = null;
+      let _unsubSugerencias = null;
       const _votosCache = {};
       // Referencia a meshes de placas para actualizar en tiempo real
       const _placaMeshes = {};
@@ -1287,13 +1290,6 @@
             );
           _log("✓ Voto guardado en Firebase:", id, tipo);
 
-          // Verificar que se guardó leyendo de vuelta
-          const verify = await db.collection("votos").doc(id).get();
-          if (verify.exists) {
-            _log("✓ Verificado en Firebase:", verify.data());
-          } else {
-            console.error("⚠️ Documento no existe después de guardar!");
-          }
         } catch (e) {
           console.error("❌ ERROR guardando voto en Firebase:", e);
           console.error("❌ Código:", e.code, "Mensaje:", e.message);
@@ -1416,7 +1412,7 @@
 
       // Listener en tiempo real para votos
       function activarListenerVotos() {
-        db.collection("votos").onSnapshot(
+        _unsubVotos = db.collection("votos").onSnapshot(
           (snapshot) => {
             snapshot.docChanges().forEach((change) => {
               if (change.type === "added" || change.type === "modified") {
@@ -1483,7 +1479,7 @@
       }
 
       function activarListenerSugerencias() {
-        db.collection("sugerencias").onSnapshot(
+        _unsubSugerencias = db.collection("sugerencias").onSnapshot(
           (snapshot) => {
             snapshot.docChanges().forEach((change) => {
               if (change.type === "added") {
@@ -2543,6 +2539,9 @@
         scene.remove(g);
       }
       function clearScene() {
+        if (_unsubGraffitis) { _unsubGraffitis(); _unsubGraffitis = null; }
+        if (_unsubVotos) { _unsubVotos(); _unsubVotos = null; }
+        if (_unsubSugerencias) { _unsubSugerencias(); _unsubSugerencias = null; }
         scene.children.filter((c) => c.isLight).forEach((l) => scene.remove(l));
         disposeGroup(curGroup);
         curGroup = null;
@@ -3591,6 +3590,9 @@
 
         // Restaurar graffitis guardados del lobby
         restaurarGraffitis();
+        activarListenerTiempoReal();
+        activarListenerVotos();
+        activarListenerSugerencias();
 
         // La misión del hall y el logro de bienvenida se lanzan al primer movimiento
         // (ver detección en loop() → window._pendingFirstMoveRewards)
@@ -4426,6 +4428,9 @@
 
         // Restaurar graffitis guardados de esta sala
         restaurarGraffitis();
+        activarListenerTiempoReal();
+        activarListenerVotos();
+        activarListenerSugerencias();
       }
 
       function toLobby() {
