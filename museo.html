@@ -1256,58 +1256,55 @@
       async function votarAlbum(year, index, tipo) {
         const id = _albumId(year, index);
         const lsKey = "voto_" + id;
-
-        // Verificar si ya votó este álbum
         const votoAnterior = localStorage.getItem(lsKey);
-        if (votoAnterior) {
-          _log("Ya votaste este álbum:", id, "→", votoAnterior);
+
+        // Si ya votó lo mismo, no hacer nada
+        if (votoAnterior === tipo) {
+          _log("Ya votaste este álbum con el mismo tipo:", id, "→", votoAnterior);
           return { yaVotado: true, votoAnterior };
         }
 
-        // Guardar voto en localStorage
+        // Guardar nuevo voto en localStorage
         localStorage.setItem(lsKey, tipo);
 
         // Actualizar cache local
         if (!_votosCache[id]) _votosCache[id] = { likes: 0, dislikes: 0 };
+        if (votoAnterior) {
+          // Decrementar voto anterior
+          if (votoAnterior === "like") _votosCache[id].likes = Math.max(0, _votosCache[id].likes - 1);
+          else _votosCache[id].dislikes = Math.max(0, _votosCache[id].dislikes - 1);
+        }
+        // Incrementar nuevo voto
         if (tipo === "like") _votosCache[id].likes++;
         else _votosCache[id].dislikes++;
 
-        // Guardar en Firebase - asegurar que ambos campos existen
+        // Guardar en Firebase
         try {
-          await db
-            .collection("votos")
-            .doc(id)
-            .set(
-              {
-                likes: firebase.firestore.FieldValue.increment(
-                  tipo === "like" ? 1 : 0
-                ),
-                dislikes: firebase.firestore.FieldValue.increment(
-                  tipo === "dislike" ? 1 : 0
-                ),
-              },
-              { merge: true }
-            );
-          _log("✓ Voto guardado en Firebase:", id, tipo);
-
+          const u = {};
+          if (votoAnterior) {
+            u[votoAnterior === "like" ? "likes" : "dislikes"] = firebase.firestore.FieldValue.increment(-1);
+          }
+          u[tipo === "like" ? "likes" : "dislikes"] = firebase.firestore.FieldValue.increment(1);
+          await db.collection("votos").doc(id).set(u, { merge: true });
+          _log("✓ Voto guardado en Firebase:", id, tipo, votoAnterior ? "(cambio desde " + votoAnterior + ")" : "(nuevo)");
         } catch (e) {
           console.error("❌ ERROR guardando voto en Firebase:", e);
-          console.error("❌ Código:", e.code, "Mensaje:", e.message);
-          // Si falla Firebase, revertir cache local
-          if (tipo === "like")
-            _votosCache[id].likes = Math.max(0, _votosCache[id].likes - 1);
-          else
-            _votosCache[id].dislikes = Math.max(
-              0,
-              _votosCache[id].dislikes - 1
-            );
+          // Revertir cache local si falla
+          if (votoAnterior) {
+            if (votoAnterior === "like") _votosCache[id].likes++;
+            else _votosCache[id].dislikes++;
+          }
+          if (tipo === "like") _votosCache[id].likes = Math.max(0, _votosCache[id].likes - 1);
+          else _votosCache[id].dislikes = Math.max(0, _votosCache[id].dislikes - 1);
+          localStorage.setItem(lsKey, votoAnterior || "");
+          if (!votoAnterior) localStorage.removeItem(lsKey);
           actualizarPlaca3D(year, index);
         }
 
-        // Actualizar la placa 3D si existe
+        // Actualizar la placa 3D
         actualizarPlaca3D(year, index);
 
-        // ── Misiones: chequear votos ──
+        // Misiones
         chequearMisiones();
         lanzarSiguienteMision(4000);
 
