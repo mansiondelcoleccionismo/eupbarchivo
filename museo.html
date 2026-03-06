@@ -547,10 +547,7 @@
     </div>
     <!-- ── PANEL DE MISIONES ── -->
     <div id="mission-panel">
-      <div class="mission-tag" id="mission-tag">
-        ◆ MISIÓN NUEVA
-        <span class="mission-new-badge" id="mission-new-badge">NEW</span>
-      </div>
+      <div class="mission-tag" id="mission-tag">◆ NUEVA MISIÓN</div>
       <div class="mission-body">
         <div class="mission-icon" id="mission-icon">🎯</div>
         <div>
@@ -2289,8 +2286,7 @@
         const rewardEl = document.getElementById("mission-reward");
 
         panel.classList.remove("complete");
-        tagEl.innerHTML =
-          '◆ MISIÓN NUEVA <span class="mission-new-badge" id="mission-new-badge">NEW</span>';
+        tagEl.textContent = '◆ NUEVA MISIÓN';
         iconEl.textContent = icon;
         titleEl.textContent = titulo;
         descEl.textContent = desc;
