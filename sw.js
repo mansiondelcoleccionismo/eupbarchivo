@@ -11,13 +11,26 @@ const PRECACHE_ASSETS = [
   "./museo.html",
   "./youtube.html",
   "./styles.css",
+  "./catalogo.css",
+  "./youtube.css",
   "./db.js",
+  "./db2010.js",
+  "./db2011.js",
+  "./db2012.js",
+  "./db2013.js",
+  "./db2014.js",
+  "./db2015.js",
+  "./db2016.js",
+  "./db2017.js",
+  "./db2018.js",
+  "./db2019.js",
+  "./artists.js",
   "./misiones.js",
   "./logros.js",
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png",
-  // CDN libs (se cachean en primer uso)
+  "./nocover.jpg",
 ];
 
 // Dominios que NUNCA cachear (APIs en tiempo real)
@@ -36,7 +49,11 @@ self.addEventListener("install", (e) => {
   e.waitUntil(
     caches
       .open(CACHE_NAME)
-      .then((cache) => cache.addAll(PRECACHE_ASSETS))
+      .then((cache) =>
+        Promise.allSettled(
+          PRECACHE_ASSETS.map((url) => cache.add(url))
+        )
+      )
       .then(() => self.skipWaiting())
   );
 });
