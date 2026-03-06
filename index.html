@@ -1,0 +1,2684 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>EUPB Museo — Archivo Digital del Rap en Español (2010-2019)</title>
+    <meta
+      name="description"
+      content="Catálogo completo del rap español 2010-2019. 100+ discos históricos con votos, comentarios y rankings de la comunidad."
+    />
+    <meta
+      name="keywords"
+      content="rap español, hip hop España, discos rap, archivo digital, museo virtual, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019"
+    />
+    <meta
+      property="og:title"
+      content="EUPB Museo — Archivo Digital del Rap en Español"
+    />
+    <meta
+      property="og:description"
+      content="El catálogo más completo del hip-hop en español (2010-2019). 100+ discos, 220+ artistas. Explora, vota y comenta."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:site_name" content="EUPB Museo" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="EUPB Museo — Rap Español 2010-2019" />
+    <meta
+      name="twitter:description"
+      content="Museo virtual 3D · 100+ discos · 220+ artistas · Vota y comenta"
+    />
+    <meta name="twitter:image" content="og-image.png" />
+    <meta name="theme-color" content="#ed1c24" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <meta name="fragment" content="!" />
+    <link rel="canonical" href="index.html" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Space+Mono:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="catalogo.css" />
+  </head>
+  <body>
+    <header class="hdr">
+      <div class="hdr-in">
+        <a
+          href="index.html"
+          class="logo"
+          style="text-decoration: none; color: inherit"
+          >EUPB <span>ARCHIVO</span></a
+        >
+        <nav class="hdr-nav">
+          <a href="#" class="nl on" data-v="cat">DISCOS</a>
+          <a href="#" class="nl" data-v="artistas">ARTISTAS</a>
+          <a href="#" class="nl" data-v="rank">RANKING</a>
+          <a href="youtube.html" class="nl">YOUTUBE</a>
+          <a href="#" class="nl" data-v="perfil" id="nav-perfil">MI PERFIL</a>
+          <a class="btn3d" href="museo.html">MUSEO 3D →</a>
+        </nav>
+        <button class="hdr-burger" id="hdr-burger" aria-label="Menú">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Mobile drawer -->
+    <div class="drawer-overlay" id="drawer-overlay"></div>
+    <nav class="drawer" id="drawer">
+      <div class="drawer-hd">
+        <span class="drawer-logo">EUPB <span>ARCHIVO</span></span>
+        <button class="drawer-x" id="drawer-x">✕</button>
+      </div>
+      <div class="drawer-links">
+        <a href="#" class="drawer-link" data-v="cat">DISCOS</a>
+        <a href="#" class="drawer-link" data-v="artistas">ARTISTAS</a>
+        <a href="#" class="drawer-link" data-v="rank">RANKING</a>
+        <a href="youtube.html" class="drawer-link">YOUTUBE</a>
+        <a href="#" class="drawer-link" data-v="perfil" id="nav-perfil-drawer"
+          >MI PERFIL</a
+        >
+      </div>
+      <a class="drawer-3d" href="museo.html">MUSEO 3D →</a>
+    </nav>
+
+    <section class="hero">
+      <div class="hero-bg">
+        <img class="hero-bg-img" id="hero-bg-img" src="" alt="" />
+        <div class="hero-bg-overlay"></div>
+        <div class="hero-bg-overlay2"></div>
+      </div>
+      <div class="hero-inner">
+        <div class="hero-text">
+          <div class="hero-tag">ARCHIVO DIGITAL DEL RAP EN ESPAÑOL</div>
+          <h1>LA DÉCADA<br />DORADA <em>10—19</em></h1>
+          <p class="hero-sub">
+            El catálogo más completo del hip-hop en español.<br />
+            Explora, vota y comenta los discos que marcaron una era.
+          </p>
+          <div class="hero-ctas">
+            <button class="hero-cta" id="hero-random">
+              🎲 DISCO ALEATORIO
+            </button>
+            <button
+              class="hero-cta hero-cta-ghost"
+              onclick="document.getElementById('v-cat').scrollIntoView({behavior:'smooth'})"
+            >
+              EXPLORAR ↓
+            </button>
+          </div>
+          <div class="hero-stats">
+            <div class="st">
+              <div class="st-n" id="s-d">0</div>
+              <div class="st-l">DISCOS</div>
+            </div>
+            <div class="st">
+              <div class="st-n" id="s-a">0</div>
+              <div class="st-l">ARTISTAS</div>
+            </div>
+            <div class="st">
+              <div class="st-n" id="s-v">0</div>
+              <div class="st-l">VOTOS</div>
+            </div>
+            <div class="st">
+              <div class="st-n" id="s-c">0</div>
+              <div class="st-l">CIUDADES</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="dotd" id="dotd"></div>
+    <div class="sbar sr" id="sbar"></div>
+
+    <div id="v-cat">
+      <div class="ctrl">
+        <div class="srch">
+          <span class="srch-i">🔍</span
+          ><input
+            type="text"
+            id="q"
+            placeholder="Buscar artista, disco, ciudad..."
+          />
+        </div>
+        <div class="pls" id="pls"></div>
+        <select class="sel" id="srt">
+          <option value="year">POR AÑO</option>
+          <option value="artist">A-Z ARTISTA</option>
+          <option value="votes">MÁS VOTADOS</option>
+          <option value="city">POR CIUDAD</option>
+        </select>
+        <button class="brnd" id="rnd">🎲 RANDOM</button>
+      </div>
+      <main class="mn" id="alb"></main>
+    </div>
+
+    <div id="v-rank" class="vh">
+      <section class="rks">
+        <div class="rk-tabs">
+          <button class="rk-tab on" data-rk="discos">TOP DISCOS</button>
+          <button class="rk-tab" data-rk="artistas">TOP ARTISTAS</button>
+        </div>
+        <div id="rklist"></div>
+        <div id="rklist-art" class="vh"></div>
+      </section>
+    </div>
+
+    <div id="v-artistas" class="vh">
+      <section class="rks">
+        <div class="yh">
+          <div class="yn">ARTISTAS</div>
+          <div class="yl"></div>
+          <div class="yc" id="art-count">0 ARTISTAS</div>
+        </div>
+        <div class="ctrl" style="max-width: 100%; padding: 0 0 14px">
+          <div class="srch" style="min-width: 140px">
+            <span class="srch-i">🔍</span
+            ><input type="text" id="q-art" placeholder="Buscar artista..." />
+          </div>
+          <select class="sel" id="srt-art">
+            <option value="alpha">A-Z</option>
+            <option value="discos">MÁS DISCOS</option>
+            <option value="score">MÁS VOTADOS</option>
+          </select>
+          <div class="art-views">
+            <button class="art-vbtn" data-av="list" title="Lista">☰</button>
+            <button class="art-vbtn on" data-av="grid" title="Tarjetas">
+              ▦
+            </button>
+            <button class="art-vbtn" data-av="compact" title="Compacto">
+              ⊞
+            </button>
+            <button class="art-vbtn" data-av="wall" title="Muro">▣</button>
+          </div>
+        </div>
+        <div id="artlist"></div>
+      </section>
+    </div>
+
+    <div id="v-artist" class="vh">
+      <section class="art-page">
+        <div class="art-back" id="art-back">← CATÁLOGO</div>
+        <div id="art-content"></div>
+      </section>
+    </div>
+
+    <div id="v-perfil" class="vh">
+      <section class="art-page" id="perfil-page-content"></section>
+    </div>
+
+    <div class="mo" id="mo">
+      <button class="mo-x" id="mox">
+        <span class="mo-x-label">CERRAR</span> ✕
+      </button>
+      <div class="mo-in" id="moc"></div>
+    </div>
+
+    <!-- Video Lightbox -->
+    <div
+      class="vid-lb"
+      id="vid-lb"
+      onclick="if(event.target===this)window._vidClose()"
+    >
+      <div class="vid-lb-in">
+        <button class="vid-lb-x" onclick="window._vidClose()">✕</button>
+        <div class="vid-lb-frame" id="vid-lb-frame"></div>
+        <div class="vid-lb-title" id="vid-lb-title"></div>
+      </div>
+    </div>
+
+    <!-- Photo Lightbox -->
+    <div
+      class="ph-lb"
+      id="ph-lb"
+      onclick="if(event.target===this)window._phClose()"
+    >
+      <button class="ph-lb-x" onclick="window._phClose()">✕</button>
+      <button class="ph-lb-nav ph-lb-prev" onclick="window._phNav(-1)">
+        ‹
+      </button>
+      <img id="ph-lb-img" src="" alt="" />
+      <button class="ph-lb-nav ph-lb-next" onclick="window._phNav(1)">›</button>
+      <div class="ph-lb-count" id="ph-lb-count"></div>
+    </div>
+
+    <!-- Back to top -->
+    <button class="btt" id="btt" aria-label="Volver arriba">↑</button>
+
+    <footer class="ftr">
+      <div class="ftr-l">EUPB <span>ARCHIVO</span></div>
+      <p class="ftr-t">ARCHIVO DIGITAL DEL RAP EN ESPAÑOL · 2010–2019</p>
+      <a href="museo.html" class="ftr-c">ENTRAR AL MUSEO 3D 🏛️</a>
+    </footer>
+
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+    <script type="module">
+      import { DB, YRS } from "./db.js";
+      import ARTIST_PROFILES from "./artists.js";
+      const NOCOVER = "nocover.jpg";
+      function cov(url) {
+        return url || NOCOVER;
+      }
+      if (!firebase.apps.length)
+        firebase.initializeApp({
+          apiKey: "AIzaSyAmESfVosMLCC38YaJ4jkrSTOo0WflS1w4",
+          authDomain: "eupbmuseo.firebaseapp.com",
+          projectId: "eupbmuseo",
+        });
+      const fs = firebase.firestore();
+      const auth = firebase.auth();
+      let catUser = null;
+      let all = [],
+        vt = {},
+        yr = null,
+        srt = "year",
+        q = "";
+
+      YRS.forEach((y) => {
+        const Y = +y;
+        DB[y].forEach((a, i) => {
+          all.push({ ...a, year: Y, idx: i, id: `${Y}_${i}`, inM: i < 10 });
+        });
+      });
+      const cities = new Set(all.map((a) => a.o)),
+        artists = new Set();
+      // Collect all unique artist names (main + aa)
+      all.forEach((a) => {
+        artists.add(a.a);
+        if (a.aa) a.aa.forEach((x) => artists.add(x));
+      });
+
+      // ═ SLUG & URL SYSTEM ═
+      function slug(s) {
+        return s
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, "-")
+          .replace(/(^-|-$)/g, "");
+      }
+      const slugFn = slug;
+      // Build display name for album (includes collaborators)
+      function displayArtist(a) {
+        if (a.aa && a.aa.length) return a.a + " & " + a.aa.join(" & ");
+        return a.a;
+      }
+      // Build linked artist names (each clickable to their profile)
+      function linkedArtist(a, cls, fn) {
+        const c = cls || "cd-a-link";
+        const f = fn || "_art";
+        const mainLink = `<a class="${c}" onclick="event.stopPropagation();window.${f}('${
+          a.slugA
+        }')">${esc(a.a)}</a>`;
+        if (!a.aa || !a.aa.length) return mainLink;
+        const aaLinks = a.aa.map(
+          (name) =>
+            `<a class="${c}" onclick="event.stopPropagation();window.${f}('${slugFn(
+              name
+            )}')">${esc(name)}</a>`
+        );
+        return [mainLink, ...aaLinks].join(" &amp; ");
+      }
+      // Build lookup maps
+      const slugToAlbum = {};
+      const slugToArtist = {};
+      all.forEach((a) => {
+        const as = slug(a.a),
+          ts = slug(a.t);
+        a.slugA = as;
+        a.slugT = ts;
+        a.displayA = displayArtist(a);
+        a.permalink = `#disco/${a.year}/${as}/${ts}`;
+        slugToAlbum[`${a.year}/${as}/${ts}`] = a;
+      });
+      all.forEach((a) => {
+        // Index under main artist
+        if (!slugToArtist[a.slugA]) slugToArtist[a.slugA] = [];
+        slugToArtist[a.slugA].push(a);
+        // Index under additional artists (aa)
+        if (a.aa) {
+          a.aa.forEach((name) => {
+            const s = slug(name);
+            if (!slugToArtist[s]) slugToArtist[s] = [];
+            // Avoid duplicates
+            if (!slugToArtist[s].includes(a)) slugToArtist[s].push(a);
+          });
+        }
+      });
+
+      function pushHash(h) {
+        history.pushState(null, "", h);
+      }
+      function getHash() {
+        return decodeURIComponent(location.hash.replace(/^#/, ""));
+      }
+
+      // Animated counter
+      function anim(el, to, dur = 1200) {
+        const t0 = performance.now();
+        !(function f(now) {
+          const p = Math.min((now - t0) / dur, 1);
+          el.textContent = Math.round(to * (1 - Math.pow(1 - p, 3)));
+          if (p < 1) requestAnimationFrame(f);
+        })(t0);
+      }
+      anim(document.getElementById("s-d"), all.length);
+      anim(document.getElementById("s-a"), artists.size, 900);
+      anim(document.getElementById("s-c"), cities.size, 1100);
+
+      async function loadV() {
+        try {
+          const s = await fs.collection("votos").get();
+          let tv = 0;
+          s.forEach((d) => {
+            const v = d.data();
+            vt[d.id] = v;
+            tv += (v.likes || 0) + (v.dislikes || 0);
+          });
+          anim(document.getElementById("s-v"), tv, 1400);
+        } catch (e) {
+          console.warn(e);
+        }
+      }
+      function gv(id) {
+        return vt[id] || { likes: 0, dislikes: 0 };
+      }
+      function gs(id) {
+        const v = gv(id);
+        return (v.likes || 0) - (v.dislikes || 0);
+      }
+
+      // DOTD
+      function dotd() {
+        const di = Math.floor(Date.now() / 864e5) % all.length,
+          a = all[di];
+        // Set hero background image
+        const bgImg = document.getElementById("hero-bg-img");
+        if (bgImg) {
+          bgImg.onload = () => bgImg.classList.add("loaded");
+          bgImg.src = cov(a.cover);
+        }
+        document.getElementById("dotd").innerHTML = `
+        <div class="dotd-label-row">
+          <span class="dotd-label-tag">&#128293; DISCO DEL D&Iacute;A</span>
+          <div class="dotd-label-line"></div>
+        </div>
+        <div class="dotd-c" onclick="window._o('${a.id}')">
+          <img class="dotd-img" src="${cov(a.cover)}" alt="${a.a} - ${a.t}">
+          <div class="dotd-nfo">
+            <div class="dotd-year-badge">${a.year}</div>
+            <div class="dotd-a">${linkedArtist(a, "dotd-a-link")}</div>
+            <div class="dotd-t">${a.t}</div>
+            <div class="dotd-m">
+              <span>&#128205; ${a.o}</span>
+              ${
+                a.l
+                  ? '<span class="dotd-m-sep">&middot;</span><span>&#128191; ' +
+                    a.l +
+                    "</span>"
+                  : ""
+              }
+              ${
+                a.inM
+                  ? '<span class="dotd-m-sep">&middot;</span><span>&#127963; EN EL MUSEO</span>'
+                  : ""
+              }
+            </div>
+          </div>
+          <button class="dotd-go" onclick="event.stopPropagation();window._o('${
+            a.id
+          }')">VER FICHA &rarr;</button>
+        </div>`;
+      }
+
+      // Stats chips (top cities)
+      function chips() {
+        const c = {};
+        all.forEach((a) => {
+          c[a.o] = (c[a.o] || 0) + 1;
+        });
+        const s = Object.entries(c)
+          .sort((a, b) => b[1] - a[1])
+          .slice(0, 4);
+        document.getElementById("sbar").innerHTML = `
+          <div class="sbar-header">
+            <span class="sbar-title">Explorar por ciudad</span>
+            <div class="sbar-line"></div>
+          </div>
+          <div class="sbar-in">${s
+            .map(
+              ([city, n]) => `
+            <div class="schip" onclick="window._filterCity('${city}')" style="cursor:pointer" title="Ver ${n} discos de ${city}">
+              <div class="schip-top">
+                <span class="schip-n">${n}</span>
+                <span class="schip-i">&#128205;</span>
+              </div>
+              <div class="schip-l">${city.toUpperCase()}</div>
+              <div class="schip-sub">DISCOS</div>
+            </div>`
+            )
+            .join("")}</div>`;
+      }
+
+      // Pills
+      function mkP() {
+        const c = document.getElementById("pls");
+        const a = document.createElement("button");
+        a.className = "pl on";
+        a.textContent = "TODOS";
+        a.onclick = () => {
+          yr = null;
+          uP();
+          ren();
+        };
+        c.appendChild(a);
+        YRS.forEach((y) => {
+          const p = document.createElement("button");
+          p.className = "pl";
+          p.textContent = y;
+          p.onclick = () => {
+            yr = +y;
+            uP();
+            ren();
+          };
+          c.appendChild(p);
+        });
+      }
+      function uP() {
+        document.querySelectorAll(".pl").forEach((p) => {
+          const ia = p.textContent === "TODOS";
+          p.classList.toggle("on", yr === null ? ia : +p.textContent === yr);
+        });
+      }
+
+      function flt() {
+        let f = [...all];
+        if (yr) f = f.filter((a) => a.year === yr);
+        if (q) {
+          const s = q.toLowerCase();
+          f = f.filter(
+            (a) =>
+              a.a.toLowerCase().includes(s) ||
+              a.t.toLowerCase().includes(s) ||
+              a.o.toLowerCase().includes(s) ||
+              (a.l && a.l.toLowerCase().includes(s))
+          );
+        }
+        if (srt === "artist") f.sort((a, b) => a.a.localeCompare(b.a));
+        else if (srt === "votes") f.sort((a, b) => gs(b.id) - gs(a.id));
+        else if (srt === "city") f.sort((a, b) => a.o.localeCompare(b.o));
+        return f;
+      }
+
+      function ren() {
+        const c = document.getElementById("alb"),
+          f = flt();
+        if (!f.length) {
+          c.innerHTML = `<div class="empty"><div class="ic">🔍</div><p>NO SE ENCONTRARON DISCOS</p></div>`;
+          return;
+        }
+        let h = "";
+        if (srt === "year" && !yr) {
+          const g = {};
+          f.forEach((a) => {
+            (g[a.year] = g[a.year] || []).push(a);
+          });
+          Object.keys(g)
+            .sort()
+            .forEach((y) => {
+              const museo = g[y].filter((a) => a.inM);
+              const extra = g[y].filter((a) => !a.inM);
+              const gridId = `grd-${y}`;
+              const btnId = `btn-more-${y}`;
+              h += `<div class="yh sr"><div class="yn" onclick="window._filterYear(${y})" style="cursor:pointer" title="Ver solo ${y}">${y}</div><div class="yl"></div><div class="yc">${
+                g[y].length
+              } DISCOS</div></div><div class="grd sr" id="${gridId}">${museo
+                .map(cd)
+                .join("")}</div>`;
+              if (extra.length) {
+                h += `<div style="text-align:center;margin:-4px 0 28px"><button id="${btnId}" class="brnd" onclick="window._loadMore('${y}','${gridId}','${btnId}')" style="font-size:0.7rem;padding:8px 22px;letter-spacing:0.08em">&#9660; CARGAR M&Aacute;S &middot; ${extra.length} DISCOS</button></div>`;
+              }
+            });
+        } else if (srt === "city" && !yr) {
+          const g = {};
+          f.forEach((a) => {
+            (g[a.o] = g[a.o] || []).push(a);
+          });
+          Object.keys(g)
+            .sort()
+            .forEach((ci) => {
+              h += `<div class="yh sr"><div class="yn" onclick="window._filterCity('${ci}')" style="cursor:pointer" title="Ver discos de ${ci}">📍 ${ci.toUpperCase()}</div><div class="yl"></div><div class="yc">${
+                g[ci].length
+              } DISCOS</div></div><div class="grd sr">${g[ci]
+                .map(cd)
+                .join("")}</div>`;
+            });
+        } else {
+          if (yr)
+            h += `<div class="yh"><div class="yn">${yr}</div><div class="yl"></div><div class="yc">${f.length} DISCOS</div></div>`;
+          h += `<div class="grd sr">${f.map(cd).join("")}</div>`;
+        }
+        c.innerHTML = h;
+        c.querySelectorAll(".cd").forEach((x) => {
+          x.onclick = () => window._o(x.dataset.id);
+        });
+        requestAnimationFrame(() => {
+          document.querySelectorAll(".sr:not(.vis)").forEach((el) => {
+            const ob = new IntersectionObserver(
+              ([e]) => {
+                if (e.isIntersecting) {
+                  el.classList.add("vis");
+                  ob.disconnect();
+                }
+              },
+              { threshold: 0.08 }
+            );
+            ob.observe(el);
+          });
+        });
+      }
+
+      function cd(a) {
+        const s = gs(a.id),
+          cl = s > 0 ? "pos" : s < 0 ? "neg" : "zer";
+        return `<article class="cd" data-id="${a.id}">
+        ${a.inM ? '<div class="cd-badge">🏛️</div>' : ""}
+        <div class="cd-iw"><img class="cd-img" src="${cov(a.cover)}" alt="${
+          a.a
+        } - ${
+          a.t
+        }" loading="lazy"><div class="cd-ov"><div class="cd-play">▶</div></div></div>
+        <div class="cd-bd"><div class="cd-a">${linkedArtist(
+          a
+        )}</div><div class="cd-t">${a.t}</div>
+        <div class="cd-ft"><span class="cd-o"><a class="cd-o-link" onclick="event.stopPropagation();window._filterCity('${
+          a.o
+        }')">${a.o}</a></span><span class="cd-v ${cl}">${
+          s > 0 ? "+" : ""
+        }${s} ♥</span></div></div></article>`;
+      }
+
+      // Card variant for artist profile: shows year instead of city
+      function cdArt(a) {
+        const s = gs(a.id),
+          cl = s > 0 ? "pos" : s < 0 ? "neg" : "zer";
+        return `<article class="cd" data-id="${a.id}">
+        ${a.inM ? '<div class="cd-badge">🏛️</div>' : ""}
+        <div class="cd-iw"><img class="cd-img" src="${cov(a.cover)}" alt="${
+          a.a
+        } - ${
+          a.t
+        }" loading="lazy"><div class="cd-ov"><div class="cd-play">▶</div></div></div>
+        <div class="cd-bd"><div class="cd-a">${linkedArtist(
+          a
+        )}</div><div class="cd-t">${a.t}</div>
+        <div class="cd-ft"><span class="cd-o">${
+          a.year
+        }</span><span class="cd-v ${cl}">${
+          s > 0 ? "+" : ""
+        }${s} ♥</span></div></div></article>`;
+      }
+
+      // Modal
+      let _fromRandom = false;
+
+      window._o = function (id, skipHash, fromRandom) {
+        // Solo cambiar _fromRandom si se pasa explícitamente
+        if (fromRandom === true) _fromRandom = true;
+        else if (fromRandom === false) _fromRandom = false;
+        // Si fromRandom es undefined (no se pasa), mantener el valor actual
+        window._currentDiscoId = id;
+        const a = all.find((x) => x.id === id);
+        if (!a) return;
+        window._lastPermalink = a.permalink;
+        if (!skipHash) pushHash(a.permalink);
+        const v = gv(id),
+          s = (v.likes || 0) - (v.dislikes || 0),
+          uv = localStorage.getItem("voto_" + id) || null;
+        let lk = "";
+        if (a.spotify)
+          lk += `<a class="mo-lk" href="${a.spotify}" target="_blank" rel="noopener">🎵 SPOTIFY</a>`;
+        if (a.youtube)
+          lk += `<a class="mo-lk" href="https://youtube.com/watch?v=${a.youtube}" target="_blank" rel="noopener">▶ YOUTUBE</a>`;
+        if (a.bandcamp)
+          lk += `<a class="mo-lk" href="${a.bandcamp}" target="_blank" rel="noopener">🎧 BANDCAMP</a>`;
+        const tk =
+          a.tk && a.tk.length
+            ? `<div class="sct">TRACKLIST</div><ol class="tl">${a.tk
+                .map(
+                  (t, i) =>
+                    `<li class="tk"><span class="tk-n">${String(i + 1).padStart(
+                      2,
+                      "0"
+                    )}</span><span class="tk-nm">${t}</span></li>`
+                )
+                .join("")}</ol>`
+            : "";
+        const shareUrl = location.origin + location.pathname + a.permalink;
+        document.getElementById("moc").innerHTML = `
+        <div class="mo-top"><div class="mo-cw"><img class="mo-cv" src="${cov(
+          a.cover
+        )}" alt="${a.a} - ${
+          a.t
+        }"><div class="mo-yb" onclick="window._filterYear(${
+          a.year
+        })" style="cursor:pointer" title="Ver todos los discos de ${a.year}">${
+          a.year
+        }</div></div>
+        <div class="mo-hd"><div class="mo-ar">${linkedArtist(
+          a,
+          "mo-ar-link",
+          "_goArt"
+        )}</div><div class="mo-al">${a.t}</div>
+        <div class="mo-tgs"><span class="mo-tg clk" onclick="window._filterCity('${esc(
+          a.o
+        )}')" title="Ver discos de ${a.o}">📍 ${a.o}</span>${
+          a.l
+            ? `<span class="mo-tg clk" onclick="window._filterLabel('${esc(
+                a.l
+              )}')" title="Ver discos de ${a.l}">💿 ${a.l}</span>`
+            : ""
+        }${a.inM ? `<span class="mo-tg mu">🏛️ EN EL MUSEO</span>` : ""}</div>
+        <div class="mo-lks">${lk}</div></div></div>
+        <div class="mo-vt">
+          <button class="vb ${
+            uv === "like" ? "on" : ""
+          }" onclick="window._vt('${id}','like')">👍</button>
+          <div><div class="vsc">${
+            s > 0 ? "+" : ""
+          }${s}</div><div class="vlb">PUNTUACIÓN</div></div>
+          <button class="vb ${
+            uv === "dislike" ? "on" : ""
+          }" onclick="window._vt('${id}','dislike')">👎</button>
+          <div style="flex:1"></div><div class="vdt">${v.likes || 0} 👍 · ${
+          v.dislikes || 0
+        } 👎</div>
+        </div>
+        <div class="mo-sh">
+          <button class="sh-trigger" onclick="window._shToggle(this)">↗ COMPARTIR</button>
+          <div class="sh-menu">
+            <button class="sh-opt" onclick="window._wa('${esc(a.a)}','${esc(
+          a.t
+        )}','${esc(shareUrl)}')"><span class="sh-ic">💬</span>WHATSAPP</button>
+            <button class="sh-opt" onclick="window._twLink('${esc(a.a)}','${esc(
+          a.t
+        )}','${esc(
+          shareUrl
+        )}')"><span class="sh-ic">𝕏</span>TWITTER / X</button>
+            <button class="sh-opt" onclick="window._tg('${esc(a.a)}','${esc(
+          a.t
+        )}','${esc(shareUrl)}')"><span class="sh-ic">✈️</span>TELEGRAM</button>
+            <button class="sh-opt" onclick="window._cpLink('${esc(a.a)} - ${esc(
+          a.t
+        )}','${esc(
+          shareUrl
+        )}',this)"><span class="sh-ic">📋</span>COPIAR LINK</button>
+            <button class="sh-opt" onclick="window._shareNative('${esc(
+              a.a
+            )} - ${esc(a.t)}','${esc(
+          shareUrl
+        )}')"><span class="sh-ic">📤</span>MÁS OPCIONES...</button>
+          </div>
+        </div>
+        ${
+          _fromRandom
+            ? `<div class="mo-rand"><button class="hero-cta" onclick="window._randAgain()">🎲 OTRO DISCO</button></div>`
+            : ""
+        }
+        ${tk}
+        ${(() => {
+          // Get all discos from this artist (and aa artists)
+          const artistSlugs = [a.slugA];
+          if (a.aa) a.aa.forEach((n) => artistSlugs.push(slugFn(n)));
+          const others = [];
+          artistSlugs.forEach((s) => {
+            if (slugToArtist[s]) {
+              slugToArtist[s].forEach((d) => {
+                if (d.id !== a.id && !others.find((o) => o.id === d.id))
+                  others.push(d);
+              });
+            }
+          });
+          if (!others.length) return "";
+          return `<div class="sct">MÁS DE ESTE ARTISTA</div><div class="mo-more">${others
+            .map((d) => {
+              const ds = gs(d.id),
+                dcl = ds > 0 ? "pos" : ds < 0 ? "neg" : "zer";
+              return `<article class="cd cd-mini" data-id="${d.id}">
+                <div class="cd-iw"><img class="cd-img" src="${cov(
+                  d.cover
+                )}" alt="${esc(d.displayA || d.a)} - ${esc(
+                d.t
+              )}" loading="lazy"></div>
+                <div class="cd-bd"><div class="cd-a">${esc(
+                  d.displayA || d.a
+                )}</div><div class="cd-t">${esc(d.t)}</div>
+                <div class="cd-ft"><span class="cd-o">${
+                  d.year
+                }</span><span class="cd-v ${dcl}">${
+                ds > 0 ? "+" : ""
+              }${ds} ♥</span></div></div></article>`;
+            })
+            .join("")}</div>`;
+        })()}
+        <div class="sct">COMENTARIOS</div>
+        <div id="cmts"><div class="empty" style="padding:12px 0"><p>CARGANDO...</p></div></div>
+        <div class="cf"><input type="text" id="ci" placeholder="Escribe un comentario..." maxlength="140"><button class="cfs" onclick="window._cm('${id}')">ENVIAR</button></div>`;
+        document.getElementById("mo").classList.add("show");
+        document.body.dataset.scrollY = window.scrollY;
+        document.body.style.position = "fixed";
+        document.body.style.top = `-${window.scrollY}px`;
+        document.body.style.left = "0";
+        document.body.style.right = "0";
+        document.body.style.overflow = "hidden";
+        document.title = `${a.displayA || a.a} — ${a.t} | EUPB Museo`;
+        // Wire "more from artist" mini cards
+        document.querySelectorAll(".mo-more .cd").forEach((x) => {
+          x.onclick = () => {
+            document.querySelector(".mo-in").scrollTop = 0;
+            window._o(x.dataset.id);
+          };
+        });
+        lC(id);
+      };
+
+      window._cpLink = function (t, url, btn) {
+        navigator.clipboard.writeText(t + " — " + url).then(() => {
+          if (btn) {
+            btn.classList.add("copied");
+            btn.innerHTML = '<span class="sh-ic">✓</span>¡COPIADO!';
+            setTimeout(() => {
+              btn.classList.remove("copied");
+              btn.innerHTML = '<span class="sh-ic">📋</span>COPIAR LINK';
+            }, 1500);
+          }
+        });
+      };
+      window._twLink = function (ar, al, url) {
+        const t = encodeURIComponent(
+          "🎵 " + ar + " - " + al + "\nDescúbrelo en EUPB Museo\n" + url
+        );
+        window.open("https://twitter.com/intent/tweet?text=" + t, "_blank");
+      };
+      window._wa = function (ar, al, url) {
+        const t = encodeURIComponent(
+          "🎵 " + ar + " - " + al + "\nDescúbrelo en EUPB Museo 🏛️\n" + url
+        );
+        window.open("https://wa.me/?text=" + t, "_blank");
+      };
+      window._tg = function (ar, al, url) {
+        const t = encodeURIComponent(
+          "🎵 " + ar + " - " + al + "\nDescúbrelo en EUPB Museo 🏛️"
+        );
+        window.open(
+          "https://t.me/share/url?url=" +
+            encodeURIComponent(url) +
+            "&text=" +
+            t,
+          "_blank"
+        );
+      };
+      window._shareNative = async function (title, url) {
+        if (navigator.share) {
+          try {
+            await navigator.share({
+              title: title,
+              text: "🎵 " + title,
+              url: url,
+            });
+          } catch (e) {
+            /* user cancelled */
+          }
+        } else {
+          // Fallback: copy
+          navigator.clipboard.writeText(title + " — " + url);
+          alert("Link copiado al portapapeles");
+        }
+      };
+      window._shToggle = function (trigger) {
+        const menu = trigger.nextElementSibling;
+        const isOpen = menu.classList.contains("show");
+        // Close any open menus first
+        document
+          .querySelectorAll(".sh-menu.show")
+          .forEach((m) => m.classList.remove("show"));
+        document
+          .querySelectorAll(".sh-trigger.open")
+          .forEach((t) => t.classList.remove("open"));
+        if (!isOpen) {
+          menu.classList.add("show");
+          trigger.classList.add("open");
+        }
+      };
+      // Close share menu when clicking outside
+      document.addEventListener("click", (e) => {
+        if (!e.target.closest(".mo-sh")) {
+          document
+            .querySelectorAll(".sh-menu.show")
+            .forEach((m) => m.classList.remove("show"));
+          document
+            .querySelectorAll(".sh-trigger.open")
+            .forEach((t) => t.classList.remove("open"));
+        }
+      });
+
+      function clM() {
+        const wasShowing = document
+          .getElementById("mo")
+          .classList.contains("show");
+        document.getElementById("mo").classList.remove("show");
+        const scrollY = parseInt(document.body.dataset.scrollY || "0");
+        document.body.style.position = "";
+        document.body.style.top = "";
+        document.body.style.left = "";
+        document.body.style.right = "";
+        document.body.style.overflow = "";
+        window.scrollTo(0, scrollY);
+        if (wasShowing && getHash().startsWith("disco/")) {
+          history.back();
+        }
+      }
+      document.getElementById("mox").onclick = clM;
+      document.getElementById("mo").onclick = (e) => {
+        // Close if clicking the dark background (not the content or its children)
+        if (
+          e.target.id === "mo" ||
+          (e.target.classList.contains("mo-in") === false &&
+            !e.target.closest(".mo-in"))
+        )
+          clM();
+      };
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") clM();
+      });
+
+      window._vt = async function (id, type) {
+        const ex = localStorage.getItem("voto_" + id);
+        if (ex === type) return;
+        try {
+          const r = fs.collection("votos").doc(id),
+            u = {};
+          if (ex)
+            u[ex === "like" ? "likes" : "dislikes"] =
+              firebase.firestore.FieldValue.increment(-1);
+          u[type === "like" ? "likes" : "dislikes"] =
+            firebase.firestore.FieldValue.increment(1);
+          await r.set(u, { merge: true });
+          localStorage.setItem("voto_" + id, type);
+          if (!vt[id]) vt[id] = { likes: 0, dislikes: 0 };
+          if (ex) vt[id][ex === "like" ? "likes" : "dislikes"]--;
+          vt[id][type === "like" ? "likes" : "dislikes"]++;
+          // Sync vote to user profile in Firebase
+          if (catUser) {
+            try {
+              var vu = {};
+              vu["votos.voto_" + id] = type;
+              fs.collection("usuarios")
+                .doc(catUser.uid)
+                .set(vu, { merge: true });
+            } catch (se) {
+              console.warn("Sync voto perfil:", se);
+            }
+          }
+          window._o(id, true);
+          ren();
+        } catch (e) {
+          console.error(e);
+        }
+      };
+
+      async function lC(id) {
+        try {
+          const s = await fs
+            .collection("comentarios")
+            .doc(id)
+            .collection("items")
+            .orderBy("ts", "desc")
+            .limit(20)
+            .get();
+          const c = document.getElementById("cmts");
+          if (s.empty) {
+            c.innerHTML = `<div class="empty" style="padding:12px 0"><div class="ic">💬</div><p>SÉ EL PRIMERO EN COMENTAR</p></div>`;
+            return;
+          }
+          c.innerHTML = "";
+          s.forEach((d) => {
+            const x = d.data(),
+              dt = x.ts
+                ? new Date(x.ts.seconds * 1000).toLocaleDateString("es-ES")
+                : "";
+            c.innerHTML += `<div class="cmt"><div class="cmt-w">${
+              x.nombre || "ANÓNIMO"
+            }</div><div class="cmt-t">${esc(
+              x.texto || ""
+            )}</div><div class="cmt-d">${dt}</div></div>`;
+          });
+        } catch (e) {
+          document.getElementById(
+            "cmts"
+          ).innerHTML = `<div class="empty" style="padding:12px 0"><p>ERROR</p></div>`;
+        }
+      }
+
+      window._cm = async function (id) {
+        const i = document.getElementById("ci"),
+          t = i.value.trim();
+        if (!t) return;
+        try {
+          const nombre =
+            (catUser && catUser.displayName) ||
+            localStorage.getItem("eupb_nombre") ||
+            "ANÓNIMO";
+          const uid = catUser ? catUser.uid : null;
+          await fs.collection("comentarios").doc(id).collection("items").add({
+            nombre: nombre,
+            texto: t,
+            uid: uid,
+            albumId: id,
+            ts: firebase.firestore.FieldValue.serverTimestamp(),
+          });
+          i.value = "";
+          lC(id);
+        } catch (e) {
+          console.error(e);
+        }
+      };
+
+      function esc(s) {
+        return s
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;")
+          .replace(/'/g, "&#39;");
+      }
+
+      // Ranking
+      function rnk() {
+        const s = [...all].sort((a, b) => gs(b.id) - gs(a.id)),
+          mx = Math.max(1, ...s.map((a) => Math.abs(gs(a.id))));
+        document.getElementById("rklist").innerHTML = s
+          .map((a, i) => {
+            const sc = gs(a.id),
+              pct = Math.max(0, (sc / mx) * 100);
+            return `<div class="rki" onclick="window._o('${a.id}')">
+          <div class="rk-p ${i < 3 ? "t3" : ""}">#${i + 1}</div>
+          <img class="rk-i" src="${cov(a.cover)}" alt="${a.a}" loading="lazy">
+          <div class="rk-n"><div class="rk-a">${
+            a.displayA || a.a
+          }</div><div class="rk-al">${a.t} · ${
+              a.year
+            }</div><div class="rk-bar"><div class="rk-fill" style="width:0%"></div></div></div>
+          <div class="rk-sc">${sc > 0 ? "+" : ""}${sc}</div>
+        </div>`;
+          })
+          .join("");
+        // Animate bars
+        setTimeout(() => {
+          document.querySelectorAll(".rk-fill").forEach((b, i) => {
+            const sc = gs(s[i].id);
+            b.style.width = Math.max(0, (sc / mx) * 100) + "%";
+          });
+        }, 50);
+      }
+
+      // ═ ARTIST PAGE ═
+      window._art = function (artSlug) {
+        const discos = slugToArtist[artSlug];
+        if (!discos || !discos.length) return;
+        // Track where we came from for the back button
+        if (!document.getElementById("v-artistas").classList.contains("vh")) {
+          artCameFrom = "artistas";
+        } else {
+          artCameFrom = "cat";
+        }
+        pushHash("#artista/" + artSlug);
+        showArtist(artSlug);
+      };
+
+      window._goArt = function (artSlug) {
+        // Close modal first, then navigate
+        document.getElementById("mo").classList.remove("show");
+        document.body.style.position = "";
+        document.body.style.top = "";
+        document.body.style.left = "";
+        document.body.style.right = "";
+        document.body.style.overflow = "";
+        // Small delay to let modal close, then navigate
+        setTimeout(function () {
+          window._art(artSlug);
+        }, 50);
+      };
+
+      window._loadMore = function (y, gridId, btnId) {
+        const grid = document.getElementById(gridId);
+        const btn = document.getElementById(btnId);
+        const extra = all.filter((a) => a.year === +y && !a.inM);
+        if (!grid) return;
+        grid.innerHTML += extra.map(cd).join("");
+        grid.querySelectorAll(".cd:not([data-bound])").forEach((x) => {
+          x.dataset.bound = "1";
+          x.onclick = () => window._o(x.dataset.id);
+        });
+        if (btn) btn.parentElement.remove();
+      };
+
+      window._filterYear = function (year) {
+        // Close modal if open
+        document.getElementById("mo").classList.remove("show");
+        document.body.style.position = "";
+        document.body.style.top = "";
+        document.body.style.left = "";
+        document.body.style.right = "";
+        document.body.style.overflow = "";
+        switchView("cat");
+        yr = +year;
+        srt = "year";
+        q = "";
+        document.getElementById("q").value = "";
+        document.getElementById("srt").value = "year";
+        uP();
+        ren();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      };
+
+      window._filterCity = function (city) {
+        document.getElementById("mo").classList.remove("show");
+        document.body.style.position = "";
+        document.body.style.top = "";
+        document.body.style.left = "";
+        document.body.style.right = "";
+        document.body.style.overflow = "";
+        switchView("cat");
+        yr = null;
+        srt = "city";
+        q = city;
+        document.getElementById("q").value = city;
+        document.getElementById("srt").value = "city";
+        uP();
+        ren();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      };
+
+      window._filterLabel = function (label) {
+        document.getElementById("mo").classList.remove("show");
+        document.body.style.position = "";
+        document.body.style.top = "";
+        document.body.style.left = "";
+        document.body.style.right = "";
+        document.body.style.overflow = "";
+        switchView("cat");
+        yr = null;
+        srt = "year";
+        q = label;
+        document.getElementById("q").value = label;
+        document.getElementById("srt").value = "year";
+        uP();
+        ren();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      };
+
+      // ═ SOCIAL ICONS MAP ═
+      const socIcons = {
+        instagram: "📷",
+        spotify: "🎵",
+        youtube: "▶️",
+        bandcamp: "💿",
+        soundcloud: "☁️",
+        twitter: "𝕏",
+      };
+
+      function showArtist(artSlug) {
+        const discos = slugToArtist[artSlug];
+        if (!discos || !discos.length) return;
+        // Resolve correct name for this slug (may be an aa artist)
+        let name = discos[0].a;
+        if (artSlug !== discos[0].slugA) {
+          for (const d of discos) {
+            if (d.aa) {
+              const found = d.aa.find((n) => artSlug === slugFn(n));
+              if (found) {
+                name = found;
+                break;
+              }
+            }
+          }
+        }
+        const yearsArr = [...new Set(discos.map((d) => d.year))].sort();
+        const totalScore = discos.reduce((sum, d) => sum + gs(d.id), 0);
+
+        // Check for enriched profile
+        const prof = ARTIST_PROFILES[artSlug] || {};
+        const bestAlbum = [...discos].sort((a, b) => gs(b.id) - gs(a.id))[0];
+        const avatar = prof.photo || cov(bestAlbum.cover);
+
+        const citiesArr = [
+          ...new Map(
+            discos.map((d) => [d.o.trim().toLowerCase(), d.o.trim()])
+          ).values(),
+        ].filter(Boolean);
+        const _crewLow = (prof.crew || "").trim().toLowerCase();
+        const _nameLow = name.trim().toLowerCase();
+        const labelsArr = [
+          ...new Map(
+            discos
+              .map((d) => (d.l ? [d.l.trim().toLowerCase(), d.l.trim()] : null))
+              .filter(Boolean)
+          ).values(),
+        ].filter(
+          (l) =>
+            l.trim().toLowerCase() !== _crewLow &&
+            l.trim().toLowerCase() !== _nameLow &&
+            l.trim().toLowerCase() !== "sello"
+        );
+
+        const shareUrl =
+          location.origin + location.pathname + "#artista/" + artSlug;
+
+        let h = `<div class="bread">
+          <a href="#" class="bread-link" data-go="cat">INICIO</a>
+          <span class="bread-sep">›</span>
+          <a href="#artistas" class="bread-link" data-go="artistas">ARTISTAS</a>
+          <span class="bread-sep">›</span>
+          <span class="bread-cur">${esc(name)}</span>
+        </div>
+        <div class="art-hdr">
+          <img class="art-avatar" src="${avatar}" alt="${esc(name)}">
+          <div class="art-info">
+            <div class="art-name">${esc(name)}</div>
+            <div class="art-meta">
+              ${citiesArr
+                .map(
+                  (c) =>
+                    `<span class="art-chip clk" onclick="window._filterCity('${esc(
+                      c
+                    )}')" style="cursor:pointer">📍 ${esc(c)}</span>`
+                )
+                .join("")}
+              ${labelsArr
+                .map(
+                  (l) =>
+                    `<span class="art-chip clk" onclick="window._filterLabel('${esc(
+                      l
+                    )}')" style="cursor:pointer">💿 ${esc(l)}</span>`
+                )
+                .join("")}
+              ${
+                prof.crew
+                  ? `<span class="art-chip" style="background:rgba(46,204,113,0.1);border-color:rgba(46,204,113,0.3);color:#2ecc71">👥 ${esc(
+                      prof.crew
+                    )}</span>`
+                  : ""
+              }
+              <span class="art-chip red">${discos.length} DISCO${
+          discos.length > 1 ? "S" : ""
+        } EN ARCHIVO</span>
+              <span class="art-chip">${yearsArr[0]}${
+          yearsArr.length > 1 ? "—" + yearsArr[yearsArr.length - 1] : ""
+        }</span>
+            </div>
+            <div class="art-stat-row">
+              <div class="art-st"><div class="art-st-n">${
+                gass(artSlug) > 0 ? "+" : ""
+              }${gass(
+          artSlug
+        )}</div><div class="art-st-l">VOTOS ARTISTA</div></div>
+              <div class="art-st"><div class="art-st-n">${
+                totalScore > 0 ? "+" : ""
+              }${totalScore}</div><div class="art-st-l">VOTOS DISCOS</div></div>
+              <div class="art-st"><div class="art-st-n">${
+                discos.length
+              }</div><div class="art-st-l">DISCOS</div></div>
+            </div>
+          </div>
+        </div>`;
+
+        // ═ BIO SECTION ═
+        if (prof.bio || prof.realName) {
+          h += `<div class="art-section">
+            <div class="art-section-body art-bio-block">
+              ${
+                prof.realName
+                  ? `<div class="art-realname">${esc(prof.realName)}</div>`
+                  : ""
+              }
+              ${
+                prof.aliases && prof.aliases.length
+                  ? `<div class="art-aliases">También conocido como: ${prof.aliases
+                      .map((a) => esc(a))
+                      .join(" · ")}</div>`
+                  : ""
+              }
+              ${
+                prof.bio
+                  ? `<div class="art-bio-text">${esc(prof.bio)}</div>`
+                  : ""
+              }
+            </div>
+          </div>`;
+        }
+
+        // ═ MEMBERS ═
+        if (prof.members && prof.members.length) {
+          h += `<div class="art-section">
+            <div class="art-section-hd">INTEGRANTES</div>
+            <div class="art-section-body">
+              <div class="art-members-list">${prof.members
+                .map((m) => `<span class="art-member">${esc(m)}</span>`)
+                .join("")}</div>
+            </div>
+          </div>`;
+        }
+
+        // ═ ENLACES + COMPARTIR ═
+        const hasSocial = prof.social && Object.keys(prof.social).length;
+        h += `<div class="art-section">
+          <div class="art-section-hd">ENLACES</div>
+          <div class="art-section-body art-enlaces-row">
+            ${
+              hasSocial
+                ? Object.entries(prof.social)
+                    .map(
+                      ([k, url]) =>
+                        `<a class="art-social-btn" href="${esc(
+                          url
+                        )}" target="_blank" rel="noopener"><span class="soc-ic">${
+                          socIcons[k] || "🔗"
+                        }</span>${esc(k.toUpperCase())}</a>`
+                    )
+                    .join("")
+                : ""
+            }
+            <div class="art-share-wrap">
+              <button class="art-share-btn sh-trigger" onclick="window._shToggle(this)">↗ COMPARTIR</button>
+              <div class="sh-menu">
+                <button class="sh-opt" onclick="window._wa('${esc(
+                  name
+                )}','Discografía en EUPB Museo','${esc(
+          shareUrl
+        )}')"><span class="sh-ic">💬</span>WHATSAPP</button>
+                <button class="sh-opt" onclick="window._twLink('${esc(
+                  name
+                )}','Discografía en EUPB Museo','${esc(
+          shareUrl
+        )}')"><span class="sh-ic">𝕏</span>TWITTER / X</button>
+                <button class="sh-opt" onclick="window._tg('${esc(
+                  name
+                )}','Discografía en EUPB Museo','${esc(
+          shareUrl
+        )}')"><span class="sh-ic">✈️</span>TELEGRAM</button>
+                <button class="sh-opt" onclick="window._cpLink('${esc(
+                  name
+                )}','${esc(
+          shareUrl
+        )}',this)"><span class="sh-ic">📋</span>COPIAR LINK</button>
+                <button class="sh-opt" onclick="window._shareNative('${esc(
+                  name
+                )} — EUPB Museo','${esc(
+          shareUrl
+        )}')"><span class="sh-ic">📤</span>MÁS OPCIONES...</button>
+              </div>
+            </div>
+          </div>
+        </div>`;
+
+        // ═ VALORAR ═
+        h += `<div class="art-section">
+          <div class="art-section-hd">VALORAR</div>
+          <div class="art-section-body art-vote-row">
+            <button class="vb ${
+              localStorage.getItem("artvote_" + artSlug) === "like" ? "on" : ""
+            }" onclick="event.stopPropagation();window._vtArt('${esc(
+          artSlug
+        )}','like')">👍</button>
+            <div class="art-vote-score">
+              <div class="vsc">${gass(artSlug) > 0 ? "+" : ""}${gass(
+          artSlug
+        )}</div>
+              <div class="vlb">PUNTUACIÓN</div>
+            </div>
+            <button class="vb ${
+              localStorage.getItem("artvote_" + artSlug) === "dislike"
+                ? "on"
+                : ""
+            }" onclick="event.stopPropagation();window._vtArt('${esc(
+          artSlug
+        )}','dislike')">👎</button>
+            <div class="art-vote-detail">${gasv(artSlug).likes || 0} 👍 · ${
+          gasv(artSlug).dislikes || 0
+        } 👎</div>
+          </div>
+        </div>`;
+
+        // ═ VIDEOCLIPS ═
+        if (prof.videos && prof.videos.length) {
+          h += `<div class="art-sct-hd"><div class="yn">VIDEOCLIPS</div><div class="yl"></div></div>
+          <div class="art-videos">${prof.videos
+            .map(
+              (v) =>
+                `<div class="art-vid" onclick="window._vidOpen('${esc(
+                  v.youtube
+                )}','${esc(v.title)}')">
+              <div class="art-vid-thumb">
+                <img src="https://img.youtube.com/vi/${esc(
+                  v.youtube
+                )}/hqdefault.jpg" alt="${esc(v.title)}" loading="lazy">
+                <div class="art-vid-play"></div>
+              </div>
+              <div class="art-vid-title">${esc(v.title)}</div>
+            </div>`
+            )
+            .join("")}</div>`;
+        }
+
+        // ═ DISCOGRAPHY ═
+        h += `<div class="art-disc-hd"><div class="yn">DISCOGRAFÍA</div><div class="yl"></div></div>
+        <div class="grd">${discos
+          .sort((a, b) => a.year - b.year)
+          .map(cdArt)
+          .join("")}</div>`;
+
+        // ═ PHOTO GALLERY ═
+        if (prof.photos && prof.photos.length) {
+          h += `<div class="art-sct-hd"><div class="yn">GALERÍA</div><div class="yl"></div></div>
+          <div class="art-photos">${prof.photos
+            .map(
+              (p, i) =>
+                `<div class="art-ph" onclick="window._phOpen(${i})">
+              <img src="${esc(p)}" alt="Foto ${i + 1}" loading="lazy">
+            </div>`
+            )
+            .join("")}</div>`;
+        }
+
+        // ═ COMMENTS ═
+        h += `<div class="sct" style="margin-top:20px">COMENTARIOS</div>
+        <div id="art-cmts"><div class="empty" style="padding:12px 0"><p>CARGANDO...</p></div></div>
+        <div class="cf"><input type="text" id="art-ci" placeholder="Escribe un comentario sobre ${esc(
+          name
+        )}..." maxlength="200"><button class="cfs" onclick="window._cmArt('${esc(
+          artSlug
+        )}')">ENVIAR</button></div>`;
+
+        document.getElementById("art-content").innerHTML = h;
+        document.getElementById("art-back").textContent =
+          artCameFrom === "artistas" ? "← ARTISTAS" : "← CATÁLOGO";
+        switchView("artist");
+        document.title = `${name} | EUPB Museo`;
+        window.scrollTo({ top: 0, behavior: "smooth" });
+
+        // Wire card clicks in artist view
+        document.querySelectorAll("#art-content .cd").forEach((x) => {
+          x.onclick = () => window._o(x.dataset.id);
+        });
+
+        // Store current photos for lightbox navigation
+        window._artPhotos = prof.photos || [];
+
+        // Load artist comments
+        loadArtComments(artSlug);
+      }
+
+      // ═ VIDEO LIGHTBOX ═
+      window._vidOpen = function (ytId, title) {
+        const lb = document.getElementById("vid-lb");
+        document.getElementById(
+          "vid-lb-frame"
+        ).innerHTML = `<iframe src="https://www.youtube.com/embed/${ytId}?autoplay=1&rel=0" allow="autoplay; encrypted-media" allowfullscreen></iframe>`;
+        document.getElementById("vid-lb-title").textContent = title;
+        lb.classList.add("on");
+        document.body.style.overflow = "hidden";
+      };
+      window._vidClose = function () {
+        const lb = document.getElementById("vid-lb");
+        lb.classList.remove("on");
+        document.getElementById("vid-lb-frame").innerHTML = "";
+        document.body.style.overflow = "";
+      };
+
+      // ═ PHOTO LIGHTBOX ═
+      let phIdx = 0;
+      window._phOpen = function (idx) {
+        const photos = window._artPhotos || [];
+        if (!photos.length) return;
+        phIdx = idx;
+        _phShow();
+        document.getElementById("ph-lb").classList.add("on");
+        document.body.style.overflow = "hidden";
+      };
+      window._phClose = function () {
+        document.getElementById("ph-lb").classList.remove("on");
+        document.body.style.overflow = "";
+      };
+      window._phNav = function (dir) {
+        const photos = window._artPhotos || [];
+        if (!photos.length) return;
+        phIdx = (phIdx + dir + photos.length) % photos.length;
+        _phShow();
+      };
+      function _phShow() {
+        const photos = window._artPhotos || [];
+        document.getElementById("ph-lb-img").src = photos[phIdx];
+        document.getElementById("ph-lb-count").textContent = `${phIdx + 1} / ${
+          photos.length
+        }`;
+      }
+
+      // Keyboard support for lightboxes
+      document.addEventListener("keydown", (e) => {
+        if (document.getElementById("vid-lb").classList.contains("on")) {
+          if (e.key === "Escape") window._vidClose();
+        }
+        if (document.getElementById("ph-lb").classList.contains("on")) {
+          if (e.key === "Escape") window._phClose();
+          if (e.key === "ArrowLeft") window._phNav(-1);
+          if (e.key === "ArrowRight") window._phNav(1);
+        }
+      });
+
+      // ═ ARTIST VOTES & COMMENTS ═
+      let artVotes = {};
+      async function loadArtVotes() {
+        try {
+          const s = await fs.collection("votos_artistas").get();
+          s.forEach((d) => {
+            artVotes[d.id] = d.data();
+          });
+        } catch (e) {
+          console.error(e);
+        }
+      }
+      function gasv(slug) {
+        return artVotes[slug] || { likes: 0, dislikes: 0 };
+      }
+      function gass(slug) {
+        const v = gasv(slug);
+        return (v.likes || 0) - (v.dislikes || 0);
+      }
+
+      window._vtArt = async function (artSlug, type) {
+        const key = "artvote_" + artSlug;
+        const ex = localStorage.getItem(key);
+        if (ex === type) return;
+        try {
+          const r = fs.collection("votos_artistas").doc(artSlug),
+            u = {};
+          if (ex)
+            u[ex === "like" ? "likes" : "dislikes"] =
+              firebase.firestore.FieldValue.increment(-1);
+          u[type === "like" ? "likes" : "dislikes"] =
+            firebase.firestore.FieldValue.increment(1);
+          await r.set(u, { merge: true });
+          localStorage.setItem(key, type);
+          if (!artVotes[artSlug]) artVotes[artSlug] = { likes: 0, dislikes: 0 };
+          if (ex) artVotes[artSlug][ex === "like" ? "likes" : "dislikes"]--;
+          artVotes[artSlug][type === "like" ? "likes" : "dislikes"]++;
+          // Re-render artist page
+          showArtist(artSlug);
+        } catch (e) {
+          console.error(e);
+        }
+      };
+
+      async function loadArtComments(artSlug) {
+        try {
+          const s = await fs
+            .collection("comentarios_artistas")
+            .doc(artSlug)
+            .collection("items")
+            .orderBy("ts", "desc")
+            .limit(20)
+            .get();
+          const c = document.getElementById("art-cmts");
+          if (!c) return;
+          if (s.empty) {
+            c.innerHTML =
+              '<div class="empty" style="padding:12px 0"><div class="ic">💬</div><p>SÉ EL PRIMERO EN COMENTAR</p></div>';
+            return;
+          }
+          c.innerHTML = "";
+          s.forEach((d) => {
+            const x = d.data(),
+              dt = x.ts
+                ? new Date(x.ts.seconds * 1000).toLocaleDateString("es-ES")
+                : "";
+            c.innerHTML += `<div class="cmt"><div class="cmt-w">${
+              x.nombre || "ANÓNIMO"
+            }</div><div class="cmt-t">${esc(
+              x.texto || ""
+            )}</div><div class="cmt-d">${dt}</div></div>`;
+          });
+        } catch (e) {
+          const c = document.getElementById("art-cmts");
+          if (c)
+            c.innerHTML =
+              '<div class="empty" style="padding:12px 0"><p>ERROR</p></div>';
+        }
+      }
+
+      window._cmArt = async function (artSlug) {
+        const i = document.getElementById("art-ci"),
+          t = i.value.trim();
+        if (!t) return;
+        try {
+          const nombre =
+            (catUser && catUser.displayName) ||
+            localStorage.getItem("eupb_nombre") ||
+            "ANÓNIMO";
+          const uid = catUser ? catUser.uid : null;
+          await fs
+            .collection("comentarios_artistas")
+            .doc(artSlug)
+            .collection("items")
+            .add({
+              nombre: nombre,
+              texto: t,
+              uid: uid,
+              ts: firebase.firestore.FieldValue.serverTimestamp(),
+            });
+          i.value = "";
+          loadArtComments(artSlug);
+        } catch (e) {
+          console.error(e);
+        }
+      };
+
+      // ═ ARTISTAS LIST VIEW ═
+      let artSort = "alpha",
+        artQ = "";
+      function getArtistList() {
+        let list = Object.keys(slugToArtist).map((slug) => {
+          const discos = slugToArtist[slug];
+          // Resolve artist name: check if slug matches main artist or aa
+          let name = discos[0].a;
+          // If this slug doesn't match the main artist of the first disco,
+          // it's an aa artist — find the correct name
+          if (slug !== discos[0].slugA) {
+            for (const d of discos) {
+              if (d.aa) {
+                const found = d.aa.find((n) => slug === slugFn(n));
+                if (found) {
+                  name = found;
+                  break;
+                }
+              }
+            }
+          }
+          const cities = [...new Set(discos.map((d) => d.o))];
+          const best = [...discos].sort((a, b) => gs(b.id) - gs(a.id))[0];
+          const discScore = discos.reduce((s, d) => s + gs(d.id), 0);
+          const artScore = gass(slug);
+          return {
+            slug,
+            name,
+            cities,
+            avatar:
+              (ARTIST_PROFILES[slug] && ARTIST_PROFILES[slug].photo) ||
+              cov(best.cover),
+            count: discos.length,
+            discScore,
+            artScore,
+            totalScore: discScore + artScore,
+          };
+        });
+        if (artQ) {
+          const s = artQ.toLowerCase();
+          list = list.filter(
+            (a) =>
+              a.name.toLowerCase().includes(s) ||
+              a.cities.some((c) => c.toLowerCase().includes(s))
+          );
+        }
+        if (artSort === "alpha")
+          list.sort((a, b) => a.name.localeCompare(b.name));
+        else if (artSort === "discos") list.sort((a, b) => b.count - a.count);
+        else if (artSort === "score")
+          list.sort(
+            (a, b) => b.artScore - a.artScore || b.discScore - a.discScore
+          );
+        return list;
+      }
+
+      let artViewMode = "grid";
+
+      // View mode button handlers
+      document.querySelectorAll(".art-vbtn").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          artViewMode = btn.dataset.av;
+          document
+            .querySelectorAll(".art-vbtn")
+            .forEach((b) => b.classList.remove("on"));
+          btn.classList.add("on");
+          renderArtistas();
+        });
+      });
+
+      function renderArtistas() {
+        const list = getArtistList();
+        document.getElementById("art-count").textContent =
+          list.length + " ARTISTAS";
+        const el = document.getElementById("artlist");
+
+        if (artViewMode === "list") {
+          el.className = "";
+          el.innerHTML = list
+            .map(
+              (a) =>
+                `<div class="arti" onclick="window._art('${a.slug}')">
+              <img class="arti-av" src="${a.avatar}" alt="${esc(
+                  a.name
+                )}" loading="lazy">
+              <div class="arti-info">
+                <div class="arti-name">${esc(a.name)}</div>
+                <div class="arti-meta"><span>📍 ${a.cities.join(
+                  ", "
+                )}</span><span>💿 ${a.count}</span></div>
+              </div>
+              <div class="arti-sc">${a.artScore > 0 ? "+" : ""}${
+                  a.artScore || "—"
+                }</div>
+            </div>`
+            )
+            .join("");
+        } else if (artViewMode === "grid") {
+          el.className = "artgrid";
+          el.innerHTML = list
+            .map((a) => {
+              const prof = ARTIST_PROFILES[a.slug];
+              const tags =
+                prof && prof.tags
+                  ? prof.tags
+                      .slice(0, 3)
+                      .map((t) => `<span class="artic-tag">${esc(t)}</span>`)
+                      .join("")
+                  : "";
+              return `<div class="artic" onclick="window._art('${a.slug}')">
+              <div class="artic-av-wrap"><img class="artic-av" src="${
+                a.avatar
+              }" alt="${esc(a.name)}" loading="lazy"></div>
+              <div class="artic-bd">
+                <div class="artic-name">${esc(a.name)}</div>
+                <div class="artic-meta">📍 ${a.cities.join(", ")} · 💿 ${
+                a.count
+              }</div>
+                <div class="artic-sc">${a.artScore > 0 ? "+" : ""}${
+                a.artScore || "—"
+              } ♥</div>
+                ${tags ? `<div class="artic-tags">${tags}</div>` : ""}
+              </div>
+            </div>`;
+            })
+            .join("");
+        } else if (artViewMode === "compact") {
+          el.className = "artcomp";
+          el.innerHTML = list
+            .map(
+              (a) =>
+                `<div class="artcm" onclick="window._art('${a.slug}')">
+              <img class="artcm-av" src="${a.avatar}" alt="${esc(
+                  a.name
+                )}" loading="lazy">
+              <div class="artcm-name">${esc(a.name)}</div>
+              <div class="artcm-sc">${a.artScore > 0 ? "+" : ""}${
+                  a.artScore || "—"
+                }</div>
+            </div>`
+            )
+            .join("");
+        } else if (artViewMode === "wall") {
+          el.className = "artwall";
+          el.innerHTML = list
+            .map(
+              (a) =>
+                `<div class="artwi" onclick="window._art('${a.slug}')">
+              <img src="${a.avatar}" alt="${esc(a.name)}" loading="lazy">
+              <div class="artwi-sc">${a.artScore > 0 ? "+" : ""}${
+                  a.artScore || "—"
+                } ♥</div>
+              <div class="artwi-ov">
+                <div class="artwi-name">${esc(a.name)}</div>
+                <div class="artwi-meta">📍 ${a.cities.join(", ")} · 💿 ${
+                  a.count
+                }</div>
+              </div>
+            </div>`
+            )
+            .join("");
+        }
+      }
+
+      // ═ RANKING WITH TABS ═
+      function rnkArt() {
+        const list = Object.keys(slugToArtist)
+          .map((slug) => {
+            const discos = slugToArtist[slug];
+            let name = discos[0].a;
+            if (slug !== discos[0].slugA) {
+              for (const d of discos) {
+                if (d.aa) {
+                  const found = d.aa.find((n) => slug === slugFn(n));
+                  if (found) {
+                    name = found;
+                    break;
+                  }
+                }
+              }
+            }
+            const best = [...discos].sort((a, b) => gs(b.id) - gs(a.id))[0];
+            const sc = gass(slug);
+            const cities = [...new Set(discos.map((d) => d.o))];
+            return {
+              slug,
+              name,
+              avatar:
+                (ARTIST_PROFILES[slug] && ARTIST_PROFILES[slug].photo) ||
+                cov(best.cover),
+              sc,
+              count: discos.length,
+              city: cities[0] || "",
+            };
+          })
+          .sort((a, b) => b.sc - a.sc);
+        const mx = Math.max(1, ...list.map((a) => Math.abs(a.sc)));
+        document.getElementById("rklist-art").innerHTML = list
+          .map(
+            (a, i) =>
+              `<div class="rki" onclick="window._art('${a.slug}')">
+            <div class="rk-p ${i < 3 ? "t3" : ""}">#${i + 1}</div>
+            <img class="rk-i" src="${a.avatar}" alt="${esc(
+                a.name
+              )}" loading="lazy" style="border-radius:50%">
+            <div class="rk-n"><div class="rk-a">${esc(
+              a.name
+            )}</div><div class="rk-al">${a.city} · ${a.count} disco${
+                a.count > 1 ? "s" : ""
+              }</div><div class="rk-bar"><div class="rk-fill" style="width:0%"></div></div></div>
+            <div class="rk-sc">${a.sc > 0 ? "+" : ""}${a.sc}</div>
+          </div>`
+          )
+          .join("");
+        setTimeout(() => {
+          document.querySelectorAll("#rklist-art .rk-fill").forEach((b, i) => {
+            b.style.width = Math.max(0, (list[i].sc / mx) * 100) + "%";
+          });
+        }, 50);
+      }
+
+      // ═ VIEW SWITCHING ═
+      function switchView(v) {
+        document.getElementById("v-cat").classList.toggle("vh", v !== "cat");
+        document.getElementById("v-rank").classList.toggle("vh", v !== "rank");
+        document
+          .getElementById("v-artistas")
+          .classList.toggle("vh", v !== "artistas");
+        document
+          .getElementById("v-artist")
+          .classList.toggle("vh", v !== "artist");
+        document
+          .getElementById("v-perfil")
+          .classList.toggle("vh", v !== "perfil");
+        // Hero, dotd, sbar only in catalog
+        const catOnly = v === "cat";
+        document.querySelector(".hero").style.display = catOnly ? "" : "none";
+        document.getElementById("dotd").style.display = catOnly ? "" : "none";
+        document.getElementById("sbar").style.display = catOnly ? "" : "none";
+        document
+          .querySelectorAll(".nl[data-v]")
+          .forEach((x) => x.classList.remove("on"));
+        const navLink = document.querySelector(`.nl[data-v="${v}"]`);
+        if (navLink) navLink.classList.add("on");
+      }
+
+      // Views
+      document.querySelectorAll(".nl[data-v]").forEach((l) => {
+        l.onclick = (e) => {
+          e.preventDefault();
+          const v = l.dataset.v;
+          if (v === "rank") {
+            pushHash("#ranking");
+            switchView("rank");
+            rnk();
+          } else if (v === "artistas") {
+            pushHash("#artistas");
+            switchView("artistas");
+            renderArtistas();
+          } else if (v === "perfil") {
+            pushHash("#perfil");
+            switchView("perfil");
+            renderCatalogoPerfil();
+          } else {
+            pushHash(location.pathname);
+            switchView("cat");
+          }
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        };
+      });
+
+      // ═ MOBILE DRAWER ═
+      const drawerEl = document.getElementById("drawer");
+      const drawerOverlay = document.getElementById("drawer-overlay");
+      const burgerBtn = document.getElementById("hdr-burger");
+      const drawerX = document.getElementById("drawer-x");
+
+      function openDrawer() {
+        drawerEl.classList.add("open");
+        drawerOverlay.classList.add("open");
+        burgerBtn.classList.add("open");
+        document.body.style.overflow = "hidden";
+      }
+      function closeDrawer() {
+        drawerEl.classList.remove("open");
+        drawerOverlay.classList.remove("open");
+        burgerBtn.classList.remove("open");
+        document.body.style.overflow = "";
+      }
+      burgerBtn.addEventListener("click", () => {
+        drawerEl.classList.contains("open") ? closeDrawer() : openDrawer();
+      });
+      drawerX.addEventListener("click", closeDrawer);
+      drawerOverlay.addEventListener("click", closeDrawer);
+
+      // Drawer link clicks
+      document.querySelectorAll(".drawer-link[data-v]").forEach((l) => {
+        l.onclick = (e) => {
+          e.preventDefault();
+          closeDrawer();
+          const v = l.dataset.v;
+          if (v === "rank") {
+            pushHash("#ranking");
+            switchView("rank");
+            rnk();
+          } else if (v === "artistas") {
+            pushHash("#artistas");
+            switchView("artistas");
+            renderArtistas();
+          } else if (v === "perfil") {
+            pushHash("#perfil");
+            switchView("perfil");
+            renderCatalogoPerfil();
+          } else {
+            pushHash(location.pathname);
+            switchView("cat");
+          }
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        };
+      });
+
+      // Sync drawer active state with header nav
+      const origSwitchView = switchView;
+      switchView = function (v) {
+        origSwitchView(v);
+        document
+          .querySelectorAll(".drawer-link[data-v]")
+          .forEach((x) => x.classList.remove("on"));
+        const dl = document.querySelector(`.drawer-link[data-v="${v}"]`);
+        if (dl) dl.classList.add("on");
+      };
+
+      // Artist view back button
+      let artCameFrom = "cat";
+      document.getElementById("art-back").onclick = () => {
+        if (artCameFrom === "artistas") {
+          pushHash("#artistas");
+          switchView("artistas");
+          renderArtistas();
+        } else {
+          pushHash(location.pathname);
+          switchView("cat");
+        }
+        document.title =
+          "EUPB Museo — Archivo Digital del Rap en Español (2010-2019)";
+      };
+
+      document.getElementById("q").addEventListener("input", (e) => {
+        q = e.target.value.trim();
+        ren();
+      });
+      document.getElementById("srt").addEventListener("change", (e) => {
+        srt = e.target.value;
+        ren();
+      });
+      document.getElementById("rnd").onclick = () => {
+        const a = all[Math.floor(Math.random() * all.length)];
+        window._o(a.id);
+      };
+
+      // Ranking tabs
+      document.querySelectorAll(".rk-tab").forEach((t) => {
+        t.onclick = () => {
+          document
+            .querySelectorAll(".rk-tab")
+            .forEach((x) => x.classList.remove("on"));
+          t.classList.add("on");
+          const isArt = t.dataset.rk === "artistas";
+          document.getElementById("rklist").classList.toggle("vh", isArt);
+          document.getElementById("rklist-art").classList.toggle("vh", !isArt);
+          if (isArt) rnkArt();
+        };
+      });
+
+      // Artist list search/sort
+      document.getElementById("q-art").addEventListener("input", (e) => {
+        artQ = e.target.value.trim();
+        renderArtistas();
+      });
+      document.getElementById("srt-art").addEventListener("change", (e) => {
+        artSort = e.target.value;
+        renderArtistas();
+      });
+
+      // ═ URL ROUTER ═
+      function route() {
+        const h = getHash();
+        // #disco/2015/artista-slug/titulo-slug
+        if (h.startsWith("disco/")) {
+          const key = h.replace("disco/", "");
+          const album = slugToAlbum[key];
+          if (album) {
+            window._o(album.id, true, _fromRandom);
+            return;
+          }
+        }
+        // #artista/artista-slug
+        if (h.startsWith("artista/")) {
+          const artSlug = h.replace("artista/", "");
+          if (slugToArtist[artSlug]) {
+            showArtist(artSlug);
+            return;
+          }
+        }
+        // #ranking
+        if (h === "ranking") {
+          switchView("rank");
+          rnk();
+          return;
+        }
+        // #artistas
+        if (h === "artistas") {
+          switchView("artistas");
+          renderArtistas();
+          return;
+        }
+        // #perfil
+        if (h === "perfil") {
+          switchView("perfil");
+          renderCatalogoPerfil();
+          return;
+        }
+        // Default: catalog — close modal silently (no history push)
+        document.getElementById("mo").classList.remove("show");
+        const _sy = parseInt(document.body.dataset.scrollY || "0");
+        document.body.style.position = "";
+        document.body.style.top = "";
+        document.body.style.left = "";
+        document.body.style.right = "";
+        document.body.style.overflow = "";
+        window.scrollTo(0, _sy);
+        switchView("cat");
+        document.title =
+          "EUPB Museo — Archivo Digital del Rap en Español (2010-2019)";
+      }
+
+      // ═ AUTH + PERFIL for Catálogo ═
+      auth.onAuthStateChanged(function (user) {
+        catUser = user;
+        var navP = document.getElementById("nav-perfil");
+        var navPD = document.getElementById("nav-perfil-drawer");
+        var label = user
+          ? (user.displayName || "MI PERFIL").toUpperCase().substring(0, 12)
+          : "MI PERFIL";
+        if (navP) navP.textContent = label;
+        if (navPD) navPD.textContent = label;
+      });
+
+      window._catLogin = async function () {
+        try {
+          var result = await auth.signInWithPopup(
+            new firebase.auth.GoogleAuthProvider()
+          );
+          catUser = result.user;
+          renderCatalogoPerfil();
+        } catch (e) {}
+      };
+      window._catLogout = function () {
+        auth.signOut().then(function () {
+          catUser = null;
+          renderCatalogoPerfil();
+        });
+      };
+
+      function renderCatalogoPerfil() {
+        var c = document.getElementById("perfil-page-content");
+        if (!c) return;
+
+        if (!catUser) {
+          // Not logged in — show login prompt
+          c.innerHTML =
+            '<div style="text-align:center;padding:clamp(40px,10vh,80px) 20px">' +
+            '<div style="font-size:3rem;margin-bottom:16px">👤</div>' +
+            '<div class="art-name" style="margin-bottom:8px">MI PERFIL</div>' +
+            '<p style="color:rgba(255,255,255,0.3);font-family:var(--fd);font-size:clamp(0.5rem,1.2vw,0.65rem);letter-spacing:0.08em;max-width:400px;margin:0 auto 24px;line-height:1.7">Inicia sesión con Google para ver tu perfil, tus votos, y sincronizar tu progreso entre dispositivos</p>' +
+            '<button class="sh-trigger" style="opacity:1;margin:0 auto" onclick="window._catLogin()"><svg viewBox="0 0 24 24" width="16" height="16"><path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92a5.06 5.06 0 01-2.2 3.32v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.1z" fill="#4285F4"/><path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" fill="#34A853"/><path d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z" fill="#FBBC05"/><path d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z" fill="#EA4335"/></svg> ENTRAR CON GOOGLE</button></div>';
+          document.title = "Mi Perfil | EUPB Museo";
+          return;
+        }
+
+        // Logged in — load profile from Firestore
+        fs.collection("usuarios")
+          .doc(catUser.uid)
+          .get()
+          .then(function (doc) {
+            var d = doc.exists ? doc.data() : {};
+            // Restore votes from Firebase to localStorage
+            if (d.votos) {
+              Object.keys(d.votos).forEach(function (k) {
+                if (!localStorage.getItem(k))
+                  localStorage.setItem(k, d.votos[k]);
+              });
+            }
+            var nombre = d.nombre || catUser.displayName || "JUGADOR";
+            var puntos = d.puntos || 0;
+            var misiones = d.misiones || [];
+            var logros = d.logros || [];
+            var graffCount = d.graffitiCount || 0;
+            var votos = d.votos || {};
+            var hasEnt = d.hasEntrada || false;
+
+            var avatar = catUser.photoURL
+              ? '<img class="art-avatar" src="' +
+                catUser.photoURL +
+                '" alt="" style="border-radius:50%">'
+              : "";
+
+            var votosArr = [];
+            Object.keys(votos).forEach(function (k) {
+              var parts = k.replace("voto_", "").split("_");
+              var yr = parts[0],
+                idx = parseInt(parts[1]);
+              if (DB[yr] && DB[yr][idx]) {
+                votosArr.push({
+                  a: DB[yr][idx].a,
+                  t: DB[yr][idx].t,
+                  cover: DB[yr][idx].cover,
+                  tipo: votos[k],
+                  year: yr,
+                  idx: idx,
+                });
+              }
+            });
+
+            var h =
+              '<div class="bread">' +
+              '<a href="#" class="bread-link" data-go="cat">INICIO</a>' +
+              '<span class="bread-sep">›</span>' +
+              '<span class="bread-cur">MI PERFIL</span>' +
+              "</div>" +
+              '<div class="art-hdr">' +
+              avatar +
+              '<div class="art-info"><div class="art-name">' +
+              esc(nombre) +
+              "</div>" +
+              '<div class="art-meta">' +
+              '<span class="art-chip" style="background:rgba(46,204,113,0.1);border-color:rgba(46,204,113,0.3);color:#2ecc71">☁️ SINCRONIZADO</span>' +
+              (hasEnt ? '<span class="art-chip red">🎟️ ENTRADA</span>' : "") +
+              '<span class="art-chip">' +
+              (catUser.email || "") +
+              "</span>" +
+              "</div>" +
+              '<div class="art-stat-row">' +
+              '<div class="art-st"><div class="art-st-n" style="color:#ed1c24">' +
+              puntos +
+              '</div><div class="art-st-l">PUNTOS</div></div>' +
+              '<div class="art-st"><div class="art-st-n" style="color:#ed1c24">' +
+              misiones.length +
+              '</div><div class="art-st-l">MISIONES</div></div>' +
+              '<div class="art-st"><div class="art-st-n" style="color:#ed1c24">' +
+              logros.length +
+              '</div><div class="art-st-l">LOGROS</div></div>' +
+              '<div class="art-st"><div class="art-st-n" style="color:#ed1c24">' +
+              graffCount +
+              '</div><div class="art-st-l">GRAFFITIS</div></div>' +
+              '<div class="art-st"><div class="art-st-n" style="color:#ed1c24">' +
+              votosArr.length +
+              '</div><div class="art-st-l">V. DISCOS</div></div>' +
+              '<div class="art-st"><div class="art-st-n" style="color:#ed1c24">' +
+              Object.keys(localStorage).filter(function (k) {
+                return k.startsWith("artvote_");
+              }).length +
+              '</div><div class="art-st-l">V. ARTISTAS</div></div>' +
+              "</div></div></div>";
+
+            if (votosArr.length) {
+              h +=
+                '<div class="art-disc-hd"><div class="yn">MIS VOTOS A DISCOS (' +
+                votosArr.length +
+                ')</div><div class="yl"></div></div>' +
+                '<div class="grd">';
+              votosArr.forEach(function (v) {
+                var a = all.find(function (x) {
+                  return x.year == v.year && x.idx == v.idx;
+                });
+                if (a) {
+                  var sc = gs(a.id),
+                    cl = sc > 0 ? "pos" : sc < 0 ? "neg" : "zer";
+                  h +=
+                    '<article class="cd" data-id="' +
+                    a.id +
+                    '">' +
+                    '<div class="cd-iw"><img class="cd-img" src="' +
+                    cov(a.cover) +
+                    '" alt="' +
+                    esc(a.displayA || a.a) +
+                    '" loading="lazy"><div class="cd-ov"><div class="cd-play">' +
+                    (v.tipo === "like" ? "👍" : "👎") +
+                    "</div></div></div>" +
+                    '<div class="cd-bd"><div class="cd-a">' +
+                    esc(a.displayA || a.a) +
+                    '</div><div class="cd-t">' +
+                    esc(a.t) +
+                    "</div>" +
+                    '<div class="cd-ft"><span class="cd-o">' +
+                    a.o +
+                    '</span><span class="cd-v ' +
+                    cl +
+                    '">' +
+                    (sc > 0 ? "+" : "") +
+                    sc +
+                    " ♥</span></div></div></article>";
+                }
+              });
+              h += "</div>";
+            }
+
+            // ═ ARTIST VOTES SECTION ═
+            var artVotosArr = [];
+            Object.keys(localStorage).forEach(function (k) {
+              if (k.startsWith("artvote_")) {
+                var artSlug = k.replace("artvote_", "");
+                var tipo = localStorage.getItem(k);
+                if (slugToArtist[artSlug]) {
+                  var discos = slugToArtist[artSlug];
+                  // Resolve name
+                  var artName = discos[0].a;
+                  if (artSlug !== discos[0].slugA) {
+                    for (var di = 0; di < discos.length; di++) {
+                      if (discos[di].aa) {
+                        var found = discos[di].aa.find(function (n) {
+                          return slugFn(n) === artSlug;
+                        });
+                        if (found) {
+                          artName = found;
+                          break;
+                        }
+                      }
+                    }
+                  }
+                  var best = discos.slice().sort(function (a, b) {
+                    return gs(b.id) - gs(a.id);
+                  })[0];
+                  var avatar =
+                    (ARTIST_PROFILES[artSlug] &&
+                      ARTIST_PROFILES[artSlug].photo) ||
+                    cov(best.cover);
+                  artVotosArr.push({
+                    slug: artSlug,
+                    name: artName,
+                    avatar: avatar,
+                    tipo: tipo,
+                    count: discos.length,
+                    sc: gass(artSlug),
+                  });
+                }
+              }
+            });
+
+            if (artVotosArr.length) {
+              h +=
+                '<div class="art-disc-hd"><div class="yn">MIS VOTOS A ARTISTAS (' +
+                artVotosArr.length +
+                ')</div><div class="yl"></div></div>' +
+                '<div style="display:flex;flex-direction:column;gap:2px">';
+              artVotosArr.forEach(function (av) {
+                h +=
+                  '<div class="arti" onclick="window._art(\'' +
+                  av.slug +
+                  "')\">" +
+                  '<img class="arti-av" src="' +
+                  av.avatar +
+                  '" alt="' +
+                  esc(av.name) +
+                  '" loading="lazy">' +
+                  '<div class="arti-info">' +
+                  '<div class="arti-name">' +
+                  esc(av.name) +
+                  "</div>" +
+                  '<div class="arti-meta"><span>' +
+                  (av.tipo === "like" ? "👍" : "👎") +
+                  "</span><span>💿 " +
+                  av.count +
+                  "</span></div>" +
+                  "</div>" +
+                  '<div class="arti-sc">' +
+                  (av.sc > 0 ? "+" : "") +
+                  (av.sc || "—") +
+                  "</div>" +
+                  "</div>";
+              });
+              h += "</div>";
+            }
+
+            // ═ PERSONAL STATS ═
+            if (votosArr.length) {
+              // Year stats
+              var yearCount = {};
+              var cityCount = {};
+              var labelCount = {};
+              var likedDiscos = [];
+              votosArr.forEach(function (v) {
+                var a = all.find(function (x) {
+                  return x.year == v.year && x.idx == v.idx;
+                });
+                if (!a) return;
+                yearCount[a.year] = (yearCount[a.year] || 0) + 1;
+                cityCount[a.o] = (cityCount[a.o] || 0) + 1;
+                if (a.l) labelCount[a.l] = (labelCount[a.l] || 0) + 1;
+                if (v.tipo === "like") likedDiscos.push(a);
+              });
+
+              var topYear = Object.entries(yearCount).sort(function (a, b) {
+                return b[1] - a[1];
+              })[0];
+              var topCity = Object.entries(cityCount).sort(function (a, b) {
+                return b[1] - a[1];
+              })[0];
+              var topLabel = Object.entries(labelCount).sort(function (a, b) {
+                return b[1] - a[1];
+              })[0];
+              var likesCount = votosArr.filter(function (v) {
+                return v.tipo === "like";
+              }).length;
+              var dislikesCount = votosArr.filter(function (v) {
+                return v.tipo === "dislike";
+              }).length;
+
+              // Years covered
+              var yearsVoted = Object.keys(yearCount).sort();
+              var yearRange =
+                yearsVoted.length > 1
+                  ? yearsVoted[0] + "—" + yearsVoted[yearsVoted.length - 1]
+                  : yearsVoted[0] || "—";
+
+              h +=
+                '<div class="art-disc-hd"><div class="yn">TUS ESTADÍSTICAS</div><div class="yl"></div></div>';
+              h += '<div class="prf-stats">';
+
+              h +=
+                '<div class="prf-stat">' +
+                '<div class="prf-stat-icon">📅</div>' +
+                '<div class="prf-stat-info">' +
+                '<div class="prf-stat-val">' +
+                (topYear ? topYear[0] : "—") +
+                "</div>" +
+                '<div class="prf-stat-lbl">AÑO FAVORITO <span>(' +
+                (topYear ? topYear[1] + " votos" : "") +
+                ")</span></div>" +
+                "</div></div>";
+
+              h +=
+                '<div class="prf-stat">' +
+                '<div class="prf-stat-icon">📍</div>' +
+                '<div class="prf-stat-info">' +
+                '<div class="prf-stat-val">' +
+                (topCity ? topCity[0] : "—") +
+                "</div>" +
+                '<div class="prf-stat-lbl">CIUDAD FAVORITA <span>(' +
+                (topCity ? topCity[1] + " votos" : "") +
+                ")</span></div>" +
+                "</div></div>";
+
+              if (topLabel) {
+                h +=
+                  '<div class="prf-stat">' +
+                  '<div class="prf-stat-icon">💿</div>' +
+                  '<div class="prf-stat-info">' +
+                  '<div class="prf-stat-val">' +
+                  topLabel[0] +
+                  "</div>" +
+                  '<div class="prf-stat-lbl">SELLO FAVORITO <span>(' +
+                  topLabel[1] +
+                  " votos)</span></div>" +
+                  "</div></div>";
+              }
+
+              h +=
+                '<div class="prf-stat">' +
+                '<div class="prf-stat-icon">👍</div>' +
+                '<div class="prf-stat-info">' +
+                '<div class="prf-stat-val">' +
+                likesCount +
+                " / " +
+                dislikesCount +
+                "</div>" +
+                '<div class="prf-stat-lbl">LIKES VS DISLIKES</div>' +
+                "</div></div>";
+
+              h +=
+                '<div class="prf-stat">' +
+                '<div class="prf-stat-icon">🗓️</div>' +
+                '<div class="prf-stat-info">' +
+                '<div class="prf-stat-val">' +
+                yearRange +
+                "</div>" +
+                '<div class="prf-stat-lbl">RANGO DE AÑOS VOTADOS <span>(' +
+                yearsVoted.length +
+                " años)</span></div>" +
+                "</div></div>";
+
+              // Unique cities and artists voted
+              var uniqueCities = Object.keys(cityCount).length;
+              var uniqueArtists = {};
+              votosArr.forEach(function (v) {
+                var a = all.find(function (x) {
+                  return x.year == v.year && x.idx == v.idx;
+                });
+                if (a) uniqueArtists[a.slugA] = true;
+              });
+
+              h +=
+                '<div class="prf-stat">' +
+                '<div class="prf-stat-icon">🎤</div>' +
+                '<div class="prf-stat-info">' +
+                '<div class="prf-stat-val">' +
+                Object.keys(uniqueArtists).length +
+                " artistas · " +
+                uniqueCities +
+                " ciudades</div>" +
+                '<div class="prf-stat-lbl">DIVERSIDAD DE VOTOS</div>' +
+                "</div></div>";
+
+              h += "</div>";
+            }
+
+            // ═ COMMENT HISTORY ═
+            h +=
+              '<div class="art-disc-hd"><div class="yn">MIS COMENTARIOS</div><div class="yl"></div></div>';
+            h +=
+              '<div id="perfil-comments"><div class="empty" style="padding:12px 0"><p>CARGANDO...</p></div></div>';
+
+            h +=
+              '<div style="text-align:center;margin-top:24px"><button class="sh-trigger" style="opacity:1;color:rgba(255,255,255,0.3)" onclick="window._catLogout()">CERRAR SESIÓN</button></div>';
+
+            c.innerHTML = h;
+            document.title = nombre + " | EUPB Museo";
+
+            // Wire clicks on voted albums
+            c.querySelectorAll(".cd").forEach(function (x) {
+              x.onclick = function () {
+                window._o(x.dataset.id);
+              };
+            });
+
+            // Load user's comments from Firebase (both discos and artists)
+            var allComments = [];
+            var queries = [
+              fs
+                .collectionGroup("items")
+                .where("uid", "==", catUser.uid)
+                .orderBy("ts", "desc")
+                .limit(50)
+                .get(),
+            ];
+            Promise.all(queries)
+              .then(function (results) {
+                results.forEach(function (snap) {
+                  snap.forEach(function (doc) {
+                    var cm = doc.data();
+                    // Determine if disco or artist comment from parent collection path
+                    var parentCol = doc.ref.parent.parent.parent.id; // "comentarios" or "comentarios_artistas"
+                    var parentId = doc.ref.parent.parent.id; // albumId or artSlug
+                    cm._type =
+                      parentCol === "comentarios_artistas" ? "artist" : "disco";
+                    cm._parentId = parentId;
+                    cm._ts = cm.ts ? cm.ts.toDate() : new Date(0);
+                    allComments.push(cm);
+                  });
+                });
+
+                // Sort all by date desc
+                allComments.sort(function (a, b) {
+                  return b._ts - a._ts;
+                });
+
+                var cc = document.getElementById("perfil-comments");
+                if (!cc) return;
+                if (!allComments.length) {
+                  cc.innerHTML =
+                    '<div class="empty" style="padding:12px 0"><p>💬</p><p>AÚN NO HAS COMENTADO</p></div>';
+                  return;
+                }
+
+                var ch = "";
+                allComments.forEach(function (cm) {
+                  var dateStr = cm._ts
+                    ? cm._ts.toLocaleDateString("es-ES", {
+                        day: "numeric",
+                        month: "short",
+                        year: "numeric",
+                      })
+                    : "";
+                  ch += '<div class="prf-cmt">';
+
+                  if (cm._type === "disco") {
+                    var albumId = cm.albumId || cm._parentId || "";
+                    var parts = albumId.split("_");
+                    var yr = parts[0],
+                      idx = parseInt(parts[1]);
+                    var album = DB[yr] && DB[yr][idx] ? DB[yr][idx] : null;
+                    if (album) {
+                      ch +=
+                        '<div class="prf-cmt-album" onclick="window._o(\'' +
+                        yr +
+                        "_" +
+                        idx +
+                        '\')" style="cursor:pointer">' +
+                        '<img class="prf-cmt-cover" src="' +
+                        cov(album.cover) +
+                        '" alt="" loading="lazy">' +
+                        '<div class="prf-cmt-ref">💿 ' +
+                        esc(album.displayA || album.a) +
+                        " — " +
+                        esc(album.t) +
+                        "</div>" +
+                        "</div>";
+                    }
+                  } else {
+                    // Artist comment
+                    var artSlug = cm._parentId || "";
+                    var artDiscos = slugToArtist[artSlug];
+                    if (artDiscos && artDiscos.length) {
+                      var artName = artDiscos[0].a;
+                      if (artSlug !== artDiscos[0].slugA) {
+                        for (var di = 0; di < artDiscos.length; di++) {
+                          if (artDiscos[di].aa) {
+                            var found = artDiscos[di].aa.find(function (n) {
+                              return slugFn(n) === artSlug;
+                            });
+                            if (found) {
+                              artName = found;
+                              break;
+                            }
+                          }
+                        }
+                      }
+                      var best = artDiscos.slice().sort(function (a, b) {
+                        return gs(b.id) - gs(a.id);
+                      })[0];
+                      var artAvatar =
+                        (ARTIST_PROFILES[artSlug] &&
+                          ARTIST_PROFILES[artSlug].photo) ||
+                        cov(best.cover);
+                      ch +=
+                        '<div class="prf-cmt-album" onclick="window._art(\'' +
+                        artSlug +
+                        '\')" style="cursor:pointer">' +
+                        '<img class="prf-cmt-cover" src="' +
+                        artAvatar +
+                        '" alt="" loading="lazy" style="border-radius:50%">' +
+                        '<div class="prf-cmt-ref">🎤 ' +
+                        esc(artName) +
+                        "</div>" +
+                        "</div>";
+                    }
+                  }
+
+                  ch +=
+                    '<div class="prf-cmt-text">' +
+                    esc(cm.texto || "") +
+                    "</div>";
+                  ch += '<div class="prf-cmt-date">' + dateStr + "</div>";
+                  ch += "</div>";
+                });
+                cc.innerHTML = ch;
+              })
+              .catch(function (e) {
+                console.warn("Error loading comments:", e);
+                var cc = document.getElementById("perfil-comments");
+                if (cc)
+                  cc.innerHTML =
+                    '<div class="empty" style="padding:12px 0"><p>💬</p><p>AÚN NO HAS COMENTADO</p></div>';
+              });
+          });
+      }
+
+      window.addEventListener("popstate", route);
+
+      // ═ FALLBACK FOR BROKEN COVER IMAGES ═
+      document.addEventListener(
+        "error",
+        function (e) {
+          if (e.target.tagName === "IMG" && !e.target.dataset.fallback) {
+            e.target.dataset.fallback = "1";
+            e.target.src = NOCOVER;
+          }
+        },
+        true
+      );
+
+      // ═ BACK TO TOP BUTTON ═
+      const bttBtn = document.getElementById("btt");
+      bttBtn.addEventListener("click", () =>
+        window.scrollTo({ top: 0, behavior: "smooth" })
+      );
+      window.addEventListener(
+        "scroll",
+        () => {
+          bttBtn.classList.toggle("vis", window.scrollY > 400);
+        },
+        { passive: true }
+      );
+
+      // ═ BREADCRUMB NAVIGATION (delegated) ═
+      document.addEventListener("click", function (e) {
+        const link = e.target.closest(".bread-link");
+        if (!link) return;
+        e.preventDefault();
+        e.stopPropagation();
+        const go = link.dataset.go;
+        if (go === "cat") {
+          pushHash(location.pathname);
+          switchView("cat");
+        } else if (go === "artistas") {
+          pushHash("#artistas");
+          switchView("artistas");
+          renderArtistas();
+        }
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+
+      // Init
+      async function init() {
+        mkP();
+        dotd();
+        chips();
+        await loadV();
+        await loadArtVotes();
+        ren();
+
+        // Random disco button
+        var _randHistorial = [];
+        function _elegirDiscoRandom() {
+          var r, intentos = 0;
+          do {
+            r = all[Math.floor(Math.random() * all.length)];
+            intentos++;
+          } while (intentos < 50 && _randHistorial.indexOf(r.id) !== -1);
+          _randHistorial.push(r.id);
+          if (_randHistorial.length > 6) _randHistorial.shift();
+          return r;
+        }
+
+        document.getElementById("hero-random").addEventListener("click", () => {
+          const r = _elegirDiscoRandom();
+          if (r) window._o(r.id, false, true);
+        });
+
+        window._randAgain = function () {
+          const r = _elegirDiscoRandom();
+          if (r) {
+            // Cerrar el modal visualmente para forzar re-render
+            const mo = document.getElementById("mo");
+            mo.classList.remove("show");
+            const scrollY = parseInt(document.body.dataset.scrollY || "0");
+            document.body.style.position = "";
+            document.body.style.top = "";
+            document.body.style.left = "";
+            document.body.style.right = "";
+            document.body.style.overflow = "";
+            window.scrollTo(0, scrollY);
+            requestAnimationFrame(function() {
+              document.querySelector(".mo-in").scrollTop = 0;
+              // skipHash=true + replaceState para no acumular historial
+              window._o(r.id, true, true);
+              if (window._lastPermalink) {
+                history.replaceState(null, "", window._lastPermalink);
+              }
+            });
+          }
+        };
+
+        // Route on load (deep link support)
+        if (location.hash) {
+          route();
+        }
+        // Reveal initial .sr elements
+        document.querySelectorAll(".sr").forEach((el) => {
+          const ob = new IntersectionObserver(
+            ([e]) => {
+              if (e.isIntersecting) {
+                el.classList.add("vis");
+                ob.disconnect();
+              }
+            },
+            { threshold: 0.08 }
+          );
+          ob.observe(el);
+        });
+      }
+      init();
+    </script>
+  </body>
+</html>
