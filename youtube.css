@@ -218,14 +218,15 @@
         position: fixed;
         top: 0;
         right: -280px;
-        width: 260px;
-        height: 100vh;
+        width: 280px;
+        height: 100%;
         background: var(--sf);
-        z-index: 201;
-        transition: right 0.3s var(--ez);
         border-left: 1px solid var(--bd);
+        z-index: 201;
         display: flex;
         flex-direction: column;
+        transition: right 0.35s var(--ez);
+        overflow-y: auto;
       }
       .drawer.open {
         right: 0;
@@ -234,13 +235,13 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding: 16px 20px;
+        padding: 20px 24px;
         border-bottom: 1px solid var(--bd);
       }
       .drawer-logo {
         font-family: var(--fd);
         font-weight: 900;
-        font-size: 0.8rem;
+        font-size: 0.9rem;
         letter-spacing: 0.15em;
         color: var(--w);
       }
@@ -249,45 +250,64 @@
       }
       .drawer-x {
         background: none;
-        border: none;
+        border: 1px solid var(--bd);
         color: var(--gr);
-        font-size: 1.1rem;
-        padding: 4px 8px;
+        width: 32px;
+        height: 32px;
+        font-size: 0.8rem;
+        cursor: pointer;
+        border-radius: 4px;
+        transition: all 0.2s;
+      }
+      .drawer-x:hover {
+        border-color: var(--r);
+        color: var(--r);
       }
       .drawer-links {
         display: flex;
         flex-direction: column;
-        padding: 12px 0;
+        padding: 16px 0;
       }
       .drawer-link {
         font-family: var(--fd);
-        font-size: 0.55rem;
         font-weight: 700;
+        font-size: 0.85rem;
         letter-spacing: 0.12em;
         color: var(--gr);
-        padding: 14px 20px;
-        border-bottom: 1px solid var(--bd);
+        text-decoration: none;
+        padding: 16px 24px;
+        transition: all 0.2s;
+        border-left: 3px solid transparent;
         text-transform: uppercase;
-        transition: color 0.2s;
       }
-      .drawer-link:hover {
+      .drawer-link:hover,
+      .drawer-link:active {
         color: var(--w);
+        background: rgba(237, 28, 36, 0.04);
       }
       .drawer-link.on {
         color: var(--r);
+        border-left-color: var(--r);
+        background: rgba(237, 28, 36, 0.06);
       }
       .drawer-3d {
+        margin: auto 24px 24px;
+        display: block;
+        text-align: center;
         font-family: var(--fd);
-        font-size: 0.52rem;
         font-weight: 700;
+        font-size: 0.75rem;
         letter-spacing: 0.1em;
         background: var(--r);
         color: #fff;
-        padding: 12px 20px;
-        margin: auto 16px 20px;
-        border-radius: 3px;
-        text-align: center;
+        text-decoration: none;
+        padding: 14px 20px;
+        border-radius: 4px;
         box-shadow: 0 0 12px var(--rg);
+        transition: all 0.2s;
+      }
+      .drawer-3d:hover {
+        box-shadow: 0 0 22px var(--rg);
       }
 
       /* SEARCH BAR sticky */
@@ -865,7 +885,7 @@
           gap: 10px;
         }
         .vcard-title {
-          font-size: 0.6rem;
+          font-size: 0.75rem;
         }
       }
       @media (max-width: 360px) {
