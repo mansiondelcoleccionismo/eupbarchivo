@@ -705,7 +705,7 @@
           }" onclick="window._vt('${id}','like')" aria-label="Me gusta">👍</button>
           <div><div class="vsc">${
             s > 0 ? "+" : ""
-          }${s}</div><div class="vlb">PUNTUACIÓN</div></div>
+          }${s}</div><div class="vlb">APOYA</div></div>
           <button class="vb ${
             uv === "dislike" ? "on" : ""
           }" onclick="window._vt('${id}','dislike')" aria-label="No me gusta">👎</button>
@@ -1229,12 +1229,6 @@
                     )}</span>`
                   : ""
               }
-              <span class="art-chip red">${discos.length} DISCO${
-          discos.length > 1 ? "S" : ""
-        } EN ARCHIVO</span>
-              <span class="art-chip">${yearsArr[0]}${
-          yearsArr.length > 1 ? "—" + yearsArr[yearsArr.length - 1] : ""
-        }</span>
             </div>
             <div class="art-stat-row">
               <div class="art-st"><div class="art-st-n">${
@@ -1341,33 +1335,12 @@
           </div>
         </div>`;
 
-        // ═ VALORAR ═
-        h += `<div class="art-section">
-          <div class="art-section-hd">VALORAR</div>
-          <div class="art-section-body art-vote-row">
-            <button class="vb ${
-              localStorage.getItem("artvote_" + artSlug) === "like" ? "on" : ""
-            }" onclick="event.stopPropagation();window._vtArt('${esc(
-          artSlug
-        )}','like')" aria-label="Me gusta">👍</button>
-            <div class="art-vote-score">
-              <div class="vsc">${gass(artSlug) > 0 ? "+" : ""}${gass(
-          artSlug
-        )}</div>
-              <div class="vlb">PUNTUACIÓN</div>
-            </div>
-            <button class="vb ${
-              localStorage.getItem("artvote_" + artSlug) === "dislike"
-                ? "on"
-                : ""
-            }" onclick="event.stopPropagation();window._vtArt('${esc(
-          artSlug
-        )}','dislike')" aria-label="No me gusta">👎</button>
-            <div class="art-vote-detail">${gasv(artSlug).likes || 0} 👍 · ${
-          gasv(artSlug).dislikes || 0
-        } 👎</div>
-          </div>
-        </div>`;
+        // ═ DISCOGRAPHY ═
+        h += `<div class="art-disc-hd"><div class="yn">DISCOGRAFÍA</div><div class="yl"></div></div>
+        <div class="grd">${discos
+          .sort((a, b) => a.year - b.year)
+          .map(cdArt)
+          .join("")}</div>`;
 
         // ═ VIDEOCLIPS ═
         if (prof.videos && prof.videos.length) {
@@ -1390,13 +1363,6 @@
             .join("")}</div>`;
         }
 
-        // ═ DISCOGRAPHY ═
-        h += `<div class="art-disc-hd"><div class="yn">DISCOGRAFÍA</div><div class="yl"></div></div>
-        <div class="grd">${discos
-          .sort((a, b) => a.year - b.year)
-          .map(cdArt)
-          .join("")}</div>`;
-
         // ═ PHOTO GALLERY ═
         if (prof.photos && prof.photos.length) {
           h += `<div class="art-sct-hd"><div class="yn">GALERÍA</div><div class="yl"></div></div>
@@ -1410,14 +1376,42 @@
             .join("")}</div>`;
         }
 
+        // ═ VALORAR ═
+        h += `<div class="art-section">
+          <div class="art-section-hd">VALORAR</div>
+          <div class="art-section-body art-vote-row">
+            <button class="vb ${
+              localStorage.getItem("artvote_" + artSlug) === "like" ? "on" : ""
+            }" onclick="event.stopPropagation();window._vtArt('${esc(
+          artSlug
+        )}','like')" aria-label="Me gusta">👍</button>
+            <div class="art-vote-score">
+              <div class="vsc">${gass(artSlug) > 0 ? "+" : ""}${gass(
+          artSlug
+        )}</div>
+              <div class="vlb">APOYA</div>
+            </div>
+            <button class="vb ${
+              localStorage.getItem("artvote_" + artSlug) === "dislike"
+                ? "on"
+                : ""
+            }" onclick="event.stopPropagation();window._vtArt('${esc(
+          artSlug
+        )}','dislike')" aria-label="No me gusta">👎</button>
+            <div class="art-vote-detail">${gasv(artSlug).likes || 0} 👍 · ${
+          gasv(artSlug).dislikes || 0
+        } 👎</div>
+          </div>
+        </div>`;
+
         // ═ COMMENTS ═
-        h += `<div class="sct" style="margin-top:20px">COMENTARIOS</div>
-        <div id="art-cmts"><div class="empty" style="padding:12px 0"><p>CARGANDO...</p></div></div>
-        <div class="cf"><input type="text" id="art-ci" placeholder="Escribe un comentario sobre ${esc(
+        h += `<div class="cf"><input type="text" id="art-ci" placeholder="Escribe un comentario sobre ${esc(
           name
         )}..." maxlength="200"><button class="cfs" onclick="window._cmArt('${esc(
           artSlug
-        )}')">ENVIAR</button></div>`;
+        )}')">ENVIAR</button></div>
+        <div class="sct" style="margin-top:20px">COMENTARIOS</div>
+        <div id="art-cmts"><div class="empty" style="padding:12px 0"><p>CARGANDO...</p></div></div>`;
 
         document.getElementById("art-content").innerHTML = h;
         document.getElementById("art-back").textContent =
