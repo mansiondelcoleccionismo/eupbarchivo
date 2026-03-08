@@ -537,7 +537,7 @@
           return;
         }
         let h = "";
-        if (srt === "year" && !yr) {
+        if (srt === "year" && !yr && !q) {
           const g = {};
           f.forEach((a) => {
             (g[a.year] = g[a.year] || []).push(a);
