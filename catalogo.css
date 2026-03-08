@@ -1731,10 +1731,10 @@
 
       .sct {
         font-family: var(--fd);
-        font-size: clamp(0.5rem, 1vw, 0.62rem);
+        font-size: clamp(0.62rem, 1.1vw, 0.72rem);
         font-weight: 700;
         letter-spacing: 0.18em;
-        color: var(--grd);
+        color: var(--r);
         margin-bottom: clamp(6px, 1.2vh, 10px);
       }
       .tl {
@@ -2190,14 +2190,14 @@
       }
       .art-section-hd {
         font-family: var(--fd);
-        font-size: clamp(0.46rem, 0.78vw, 0.54rem);
+        font-size: clamp(0.62rem, 1.1vw, 0.72rem);
         font-weight: 700;
         letter-spacing: 0.16em;
-        color: #bbb;
+        color: var(--r);
         text-transform: uppercase;
         margin-bottom: 8px;
         padding-bottom: 6px;
-        border-bottom: 1px solid rgba(255,255,255,0.12);
+        border-bottom: 1px solid rgba(237,28,36,0.2);
       }
       .art-section-body {
         padding: 0;
@@ -2886,7 +2886,10 @@
           flex-wrap: wrap;
         }
         .sct {
-          font-size: 0.85rem;
+          font-size: 0.75rem;
+        }
+        .art-section-hd {
+          font-size: 0.75rem;
         }
         /* ─ Tracklist ─ */
         .tk-n {
