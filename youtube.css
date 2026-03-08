@@ -868,6 +868,14 @@
           justify-content: center;
         }
         .search-tags {
+          display: flex;
+          width: 100%;
+          overflow-x: auto;
+          scrollbar-width: none;
+          -ms-overflow-style: none;
+          padding-bottom: 4px;
+        }
+        .search-tags::-webkit-scrollbar {
           display: none;
         }
         .vgrid {
