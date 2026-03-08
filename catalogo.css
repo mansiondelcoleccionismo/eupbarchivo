@@ -2190,14 +2190,14 @@
       }
       .art-section-hd {
         font-family: var(--fd);
-        font-size: clamp(0.62rem, 1.1vw, 0.72rem);
-        font-weight: 700;
-        letter-spacing: 0.16em;
+        font-size: clamp(1rem, 2.5vw, 1.4rem);
+        font-weight: 900;
+        letter-spacing: 0.06em;
         color: var(--r);
         text-transform: uppercase;
-        margin-bottom: 8px;
-        padding-bottom: 6px;
-        border-bottom: 1px solid rgba(237,28,36,0.2);
+        margin-bottom: 10px;
+        padding-bottom: 0;
+        border-bottom: none;
       }
       .art-section-body {
         padding: 0;
@@ -2889,7 +2889,7 @@
           font-size: 0.75rem;
         }
         .art-section-hd {
-          font-size: 0.75rem;
+          font-size: 1rem;
         }
         /* ─ Tracklist ─ */
         .tk-n {
