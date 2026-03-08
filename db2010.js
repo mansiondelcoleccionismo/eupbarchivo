@@ -397,7 +397,7 @@ const DATA_2010 = [
     a: "MDE Click",
     t: "N'Troducing Bobby Peru",
     l: "Independiente",
-    o: "Zaragoza",
+    o: "Miranda de Ebro",
     c: "#5a6a7a",
     tk: [
       "Intro - Why do I feel so good (con Inma & Miguel Fernández)",
@@ -485,7 +485,7 @@ const DATA_2010 = [
     a: "El Niño Trapani",
     t: "Uomini d'onore",
     l: "Independiente",
-    o: "Madrid",
+    o: "Jaén",
     c: "#7a5a6a",
     tk: [
       "Intro",
@@ -587,3 +587,4 @@ const DATA_2010 = [
 ];
 
 export default DATA_2010;
+
