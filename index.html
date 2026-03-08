@@ -793,9 +793,13 @@
         document.title = `${a.displayA || a.a} — ${a.t} | EUPB Museo`;
         // Wire "more from artist" mini cards
         document.querySelectorAll(".mo-more .cd").forEach((x) => {
-          x.onclick = () => {
+          x.onclick = (e) => {
+            e.stopPropagation();
             document.querySelector(".mo-in").scrollTop = 0;
-            window._o(x.dataset.id);
+            window._o(x.dataset.id, true);
+            if (window._lastPermalink) {
+              history.replaceState(null, "", window._lastPermalink);
+            }
           };
         });
         lC(id);
