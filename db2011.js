@@ -5,7 +5,7 @@ const DATA_2011 = [
   {
     a: "Guante Blanco",
     t: "Moonglasses",
-    l: "Independiente",
+    l: "Gamberros Pro",
     o: "Madrid",
     c: "#4a4a4a",
     tk: [
@@ -51,7 +51,7 @@ const DATA_2011 = [
   {
     a: "N-Wise (Mde Click)",
     t: "5%",
-    l: "Independiente",
+    l: "Put It Down Records",
     o: "Miranda de Ebro",
     c: "#1a1a1a",
     tk: [
@@ -117,8 +117,8 @@ const DATA_2011 = [
   {
     a: "Ébano",
     t: "1984",
-    l: "Independiente",
-    o: "Madrid",
+    l: "True Love Projects",
+    o: "Valencia",
     c: "#27ae60",
     tk: [
       "Freentro",
@@ -239,7 +239,7 @@ const DATA_2011 = [
     a: "Yonkos Team Y La Mafia Tramontana",
     t: "Hijos De Puta Infinitos",
     l: "Independiente",
-    o: "Varias ciudades",
+    o: "Varios",
     c: "#6a5a7a",
     tk: [
       "Intro (con Eneko & Gareta)",
@@ -297,7 +297,7 @@ const DATA_2011 = [
     a: "Tibu Morales",
     t: "Just Like Marvin",
     l: "White Coast Company",
-    o: "Zaragoza",
+    o: "Barcelona",
     c: "#6a7a5a",
     tk: [],
     cover:
@@ -344,7 +344,7 @@ const DATA_2011 = [
     a: "Spitting Essence",
     t: "Underground Delicatessence",
     l: "Independiente",
-    o: "",
+    o: "Varios",
     c: "#7a6a5a",
     tk: [],
     cover:
@@ -363,7 +363,7 @@ const DATA_2011 = [
     a: "Rafael Lechowski y Glaç",
     t: "Donde duele, inspira (2007-2011)",
     l: "Radiation",
-    o: "Valencia",
+    o: "Zaragoza",
     c: "#6a7a5a",
     tk: [
       "La nada eterna",
@@ -384,7 +384,7 @@ const DATA_2011 = [
     a: "Química Code",
     t: "Mal Karma",
     l: "Independiente",
-    o: "",
+    o: "Zaragoza",
     c: "#5a6a7a",
     tk: [],
     cover:
@@ -411,7 +411,7 @@ const DATA_2011 = [
     a: "Mi Amargo",
     t: "La Ganga",
     l: "Independiente",
-    o: "Madrid",
+    o: "Barcelona",
     c: "#7a6a5a",
     tk: [],
     cover:
@@ -431,7 +431,7 @@ const DATA_2011 = [
     a: "MDE Click",
     t: "MDE Warriorz",
     l: "Independiente",
-    o: "Zaragoza",
+    o: "Miranda de Ebro",
     c: "#6a7a5a",
     tk: [],
     cover: "https://f4.bcbits.com/img/a3016701514_16.jpg",
@@ -451,7 +451,7 @@ const DATA_2011 = [
     a: "M. Ramirez",
     t: "R.E.C. La mixtape",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#6a5a7a",
     tk: [],
     cover:
@@ -496,7 +496,7 @@ const DATA_2011 = [
     a: "Inze Brashier",
     t: "Desde cero",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#6a7a5a",
     tk: [],
     cover:
@@ -571,7 +571,7 @@ const DATA_2011 = [
     a: "Fasther",
     t: "B.O.S.S.",
     l: "Independiente",
-    o: "Miranda de Ebro",
+    o: "Madrid",
     c: "#7a6a5a",
     tk: [],
     cover:
@@ -582,7 +582,7 @@ const DATA_2011 = [
     a: "Eneko y Gareta",
     t: "El Primer Signo",
     l: "Independiente",
-    o: "Burgos",
+    o: "Zaragoza",
     c: "#5a7a6a",
     tk: [],
     cover:
@@ -602,7 +602,7 @@ const DATA_2011 = [
     a: "El Coleta",
     t: "Mas Cornas da el hambre",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#7a5a6a",
     tk: [],
     cover: "https://i.scdn.co/image/ab67616d00001e02964338d7e59179ad20e2699e",
@@ -610,8 +610,8 @@ const DATA_2011 = [
   {
     a: "Darmo",
     t: "Un camino inestable",
-    l: "Independiente",
-    o: "",
+    l: "A13 Records",
+    o: "Madrid",
     c: "#5a6a7a",
     tk: [],
     cover:
@@ -710,4 +710,5 @@ const DATA_2011 = [
 ];
 
 export default DATA_2011;
+
 
