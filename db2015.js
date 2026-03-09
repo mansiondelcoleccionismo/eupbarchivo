@@ -88,7 +88,7 @@ const DATA_2015 = [
   {
     a: "Cecilio G",
     t: "Número tres",
-    l: "Sello",
+    l: "Poland Music",
     o: "Barcelona",
     c: "#7a6a5a",
     tk: [
@@ -185,7 +185,7 @@ const DATA_2015 = [
   {
     a: "El Coleta",
     t: "Movida Madrileña",
-    l: "Sello",
+    l: "M.O.",
     o: "Madrid",
     c: "#5a6a7a",
     tk: [
@@ -209,7 +209,7 @@ const DATA_2015 = [
   {
     a: "Owlkids",
     t: "ZLH in Shobogenzo",
-    l: "Sello",
+    l: "Independiente",
     o: "Valencia",
     c: "#6a5a7a",
     tk: [
@@ -435,7 +435,7 @@ const DATA_2015 = [
     a: "Jamas",
     t: "Unreleased",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#7a6a5a",
     tk: [],
     cover: "https://i.postimg.cc/RVsM1kPQ/Captura-de-pantalla-2026-03-09-102820.png",
@@ -546,5 +546,6 @@ const DATA_2015 = [
 ];
 
 export default DATA_2015;
+
 
 
