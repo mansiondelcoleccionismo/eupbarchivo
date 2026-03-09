@@ -427,7 +427,7 @@ const DATA_2011 = [
       "Black Caesar – Permanent student (Jay Smooth Remix)",
       "Nasta & Javier Petaka – Transiciones [Prod by Pablo Pila]",
       "VanKaikoo – Come around (Skit)",
-      "Mitto –
+
     cover:
       "https://images.genius.com/26806cb18103eb16504aa53793290751.720x720x1.jpg",
   },
@@ -959,6 +959,7 @@ const DATA_2011 = [
 ];
 
 export default DATA_2011;
+
 
 
 
