@@ -54,6 +54,7 @@ const DATA_2010 = [
     ],
     cover:
       "https://i.postimg.cc/KzPjWv57/Nasta-Underground-clandestino-17135-F300-m.jpg",
+    bandcamp: "https://nasta.bandcamp.com/album/acapellas-underground-clandestino",
   },
   {
     a: "Elsso Rodríguez",
@@ -76,6 +77,7 @@ const DATA_2010 = [
       "Un Tango en Cada Esquina",
     ],
     cover: "https://i.postimg.cc/W4p5zhd4/a2979238705-16.jpg",
+    bandcamp: "https://elssorodriguez.bandcamp.com/album/baladas-heavys-el-estatus-de-elsso",
   },
   {
     a: "D.Gómez",
@@ -102,6 +104,7 @@ const DATA_2010 = [
       "Bonus Track: Big J Screwed 'N' Chopped",
     ],
     cover: "https://i.postimg.cc/mk6sX0KB/a2369614900-10.jpg",
+    bandcamp: "https://kaydycain.bandcamp.com/album/life-is-2010",
   },
   {
     a: "Corredores de bloque",
@@ -274,6 +277,7 @@ const DATA_2010 = [
     ],
     cover:
       "https://m.media-amazon.com/images/I/41sQwGc6D7L._UXNaN_FMjpg_QL85_.jpg",
+    spotify: "https://open.spotify.com/album/1708731054",
   },
   // ── NUEVOS ──────────────────────────────────────────────────────
   {
@@ -428,6 +432,7 @@ const DATA_2010 = [
       "El camino (con Charlie - Hijos Bastardos)",
     ],
     cover: "https://i.scdn.co/image/ab67616d0000b273b8951becf1ddb50a7d9e60c0",
+    spotify: "https://open.spotify.com/album/6sZBsQYpCM2z5uMFkbfZmM",
   },
   {
     a: "La Jota Nostra",
@@ -470,6 +475,8 @@ const DATA_2010 = [
     ],
     cover:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB0A4lq6_eQC-gagOOVuGW3VmCr_e5vIwY0A&s",
+    bandcamp: "https://putitdown.bandcamp.com/album/depresihon",
+    spotify: "https://open.spotify.com/album/6mkZEY6GvXCuNrTyO2yp0P",
   },
   {
     a: "Elsso Rodriguez",
@@ -587,4 +594,3 @@ const DATA_2010 = [
 ];
 
 export default DATA_2010;
-
