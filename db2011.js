@@ -382,7 +382,52 @@ const DATA_2011 = [
     l: "Independiente",
     o: "Varios",
     c: "#7a6a5a",
-    tk: []
+    tk: [
+      "Emelvi – Hip Hop (Intro)",
+      "Chacal Click – Underground 7 estrellas [Prod. by Street South Music]",
+      "Poble Nou – Una [Prod. by Poble Nou]",
+      "RSN – As sirat [Prod. Yubbe Bragado]",
+      "UH Tracks – Move me (Skit)",
+      "Elecesar – Prisma [Prod. by Manu Beats]",
+      "Charly Efe feat. Chicoes3 – Nieve [Prod. by Loren D]",
+      "Zetazen – Traje y corbata [Prod. by Zetazen]",
+      "Neomai Beats – Noche (Skit)",
+      "Eros & Tánatos – Agua [Prod. by S-Trigg]",
+      "Jazzcoholic – Cambio de órbita [Prod. by DeepSoul]",
+      "Mochilo y Yonk – Por cada vez que fallan [Prod. by Baboon Estudios]",
+      "Toscano – Mark Lenders [Prod. by Drisket]",
+      "Be Timeless – Ruleo (Skit)",
+      "Concrete bars – Dust over dust [Prod. Pulsito]",
+      "Jundk – Cuesta arriba [Prod. by Carrera]",
+      "Arufe – Famous [Prod. by Chuck Inglish]",
+      "El$$o Rodríguez – Volver [Prod. by Van Kaikoo & Vic Vega]",
+      "AGQ – Knee (Skit)",
+      "MDE Click – No es solo música RMX [Prod. by Manu Beats]",
+      "Cheb Ruben & Sule B – Mystic River [Prod. by Manu Beats]",
+      "Ébano – No me busques [Prod. by Jay Mohedano]",
+      "Etre supreme – Dreadlock [Prod. by Groove Drama]",
+      "Deepsoul Beats – Killin stars (Skit)",
+      "Nalo – No pienso salir [Prod. by Manu Beats]",
+      "V. Sunday & Raves – Villatontana’s blue boyz [Prod. by The Voodist]",
+      "Tommy – Merece la pena [Prod. by Mone]",
+      "TP Familia – Weekend girl [Prod. by Quórum Beats]",
+      "Bobby P – Outro",
+      "Jay Mohedano – 4 the wack mcs (Intro)",
+      "Adriano Danzziani – Livin’ the life [Prod. by Drisket]",
+      "BBOSS – Fuck’em [Prod. by BBOSS]",
+      "Ñete Rodríguez – Se me fue la vida otra vez [Prod. by D doble E]",
+      "Jackobo Hernández – Jóvenes en bloques Remix [Prod. by Abi Rush]",
+      "UH-Tracks – Azeroth (Skit)",
+      "Lacosta – Crack [Prod. by Kongo Lacosta]",
+      "Fckin Maniacs – Sky [Prod. by Rapha]",
+      "Uenede – Viviéndolo [Prod. by DJ Saro]",
+      "The Louk Warriorz -Fuck Christmas [Prod. by Voz Loka]",
+      "Jay Smooth – Seppuku (Harakiri) (Skit)",
+      "Nársil – Uniformes [Prod. by White Yesho]",
+      "Black Caesar – Permanent student (Jay Smooth Remix)",
+      "Nasta & Javier Petaka – Transiciones [Prod by Pablo Pila]",
+      "VanKaikoo – Come around (Skit)",
+    ],
     cover:
       "https://images.genius.com/26806cb18103eb16504aa53793290751.720x720x1.jpg",
   },
@@ -914,6 +959,7 @@ const DATA_2011 = [
 ];
 
 export default DATA_2011;
+
 
 
 
