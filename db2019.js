@@ -160,7 +160,7 @@ const DATA_2019 = [
   {
     a: "Pedro LaDroga",
     t: "Eurococa",
-    l: "Independiente",
+    l: "L/A/D/R/O/G/A/L/A/B/CORP",
     o: "Sevilla",
     c: "#F0E68C",
     tk: [
@@ -186,7 +186,7 @@ const DATA_2019 = [
   {
     a: "Dano",
     t: "Istmo",
-    l: "Independiente",
+    l: "Ziontifik",
     o: "Madrid",
     c: "#A9A9A9",
     tk: [
@@ -273,7 +273,7 @@ const DATA_2019 = [
       "Un puñao de sensaciones",
     ],
     cover:
-      "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/56/7e/08567e30-34bf-6f76-d1ac-2a72dbf9a956/source/600x600bb.jpg",
+      "https://m.media-amazon.com/images/I/51oYl7DULyL._UF894,1000_QL80_.jpg",
     spotify: "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9",
   },
   {
@@ -297,7 +297,7 @@ const DATA_2019 = [
       "Moham Rham",
       "Pecera",
     ],
-    cover: "https://f4.bcbits.com/img/a2063671996_16.jpg",
+    cover: "https://i.scdn.co/image/ab67616d0000b273370c329a35968821f5afe151",
     spotify: "https://open.spotify.com/album/3jCq3vSQCnvFP5N3MeOspm",
   },
   {
@@ -325,3 +325,4 @@ const DATA_2019 = [
 ];
 
 export default DATA_2019;
+
