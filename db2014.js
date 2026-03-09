@@ -5,7 +5,7 @@ const DATA_2014 = [
   {
     a: "C. Terrible",
     t: "Burundanga",
-    l: "Independiente",
+    l: "Entik Records",
     o: "Sevilla",
     c: "#000000",
     tk: [
@@ -42,7 +42,8 @@ const DATA_2014 = [
     cover: "https://i.postimg.cc/N0qBhwTt/a2508020627-10.jpg",
   },
   {
-    a: "Pedro LaDroga & $kyhook",
+    a: "Pedro LaDroga",
+    aa: ["$kyhook"],
     t: "SKYDRVG 1.0",
     l: "Vampiros",
     o: "Sevilla",
@@ -159,8 +160,8 @@ const DATA_2014 = [
   {
     a: "Elecesar",
     t: "Final Frontier",
-    l: "Independiente",
-    o: "Madrid",
+    l: "Banana Bahia Music",
+    o: "Vigo",
     c: "#8E44AD",
     tk: [
       "Para Siempre",
@@ -191,7 +192,7 @@ const DATA_2014 = [
   {
     a: "Cheb Rubën",
     t: "Kinda Sadness",
-    l: "Sello",
+    l: "Entik Records",
     o: "Ciudad Real",
     c: "#5a7a6a",
     tk: [
@@ -240,7 +241,7 @@ const DATA_2014 = [
     a: "Tutto Vale & Golden Alex",
     t: "Onorata Societá",
     l: "La Bohème / SDA Estudio",
-    o: "Barcelona",
+    o: "Madrid",
     c: "#5a6a7a",
     tk: [
       "Intro",
@@ -307,7 +308,7 @@ const DATA_2014 = [
     a: "Love G. Jiménez & Al' des Saint",
     t: "Niño Valvane",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#5a7a6a",
     tk: [],
     cover: "https://i.postimg.cc/qRcgBtMz/Captura-de-pantalla-2026-03-09-094325.png",
@@ -316,7 +317,7 @@ const DATA_2014 = [
     a: "Ldk (Velazquez y B.Walls)",
     t: "Fénix",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#6a7a5a",
     tk: [],
     cover: "https://i.postimg.cc/mgq0k8tp/Captura-de-pantalla-2026-03-09-095906.png",
@@ -345,7 +346,7 @@ const DATA_2014 = [
     a: "Jay Hernandez",
     t: "My Reality Show",
     l: "BoltMusic",
-    o: "Madrid",
+    o: "Valencia",
     c: "#7a5a6a",
     tk: [
       "Desde Chamakito",
@@ -410,7 +411,7 @@ const DATA_2014 = [
     a: "Couple Minutes",
     t: "Space Degrees",
     l: "Independiente",
-    o: "",
+    o: "Sevilla",
     c: "#6a7a5a",
     tk: [],
     cover: "https://i.postimg.cc/jjb4M79j/Captura-de-pantalla-2026-03-09-100144.png",
@@ -419,7 +420,7 @@ const DATA_2014 = [
     a: "Click Clack Gang",
     t: "Club Bamboo",
     l: "Independiente",
-    o: "",
+    o: "Valladolid",
     c: "#7a5a6a",
     tk: [],
     cover: "https://f4.bcbits.com/img/a3885124119_16.jpg",
@@ -437,7 +438,7 @@ const DATA_2014 = [
     a: "Cecilio G",
     t: "Ceci The Pimp",
     l: "Independiente",
-    o: "Madrid",
+    o: "Barcelona",
     c: "#6a5a7a",
     tk: [],
     cover:
@@ -447,7 +448,7 @@ const DATA_2014 = [
     a: "Bong x Dae Bryson",
     t: "Bongtape",
     l: "Independiente",
-    o: "",
+    o: "Canarias",
     c: "#7a6a5a",
     tk: [],
     cover: "https://undergroundhiphopblog.com/wp-content/uploads/2014/09/bong.jpeg",
@@ -476,7 +477,7 @@ const DATA_2014 = [
     a: "Black Caesar",
     t: "Intellectual Ignorance",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#6a7a5a",
     tk: [],
     cover: "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/b0/5c/99/b05c99c7-5712-48b1-8692-7aefd7c9c75f/8429006736515.jpg/600x600bf-60.jpg",
@@ -494,7 +495,7 @@ const DATA_2014 = [
     a: "Antonio Rodriguez / Ñete",
     t: "Barras bravas",
     l: "Independiente",
-    o: "",
+    o: "Santander",
     c: "#5a6a7a",
     tk: [],
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzclhVJPUT00tHz2Nijqgpn7ColiVZVczow&s",
@@ -512,7 +513,7 @@ const DATA_2014 = [
     a: "A. Rock",
     t: "Oceank",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#7a6a5a",
     tk: [],
     cover: "https://i.postimg.cc/285jgkMz/Captura-de-pantalla-2026-03-09-100822.png",
@@ -520,6 +521,7 @@ const DATA_2014 = [
 ];
 
 export default DATA_2014;
+
 
 
 
