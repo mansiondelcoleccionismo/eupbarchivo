@@ -256,7 +256,7 @@ const DATA_2018 = [
       "El Partido",
       "Nocturno",
     ],
-    cover: "https://i.scdn.co/image/ab67616d0000b273c4e9b2b3c4e9b2b3c4e9b2b3",
+    cover: "https://i.scdn.co/image/ab67616d0000b273962408900a138ccdd9fc4dde",
   },
   {
     a: "Tpfam y Miguel Grimaldo",
@@ -265,7 +265,7 @@ const DATA_2018 = [
     o: "Madrid",
     c: "#6a5a7a",
     tk: ["H2WATER", "MADRID DE NOCHE", "JOVEN SIDDHARTA", "FIFTY CI'EN"],
-    cover: "https://f4.bcbits.com/img/a3217364794_16.jpg",
+    cover: "https://i.postimg.cc/RV6NdLHF/Captura-de-pantalla-2026-03-09-152149.png",
   },
   {
     a: "Madh White Trash",
@@ -310,7 +310,7 @@ const DATA_2018 = [
       "Perlas",
     ],
     cover:
-      "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/de/ad/e8/deade8f4-b23e-78e7-2b01-4d4b4b4b4b4b/source/600x600bb.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSnO6smKS-54sH-In9YbryFAjlzKcEX62A&s",
     spotify: "https://open.spotify.com/album/7pGWor486ZptV0MrdTgGsJ",
   },
   {
@@ -332,9 +332,10 @@ const DATA_2018 = [
       "Siempre Quise Todo",
     ],
     cover:
-      "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/4e/2a/8b4e2a3f-8c7e-4f2a-b4e2-a3f8c7e4f2a3/source/600x600bb.jpg",
+      "https://i.scdn.co/image/ab67616d0000b273212b044847323d4f2fd3bb6a",
     spotify: "https://open.spotify.com/album/3xFCSN4oKeJE1lJ2c5KLZQ",
   },
 ];
 
 export default DATA_2018;
+
