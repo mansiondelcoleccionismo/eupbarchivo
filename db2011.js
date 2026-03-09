@@ -141,9 +141,9 @@ const DATA_2011 = [
       "https://i1.sndcdn.com/artworks-CxW6YpZaWiLuCDOQ-cfM1kA-t500x500.jpg",
   },
   {
-    a: "Agorazein (C. Tangana)",
-    t: "C. Tangana",
-    l: "Independiente",
+    a: "C. Tangana",
+    t: "Agorazein presenta a: C. Tangana",
+    l: "Agorazein",
     o: "Madrid",
     c: "#f1c40f",
     tk: ["Estamos aquí", "Es mejor", "Bésame mucho", "Quiero"],
@@ -154,7 +154,7 @@ const DATA_2011 = [
     a: "Be Timeless",
     t: "Sencillo y en Silencio",
     l: "Independiente",
-    o: "Zaragoza",
+    o: "Oviedo",
     c: "#95a5a6",
     tk: [
       "Sencillo y en silencio (con Dj Litros)",
@@ -207,8 +207,8 @@ const DATA_2011 = [
   {
     a: "El Niño Trapani",
     t: "El Niño Trapani",
-    l: "Independiente",
-    o: "Madrid",
+    l: "Homerun Studio",
+    o: "Jaén",
     c: "#c0392b",
     tk: [
       "Intro Yk",
@@ -618,21 +618,47 @@ const DATA_2011 = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSwZTsUpFZVzsU-PRCi7cJPy-817pxjhPlOw&s",
   },
   {
-    a: "D. Gómez -N- Pocas Libras",
+    a: "Kaydy Cain",
+    aa: ["Pocas Libras"],
     t: "Swing Remixes",
-    l: "Independiente",
+    l: "Honey Money",
     o: "Madrid",
     c: "#6a5a7a",
-    tk: [],
+    tk: [
+    "Intro (RIP The GoodFather feat Gil Scott Heron)",
+    "Marry Mary Jane (Feat Richard Wright)",
+    "Eso se baila asi (Feat Hector Lavoe)",
+    "VCR Wheels (Feat Tyler the Creator)",
+    "Been so long (Feat Anita Baker)",
+    "Inside looking out Remix (Feat 20 2)",
+    "Mi barrio es Portugal (Feat Julio Iglesias)",
+    "Fidel Castro (Feat A Mafia)",
+    "Cocktales (Feat 2 Short & Marko Italia)",
+    "Entre dos aguas (Feat Paco de Luca)",
+    "Skit Scarface On my block (Feat Marko Italia)",
+    "Hell on earth (Feat Mobb Deep)",
+    "Yo no elegi esta vida (Feat Grandpa)",
+    "Too Swing (Feat N-Y)",
+    "Si yo no te tengo (Feat Alicia Keys)"
+  ],
     cover: "https://i1.sndcdn.com/artworks-000426873561-wqddk3-t240x240.jpg",
   },
   {
-    a: "D. Gomez / Kaydy Cain",
+    a: "Kaydy Cain",
     t: "Rock & Fly",
-    l: "Independiente",
+    l: "Honey Money",
     o: "Madrid",
     c: "#7a6a5a",
-    tk: [],
+    tk: [
+      "Diamante Negro",
+      "Swing",
+      "Pirris Con Clase (Ft. Callejo, Israel B & Pocas Libras)",
+      "Rock Fly",
+      "Skit-Juanito Alimaa",
+      "Green Chair (Ft. Pocas Libras)",
+      "Rap Roll",
+      "Skit-No Soy Rapero, Soy un Hombre",
+    ],
     cover: "https://i.scdn.co/image/ab67616d0000b273bdedb85c94c2444bdb82dfc8",
   },
   {
@@ -684,3 +710,4 @@ const DATA_2011 = [
 ];
 
 export default DATA_2011;
+
