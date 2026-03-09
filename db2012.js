@@ -45,7 +45,7 @@ const DATA_2012 = [
       "https://images.genius.com/dbf7a2bfca39d584c0b0910aa7d69c31.300x300x1.jpg",
   },
   {
-    a: "D. Gómez",
+    a: "Kaydy Cain",
     t: "Música pa' Vacilar",
     l: "Independiente",
     o: "Madrid",
@@ -152,7 +152,8 @@ const DATA_2012 = [
       "https://cdn-images.dzcdn.net/images/cover/a89032f0a982d2fa3d62e0ab18d1f501/0x1900-000000-80-0-0.jpg",
   },
   {
-    a: "Yako Muñoz & Rap Gotti",
+    a: "Yako Muñoz",
+    aa: ["Rap Gotti"],
     t: "MGMS",
     l: "Independiente",
     o: "Madrid",
@@ -175,7 +176,8 @@ const DATA_2012 = [
       "https://i.postimg.cc/5yMmL0sG/Captura-de-pantalla-2026-02-17-113912.png",
   },
   {
-    a: "Dano & Emelvi",
+    a: "Dano",
+    aa: ["Emelvi"],
     t: "Equilibrio",
     l: "Independiente",
     o: "Madrid",
@@ -194,7 +196,7 @@ const DATA_2012 = [
   {
     a: "Chirie Vegas",
     t: "Shadows",
-    l: "Independiente",
+    l: "Gamberros Pro",
     o: "Madrid",
     c: "#C0392B",
     tk: [
@@ -214,8 +216,8 @@ const DATA_2012 = [
   },
   {
     a: "SDJ Crew",
-    t: "Comandos",
-    l: "Independiente",
+    t: "Commandos",
+    l: "NORTH IS MUSIC",
     o: "Madrid",
     c: "#27AE60",
     tk: [
@@ -372,10 +374,11 @@ const DATA_2012 = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4H63fg9x98bfOtyJwNIBtnqIeR2snWUWrA&s",
   },
   {
-    a: "Soto Asa & Dj Longanisa",
+    a: "Soto Asa",
+    aa: ["Dj Longanisa"],
     t: "Sweet",
     l: "Independiente",
-    o: "Madrid",
+    o: "Ceuta",
     c: "#6a5a7a",
     tk: [
       "Intro",
@@ -554,7 +557,7 @@ const DATA_2012 = [
     a: "Mi Amargo",
     t: "La vida sin maletas",
     l: "Independiente",
-    o: "Madrid",
+    o: "Barcelona",
     c: "#5a6a7a",
     tk: [],
     cover: "https://f4.bcbits.com/img/a1602747174_10.jpg",
@@ -596,7 +599,7 @@ const DATA_2012 = [
     a: "Kraf",
     t: "Woolgather",
     l: "Independiente",
-    o: "Madrid",
+    o: "Valencia",
     c: "#5a7a6a",
     tk: [],
     cover:
@@ -605,7 +608,7 @@ const DATA_2012 = [
   {
     a: "Jerva.Agz",
     t: "All Black",
-    l: "Independiente",
+    l: "Agorazein",
     o: "Madrid",
     c: "#6a7a5a",
     tk: [],
@@ -626,7 +629,7 @@ const DATA_2012 = [
     a: "Ivan Nieto",
     t: "Maleza",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#5a6a7a",
     tk: [],
     cover:
@@ -636,7 +639,7 @@ const DATA_2012 = [
     a: "I.Ace & J.O",
     t: "Carambola",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#6a5a7a",
     tk: [],
     cover:
@@ -673,7 +676,7 @@ const DATA_2012 = [
     a: "El Niño Trapani",
     t: "II",
     l: "Independiente",
-    o: "Madrid",
+    o: "Jaén",
     c: "#6a7a5a",
     tk: [],
     cover:
@@ -683,7 +686,7 @@ const DATA_2012 = [
     a: "El Niño Snake",
     t: "Snake",
     l: "Independiente",
-    o: "",
+    o: "Málaga",
     c: "#7a5a6a",
     tk: [],
     cover:
@@ -781,7 +784,7 @@ const DATA_2012 = [
     a: "Asës",
     t: "Represëntandome",
     l: "Independiente",
-    o: "",
+    o: "Valencia",
     c: "#6a7a5a",
     tk: [],
     cover:
@@ -791,7 +794,7 @@ const DATA_2012 = [
     a: "Adriano Danzziani",
     t: "Catenaccio",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#7a5a6a",
     tk: [],
     cover:
@@ -801,7 +804,7 @@ const DATA_2012 = [
     a: "Acaraperro",
     t: "Aka la cloaca",
     l: "Independiente",
-    o: "",
+    o: "Palma de Mallorca",
     c: "#5a6a7a",
     tk: [],
     cover:
@@ -810,3 +813,4 @@ const DATA_2012 = [
 ];
 
 export default DATA_2012;
+
