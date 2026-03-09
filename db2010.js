@@ -35,7 +35,7 @@ const DATA_2010 = [
   {
     a: "Nasta",
     t: "Underground Clandestino",
-    l: "Independiente",
+    l: "La Tapadera Muzik",
     o: "Madrid",
     c: "#7a6a5a",
     tk: [
@@ -55,11 +55,13 @@ const DATA_2010 = [
     cover:
       "https://i.postimg.cc/KzPjWv57/Nasta-Underground-clandestino-17135-F300-m.jpg",
     bandcamp: "https://nasta.bandcamp.com/album/acapellas-underground-clandestino",
+        spotify: "https://open.spotify.com/intl-es/album/38T36vTnfhJgBNWvvQ5UmZ",
+
   },
   {
     a: "Elsso Rodríguez",
     t: "Baladas Heavys",
-    l: "Independiente",
+    l: "Left Coast Gang",
     o: "Vizcaya",
     c: "#5a7a6a",
     tk: [
@@ -80,9 +82,9 @@ const DATA_2010 = [
     bandcamp: "https://elssorodriguez.bandcamp.com/album/baladas-heavys-el-estatus-de-elsso",
   },
   {
-    a: "D.Gómez",
+    a: "Kaydy Cain",
     t: "Life is…",
-    l: "Independiente",
+    l: "Blessed Music",
     o: "Madrid",
     c: "#6a7a5a",
     tk: [
@@ -192,7 +194,7 @@ const DATA_2010 = [
   {
     a: "935",
     t: "No me creo nada",
-    l: "Independiente",
+    l: "Malavida Records",
     o: "Madrid",
     c: "#7a6a5a",
     tk: [
@@ -594,3 +596,4 @@ const DATA_2010 = [
 ];
 
 export default DATA_2010;
+
