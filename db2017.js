@@ -241,7 +241,7 @@ const DATA_2017 = [
       "La Calle",
       "Hood Life",
     ],
-    cover: "",
+    cover: "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/16052/big_0utd00r_Nati0n_Yako_Mu_oz.jpg",
   },
   {
     a: "La Clave Urbana",
@@ -264,7 +264,7 @@ const DATA_2017 = [
   {
     a: "Josito Migraña",
     t: "Espimpnete the Mixtape",
-    l: "Independiente",
+    l: "Pleitosearchers",
     o: "Madrid",
     c: "#7a6a5a",
     tk: [
@@ -277,7 +277,7 @@ const DATA_2017 = [
       "Troublesome'17",
     ],
     cover:
-      "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/30/56/a130569eedbfabb4bf6e29e3/source/600x600bb.jpg",
+      "https://i.scdn.co/image/ab67616d0000b2739c791a8f73685f47e8e45610",
   },
 
   {
@@ -320,3 +320,4 @@ const DATA_2017 = [
 ];
 
 export default DATA_2017;
+
