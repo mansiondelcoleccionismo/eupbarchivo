@@ -263,7 +263,7 @@ const DATA_2014 = [
       "All day",
       "Fury days",
     ],
-    cover: "https://f4.bcbits.com/img/a0497498024_16.jpg",
+    cover: "https://i.scdn.co/image/ab67616d0000b2737dbd4fdf94dbab60608a81d4",
     spotify: "https://open.spotify.com/album/4nO64q2YMzx02UHmtlIHpC",
   },
   {
@@ -291,7 +291,7 @@ const DATA_2014 = [
       "Lunedi",
     ],
     cover:
-      "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/61/3d/54/613d5428-c3f5-6f5f-ee43-3f56db4ef5b2/source/600x600bb.jpg",
+      "https://i.scdn.co/image/ab67616d0000b2737b18580252d460ab957619d6",
     spotify: "https://open.spotify.com/album/0LmhWNvQTHRgfOTnCidSLz",
   },
   {
@@ -377,7 +377,7 @@ const DATA_2014 = [
       "Spinnin' Back",
       "O.D.I.O.",
     ],
-    cover: "https://f4.bcbits.com/img/a3590780490_16.jpg",
+    cover: "https://i.scdn.co/image/ab67616d00001e0261122ba725a6431296abf3c3",
   },
   {
     a: "ElMini² Retarded+",
@@ -520,5 +520,6 @@ const DATA_2014 = [
 ];
 
 export default DATA_2014;
+
 
 
