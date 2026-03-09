@@ -548,7 +548,7 @@ const DATA_2012 = [
     a: "Miguel Grimaldo",
     t: "El Gato De Schrödinger",
     l: "Independiente",
-    o: "",
+    o: "Valladolid",
     c: "#7a5a6a",
     tk: [],
     cover: "https://f4.bcbits.com/img/a3504974114_10.jpg",
@@ -813,5 +813,6 @@ const DATA_2012 = [
 ];
 
 export default DATA_2012;
+
 
 
