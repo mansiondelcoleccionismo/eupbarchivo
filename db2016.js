@@ -218,27 +218,6 @@ const DATA_2016 = [
   },
   // ── NUEVOS ──────────────────────────────────────────────────────
   {
-    a: "Roberto DL & Morante",
-    t: "KΣVLAR",
-    l: "BaturrosBeats",
-    o: "Zaragoza",
-    c: "#5a6a7a",
-    tk: [
-      "Intro",
-      "Kevlar",
-      "Mi Parte",
-      "+ Difícil con D.Vilas",
-      "La Última Vez",
-      "Originales",
-      "A Prueba de Fallos con Amores Perros",
-      "Razones",
-      "Sociedad Anónima con FurelGuti",
-      "Cuentos Chinos",
-      "En un Rincón del Alma",
-    ],
-    cover: "",
-  },
-  {
     a: "Miguel Grimaldo & Niño",
     t: "Las aventuras de Miguel Grimaldo & Niño",
     l: "Urano Players",
@@ -251,7 +230,7 @@ const DATA_2016 = [
       "Agua sucia cósmica",
       "Cerebro de gusano",
     ],
-    cover: "https://f4.bcbits.com/img/a3879898012_16.jpg",
+    cover: "https://f4.bcbits.com/img/a2058800946_10.jpg",
   },
   {
     a: "Madh White Trash",
@@ -260,7 +239,7 @@ const DATA_2016 = [
     o: "Madrid",
     c: "#7a6a5a",
     tk: [],
-    cover: "",
+    cover: "https://f4.bcbits.com/img/a2671186280_2.jpg",
   },
   {
     a: "Madh White Trash",
@@ -269,7 +248,7 @@ const DATA_2016 = [
     o: "Madrid",
     c: "#5a7a6a",
     tk: [],
-    cover: "",
+    cover: "https://f4.bcbits.com/img/a4233810453_16.jpg",
   },
   {
     a: "Leiterman",
@@ -288,7 +267,7 @@ const DATA_2016 = [
     o: "Salamanca / Galicia",
     c: "#7a5a6a",
     tk: ["Innato", "Scottie Pippen", "Flacko favor", "I got love", "Next on"],
-    cover: "",
+    cover: "https://mp3.hhgroups.com/albumes/J-Dose-y-Mr.-Mrcs-Flacko-favor-46553_front.jpg",
   },
 
   {
@@ -309,7 +288,7 @@ const DATA_2016 = [
     o: "Murcia",
     c: "#5a6a7a",
     tk: ["Renacimiento con Eme Kolbe"],
-    cover: "",
+    cover: "https://images.genius.com/05f368672eedec919e41da8856b17052.1000x1000x1.jpg",
   },
 
   {
@@ -356,7 +335,7 @@ const DATA_2016 = [
       "Caballos en las nubes con Sr. Chen",
       "Teardrop",
     ],
-    cover: "https://f4.bcbits.com/img/a2302505088_16.jpg",
+    cover: "https://i.scdn.co/image/ab67616d0000b2734a2e42504e6300b4ea480f6a",
     spotify: "https://open.spotify.com/album/10hMoQC15QSgwNelgK5Exm",
   },
   {
@@ -386,3 +365,4 @@ const DATA_2016 = [
 ];
 
 export default DATA_2016;
+
