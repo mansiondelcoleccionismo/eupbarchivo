@@ -104,7 +104,8 @@ const DATA_2017 = [
     spotify: "https://open.spotify.com/album/3sZC4DBqa36m3u2xh08U7K",
   },
   {
-    a: "Pedro LaDroga & $kyhook",
+    a: "Pedro LaDroga",
+    aa: ["$kyhook"],
     t: "Vía Digital (Skydrvg 2.0)",
     l: "LaDrogaLab / Mogra Empire / Pira.md",
     o: "Sevilla / Zaragoza",
@@ -320,4 +321,5 @@ const DATA_2017 = [
 ];
 
 export default DATA_2017;
+
 
