@@ -359,10 +359,11 @@ const DATA_2016 = [
       "Mis Hits",
       "Zona Wifi",
     ],
-    cover: "https://f4.bcbits.com/img/a0535038440_16.jpg",
+    cover: "https://i.scdn.co/image/ab67616d00001e02940f7fbe5cd332ba6fe32267",
     spotify: "https://open.spotify.com/album/4VxWobp5CB4ABmBpv3iQah",
   },
 ];
 
 export default DATA_2016;
+
 
