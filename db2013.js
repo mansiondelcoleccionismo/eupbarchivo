@@ -126,8 +126,8 @@ const DATA_2013 = [
   {
     a: "Cecilio G",
     t: "Robots N Unicorns",
-    l: "Independiente",
-    o: "Madrid",
+    l: "Klayaya",
+    o: "Barcelona",
     c: "#2ECC71",
     tk: [
       "Intro 1312",
@@ -179,7 +179,7 @@ const DATA_2013 = [
   {
     a: "Charly Efe",
     t: "Todos los ojos lloran sangre",
-    l: "EUPB",
+    l: "Independiente",
     o: "Valencia",
     c: "#C0392B",
     tk: [
@@ -225,7 +225,16 @@ const DATA_2013 = [
     l: "Independiente",
     o: "Canarias",
     c: "#5a6a7a",
-    tk: [],
+    tk: [
+"33 - Étre Supreme [Prod.Groove Drama]",
+"Everything is Everything - Étre Supreme [Prod.Groove Drama]",
+"El hombre que compró al Mundo - Étre Supreme [Prod.Onirisdrama]",
+"Interludio Follow Me [Prod. Groove Drama]",
+"Lovely RMX - Étre Supreme [Prod.Groove Drama]",
+"Untitled life - B.Borges [Prod.Supreme Drama]",
+"Opium - Étre Supreme [Prod.Supreme Drama]",
+"Outro, Sin causa, sin motivo [Prod. Groove Drama]",
+],
     cover:
       "https://i.postimg.cc/d3m5yRP0/Captura-de-pantalla-2026-03-03-164537.png",
   },
@@ -472,5 +481,6 @@ const DATA_2013 = [
 ];
 
 export default DATA_2013;
+
 
 
