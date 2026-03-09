@@ -531,7 +531,12 @@
             return;
           }
 
-          // Wait for fonts
+          // Force load graffiti fonts before rendering
+          await Promise.all([
+            document.fonts.load('bold 80px "Sedgwick Ave Display"'),
+            document.fonts.load('bold 80px "Permanent Marker"'),
+            document.fonts.load('bold 80px Impact'),
+          ]);
           await document.fonts.ready;
 
           grid.innerHTML = "";
