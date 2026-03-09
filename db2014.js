@@ -301,7 +301,7 @@ const DATA_2014 = [
     o: "Málaga",
     c: "#7a6a5a",
     tk: [],
-    cover: "",
+    cover: "https://i.scdn.co/image/ab67616d0000b2732235823e7c9afe7a52fc6dd1",
   },
   {
     a: "Love G. Jiménez & Al' des Saint",
@@ -310,7 +310,7 @@ const DATA_2014 = [
     o: "",
     c: "#5a7a6a",
     tk: [],
-    cover: "",
+    cover: "https://i.postimg.cc/qRcgBtMz/Captura-de-pantalla-2026-03-09-094325.png",
   },
   {
     a: "Ldk (Velazquez y B.Walls)",
@@ -328,7 +328,7 @@ const DATA_2014 = [
     o: "Madrid",
     c: "#27AE60",
     tk: [],
-    cover: "",
+    cover: "https://i.postimg.cc/VNDHxgXQ/Captura-de-pantalla-2026-03-09-094511.png",
   },
 
   {
@@ -360,7 +360,7 @@ const DATA_2014 = [
       "Interludio",
       "Say Holla",
     ],
-    cover: "",
+    cover: "https://i.scdn.co/image/ab67616d0000b2735c5c6ad630eac3d41ee924fb",
     spotify: "https://open.spotify.com/album/5qKJCnLVB24NpMY4OKbFVm",
   },
   {
@@ -386,7 +386,7 @@ const DATA_2014 = [
     o: "Granada",
     c: "#6a5a7a",
     tk: [],
-    cover: "",
+    cover: "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Fa595bf8d937101138fa7a18bffe0db4a.598x598x1.jpg",
   },
   {
     a: "DNC (Foyone, Stanpida, Kpo, Jokerfeller)",
@@ -395,7 +395,7 @@ const DATA_2014 = [
     o: "Málaga",
     c: "#7a6a5a",
     tk: [],
-    cover: "",
+    cover: "https://i.postimg.cc/MphyvQx9/Captura-de-pantalla-2026-03-09-095226.png",
   },
   {
     a: "Dellafuente",
@@ -404,7 +404,7 @@ const DATA_2014 = [
     o: "Granada",
     c: "#5a7a6a",
     tk: [],
-    cover: "",
+    cover: "https://i.postimg.cc/xTmj9Jss/Captura-de-pantalla-2026-03-09-095425.png",
   },
   {
     a: "Couple Minutes",
@@ -520,3 +520,4 @@ const DATA_2014 = [
 ];
 
 export default DATA_2014;
+
