@@ -354,7 +354,7 @@ const DATA_2011 = [
     a: "SH Música",
     t: "El Antibiótico",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#5a7a6a",
     tk: [],
     cover: "https://i.scdn.co/image/ab67616d0000b273e2997591abb387e6dc99fb43",
@@ -665,7 +665,7 @@ const DATA_2011 = [
     a: "Black Caesar",
     t: "Calidad antes que cantidad",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#5a7a6a",
     tk: [],
     cover:
@@ -710,5 +710,6 @@ const DATA_2011 = [
 ];
 
 export default DATA_2011;
+
 
 
