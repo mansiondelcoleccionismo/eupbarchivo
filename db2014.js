@@ -319,7 +319,7 @@ const DATA_2014 = [
     o: "",
     c: "#6a7a5a",
     tk: [],
-    cover: "",
+    cover: "https://i.postimg.cc/mgq0k8tp/Captura-de-pantalla-2026-03-09-095906.png",
   },
   {
     a: "Josito Migraña",
@@ -413,7 +413,7 @@ const DATA_2014 = [
     o: "",
     c: "#6a7a5a",
     tk: [],
-    cover: "",
+    cover: "https://i.postimg.cc/jjb4M79j/Captura-de-pantalla-2026-03-09-100144.png",
   },
   {
     a: "Click Clack Gang",
@@ -422,7 +422,7 @@ const DATA_2014 = [
     o: "",
     c: "#7a5a6a",
     tk: [],
-    cover: "",
+    cover: "https://f4.bcbits.com/img/a3885124119_16.jpg",
   },
   {
     a: "Charlie",
@@ -431,7 +431,7 @@ const DATA_2014 = [
     o: "Madrid",
     c: "#5a6a7a",
     tk: [],
-    cover: "",
+    cover: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8d/87/f4/8d87f41c-3f66-af5c-8af7-884620a423b4/03bfe843-9677-40e7-bb84-69d9a325a97c.jpg/600x600bf-60.jpg",
   },
   {
     a: "Cecilio G",
@@ -450,7 +450,7 @@ const DATA_2014 = [
     o: "",
     c: "#7a6a5a",
     tk: [],
-    cover: "",
+    cover: "https://undergroundhiphopblog.com/wp-content/uploads/2014/09/bong.jpeg",
   },
   {
     a: "Bombony Montana & Lone",
@@ -470,7 +470,7 @@ const DATA_2014 = [
       "Paris 95",
       "3 wishes",
     ],
-    cover: "https://f4.bcbits.com/img/a2834406590_16.jpg",
+    cover: "https://i.scdn.co/image/ab67616d0000b2732da6831dd4de8fcb05253049",
   },
   {
     a: "Black Caesar",
@@ -479,7 +479,7 @@ const DATA_2014 = [
     o: "",
     c: "#6a7a5a",
     tk: [],
-    cover: "",
+    cover: "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/b0/5c/99/b05c99c7-5712-48b1-8692-7aefd7c9c75f/8429006736515.jpg/600x600bf-60.jpg",
   },
   {
     a: "Aroon Baliti y Dj Volo",
@@ -488,7 +488,7 @@ const DATA_2014 = [
     o: "Madrid",
     c: "#7a5a6a",
     tk: [],
-    cover: "",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrDJDwStqRSbJnim7WoHH7nE89atYfIxRjmg&s",
   },
   {
     a: "Antonio Rodriguez / Ñete",
@@ -497,7 +497,7 @@ const DATA_2014 = [
     o: "",
     c: "#5a6a7a",
     tk: [],
-    cover: "",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzclhVJPUT00tHz2Nijqgpn7ColiVZVczow&s",
   },
   {
     a: "Amores Perros",
@@ -506,7 +506,7 @@ const DATA_2014 = [
     o: "Zaragoza",
     c: "#6a5a7a",
     tk: [],
-    cover: "",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJm91L9eFhQEu_hPcMVrOWglJEt8F7VJ8deg&s",
   },
   {
     a: "A. Rock",
@@ -515,9 +515,10 @@ const DATA_2014 = [
     o: "",
     c: "#7a6a5a",
     tk: [],
-    cover: "",
+    cover: "https://i.postimg.cc/285jgkMz/Captura-de-pantalla-2026-03-09-100822.png",
   },
 ];
 
 export default DATA_2014;
+
 
