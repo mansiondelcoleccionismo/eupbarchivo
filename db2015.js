@@ -317,7 +317,7 @@ const DATA_2015 = [
       "Que soy yo",
       "Mirando con cara de asco con Rafu C - Screw",
     ],
-    cover: "",
+    cover: "https://i1.sndcdn.com/artworks-000113517719-nsz5aq-t500x500.jpg",
   },
   {
     a: "PequeñoChico",
@@ -326,7 +326,7 @@ const DATA_2015 = [
     o: "Galicia",
     c: "#7a6a5a",
     tk: [],
-    cover: "",
+    cover: "https://i.postimg.cc/d0cj5x3j/Captura-de-pantalla-2026-03-09-102209.png",
   },
   {
     a: "Ochoa",
@@ -364,7 +364,7 @@ const DATA_2015 = [
       "Mía con Adriano Danzziani & Julieta Cavalaro",
       "Eks con Eks",
     ],
-    cover: "",
+    cover: "https://i.postimg.cc/3RvyzKqw/Captura-de-pantalla-2026-03-09-102603.png",
   },
   {
     a: "Maka",
@@ -429,7 +429,7 @@ const DATA_2015 = [
       "No es un pispas con Charlie & Zamor",
       "Eureka con LDK",
     ],
-    cover: "",
+    cover: "https://i1.sndcdn.com/artworks-000108174410-osrbbm-t500x500.jpg",
   },
   {
     a: "Jamas",
@@ -438,7 +438,7 @@ const DATA_2015 = [
     o: "",
     c: "#7a6a5a",
     tk: [],
-    cover: "",
+    cover: "https://i.postimg.cc/RVsM1kPQ/Captura-de-pantalla-2026-03-09-102820.png",
   },
 
   {
@@ -458,7 +458,7 @@ const DATA_2015 = [
     o: "Granada",
     c: "#5a7a6a",
     tk: [],
-    cover: "",
+    cover: "https://i.scdn.co/image/ab67616d0000b273c4dc07922a13bd2e90678251",
   },
   {
     a: "Dellafuente",
@@ -467,7 +467,7 @@ const DATA_2015 = [
     o: "Granada",
     c: "#7a5a6a",
     tk: [],
-    cover: "",
+    cover: "https://i.scdn.co/image/ab67616d0000b27366a53e4cd7885422fd1c2c62",
   },
   {
     a: "D.Vilas X Big NASA",
@@ -476,7 +476,7 @@ const DATA_2015 = [
     o: "Zaragoza",
     c: "#5a6a7a",
     tk: [],
-    cover: "",
+    cover: "https://i.postimg.cc/htD2nwgC/Captura-de-pantalla-2026-03-09-103346.png",
   },
   {
     a: "Ceerre",
@@ -523,7 +523,7 @@ const DATA_2015 = [
       "Agur con Endikah",
       "Postdata",
     ],
-    cover: "",
+    cover: "https://i.postimg.cc/26DbRpNb/Captura-de-pantalla-2026-03-09-103628.png",
   },
   {
     a: "94 Brous",
@@ -546,3 +546,4 @@ const DATA_2015 = [
 ];
 
 export default DATA_2015;
+
