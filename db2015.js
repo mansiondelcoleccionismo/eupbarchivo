@@ -387,7 +387,7 @@ const DATA_2015 = [
       "Pvreza con Vicente El Vicio",
       "Bolsillos vacíos",
     ],
-    cover: "https://i.scdn.co/image/ab67616d0000b273dc1bcae7d6e5b44e69b1f7ac",
+    cover: "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1c/01/87/1c018779-650f-0097-c324-99860a414c76/195081888392.jpg/1200x630bb.jpg",
     spotify: "https://open.spotify.com/album/3P0XhYM7JBTHhC5J0s7L2m",
   },
   {
@@ -410,7 +410,7 @@ const DATA_2015 = [
       "Heterodoxia",
       "Outro",
     ],
-    cover: "https://i.scdn.co/image/ab67616d0000b273082fc7dc58a83a82a4eb1892",
+    cover: "https://i.scdn.co/image/ab67616d00001e0223bc690d38026e035d71abb0",
     spotify: "https://open.spotify.com/album/5xIRlJqR7cz9VJ5OmgJsN7",
   },
   {
@@ -546,4 +546,5 @@ const DATA_2015 = [
 ];
 
 export default DATA_2015;
+
 
