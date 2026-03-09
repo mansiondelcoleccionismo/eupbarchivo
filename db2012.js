@@ -442,7 +442,7 @@ const DATA_2012 = [
     a: "Serye-B",
     t: "Aborigen",
     l: "Independiente",
-    o: "",
+    o: "Madrid",
     c: "#6a7a5a",
     tk: [],
     cover:
@@ -527,7 +527,7 @@ const DATA_2012 = [
     a: "Phicycle",
     t: "Proporción",
     l: "ValenciaEstancia",
-    o: "",
+    o: "Valencia",
     c: "#7a6a5a",
     tk: [],
     cover:
@@ -813,4 +813,5 @@ const DATA_2012 = [
 ];
 
 export default DATA_2012;
+
 
