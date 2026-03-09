@@ -771,7 +771,8 @@ const DATA_2012 = [
   },
 
   {
-    a: "Baboon & Ceerre",
+    a: "Baboon Estudios",
+    aa: ["Ceerre"],
     t: "Re Out",
     l: "Independiente",
     o: "Madrid",
@@ -813,6 +814,7 @@ const DATA_2012 = [
 ];
 
 export default DATA_2012;
+
 
 
 
