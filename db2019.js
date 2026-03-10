@@ -322,8 +322,64 @@ const DATA_2019 = [
     ],
     cover: "https://f4.bcbits.com/img/a1945779714_16.jpg",
   },
+  {
+    a: "Cecilio G",
+    t: "Todos Presos {TDPS}",
+    l: "Independiente",
+    o: "Barcelona",
+    c: "#FFD700",
+    tk: [
+  "INTRO TDPS",
+  "I mean it (Freestyle)",
+  "Peach",
+  "La calle está mala (con Saky (ESP))",
+  "Leskere",
+  "Vampira (con Lucifero 666)",
+  "Tu no",
+],
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b2737a1205f113c0450268dcc0cf",
+  },
+    {
+    a: "Cecilio G",
+    t: "Aleesha la Mixtape",
+    l: "Helsinki Pro",
+    o: "Barcelona",
+    c: "#FFD700",
+    tk: [
+  "Intro Aleesha (con Marvin Cruz)",
+  "Real Trap Sh*t (con Hwoarang (ESP) & Retromoney)",
+  "Batman (con Agon Beats)",
+  "Te Estás Haciendo una Foca (con Young Wolf)",
+  "Teletubi (con Pochi & Yung Beef)",
+  "Skit Headshot (con DiegoMCKB & El Mini)",
+  "Flex Like Uh (con Noone (ESP), Papi Trujillo & PvrpleBeatz)",
+  "Yo No (con Pochi)",
+],
+    cover:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/c4/32/06c432d2-2fa4-7f4b-36ac-58745a3d0549/196292081947.jpg/600x600bf-60.jpg",
+  },
+    {
+    a: "Cecilio G",
+    t: "Caries Hoe Xmas 4",
+    l: "Fuckda6 Record",
+    o: "Barcelona",
+    c: "#FFD700",
+    tk: [
+  "Intro (Pinky)",
+  "Sex",
+  "En la Gucci Store (con Lord P)",
+  "Que me llame Javier (con Chaboki)",
+  "Niño pequeño",
+],
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273556bf54fc79a846001380607",
+  },
+  
+  
 ];
 
 export default DATA_2019;
+
 
 
