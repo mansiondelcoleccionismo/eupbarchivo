@@ -784,7 +784,7 @@ const DATA_2012 = [
       "Episode 4 by Cecilio G. & Kuor (con Camilo Sesto)",
     ],
     cover:
-      "https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2F904560c0bf3ad2e1210ec05598093e55.1000x1000x1.jpg",
+      "https://i1.sndcdn.com/artworks-wxMzcF6aDABpDj4A-itYrtA-t500x500.jpg",
   },
 
   {
@@ -817,7 +817,7 @@ const DATA_2012 = [
       "Gipsy Eyes (Agon Remix)",
     ],
     cover:
-      "https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2Fe83481921541fbad4e4b8320c50bbd28.761x761x1.jpg",
+      "https://images.genius.com/e83481921541fbad4e4b8320c50bbd28.761x761x1.jpg",
   },
 
    {
@@ -883,12 +883,13 @@ const DATA_2012 = [
   "Agon Entertainment (con Sula (ESP))",
 ],
     cover:
-      "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Fdbfbeeef47129eaf83cf20aef52cb93e.1000x1000x1.jpg",
+      "https://images.genius.com/dbfbeeef47129eaf83cf20aef52cb93e.1000x1000x1.jpg",
   },
   
 ];
 
 export default DATA_2012;
+
 
 
 
