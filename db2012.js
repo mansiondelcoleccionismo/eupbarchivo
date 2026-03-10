@@ -819,6 +819,17 @@ const DATA_2012 = [
     cover:
       "https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2Fe83481921541fbad4e4b8320c50bbd28.761x761x1.jpg",
   },
+
+   {
+    a: "Asës",
+    t: "Represëntandome",
+    l: "Independiente",
+    o: "Valencia",
+    c: "#6a7a5a",
+    tk: [],
+    cover:
+      "https://i.postimg.cc/3wbFCHww/Captura-de-pantalla-2026-03-05-122545.png",
+  },
  
 {
     a: "Cecilio G",
@@ -836,7 +847,7 @@ const DATA_2012 = [
       "Outro Anal",
     ],
     cover:
-      "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F111021fd129586c864d67df42ecb7033.598x598x1.jpg",
+      "https://i.ytimg.com/vi/kyiZoaSjVxU/maxresdefault.jpg",
   },
   
   {
@@ -878,6 +889,7 @@ const DATA_2012 = [
 ];
 
 export default DATA_2012;
+
 
 
 
