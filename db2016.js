@@ -238,7 +238,18 @@ const DATA_2016 = [
     l: "Independiente",
     o: "Madrid",
     c: "#7a6a5a",
-    tk: [],
+    tk: [
+      "Subastas (Christie's Real State)",
+      "Skit I",
+      "Goldman Sachs (New Underground Order)",
+      "Skit II",
+      "Claroscuro (Trashville)",
+      "Skit III",
+      "PrettyGirlsMakesGraves (Ridin')",
+      "Skit IV",
+      "MK ULTRA MIX",
+      "Kunst (Museum of bad arts)",
+    ],
     cover: "https://f4.bcbits.com/img/a2671186280_2.jpg",
   },
   {
@@ -247,7 +258,14 @@ const DATA_2016 = [
     l: "Independiente",
     o: "Madrid",
     c: "#5a7a6a",
-    tk: [],
+    tk: [
+      "Hood Witch (Tears of Abigail Williams)",
+      "Insolación (con EL JERYNGGA aka ERROR COSMOS)",
+      "Diamond Ball Gag (Human Isolation Experiment)",
+      "Messiah.exe (Suicidal Music For Sleep)",
+      "Seku-Hara ❤❤❤ (Psychiatric Luv Care Unit)",
+      "Bonus track: El sexto clavo (Last Day on Earth)",
+    ],
     cover: "https://f4.bcbits.com/img/a4233810453_16.jpg",
   },
   {
@@ -362,8 +380,78 @@ const DATA_2016 = [
     cover: "https://i.scdn.co/image/ab67616d00001e02940f7fbe5cd332ba6fe32267",
     spotify: "https://open.spotify.com/album/4VxWobp5CB4ABmBpv3iQah",
   },
+
+   {
+    a: "Cecilio G",
+    t: "Caries Hoe Xmas",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#6a5a7a",
+    tk: [
+      "CARIES HOE X-MAS",
+      "The Return Of The Pimp",
+      "Brigada Sucia",
+      "Bigotero (con Saky (ESP))",
+      "Lamborgini",
+    ],
+    cover: "https://i.scdn.co/image/ab67616d00001e02780ac6e922b8743e66be2e30",
+  },
+ {
+    a: "Cecilio G",
+    t: "Tiger",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#6a5a7a",
+    tk: [
+      "CARIES HOE X-MAS",
+      "The Return Of The Pimp",
+      "Brigada Sucia",
+      "Bigotero (con Saky (ESP))",
+      "Lamborgini",
+    ],
+    cover: "https://f4.bcbits.com/img/a0307533366_10.jpg",
+  },
+
+   {
+    a: "Cecilio G",
+    t: "Ten Shin Juan B-Day 15th",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#6a5a7a",
+    tk: [
+      "La Jarfaiter",
+      "Ten Shin Juan",
+    ],
+    cover: "https://f4.bcbits.com/img/a2700069541_16.jpg",
+  },
+
+   {
+    a: "Cecilio G",
+    t: "Max Power",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#6a5a7a",
+    tk: [
+      "INTROMAXPOWER",
+      "FALSOS",
+      "GUAPOS (con Elvis KNK)",
+      "RALLY/CANCIÓN BONITA CON TAPE STOP",
+      "JOAGANG",
+      "Hard In The Paint",
+      "KLK (con Kidd Keo)",
+      "SKIT by Pablo Xtrm",
+      "FLEXBOY",
+      "TORO DE LA VEGA",
+      "RAINBOW (con Lil Moss)",
+      "KANYEWEST",
+    ],
+    cover: "https://images.genius.com/9c77b42bd3e1188b33d3f10d47151c66.1000x1000x1.jpg",
+  },
+  
+  
 ];
 
 export default DATA_2016;
+
 
 
