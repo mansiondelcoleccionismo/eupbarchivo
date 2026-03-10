@@ -811,9 +811,26 @@ const DATA_2012 = [
     cover:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCBKAi7G4hOZu8aw2FvNMwW1uvuwRp1cYlug&s",
   },
+{
+    a: "Cecilio G",
+    t: "REMEMBERIN’ PACHANGEO (Back in the Days)",
+    l: "Independiente",
+    o: "Barcelona",
+    c: "#7a5a6a",
+    tk: [
+  "Making Doodle",
+  "MXCXRRX",
+  "Bogatell Kinki",
+  "Agon Entertainment (con Sula (ESP))",
+]
+    cover:
+      "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Fdbfbeeef47129eaf83cf20aef52cb93e.1000x1000x1.jpg",
+  },
+  
 ];
 
 export default DATA_2012;
+
 
 
 
