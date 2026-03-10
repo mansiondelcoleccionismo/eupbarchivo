@@ -287,7 +287,16 @@ const DATA_2017 = [
     l: "ANB",
     o: "Madrid",
     c: "#7a6a5a",
-    tk: [],
+    tk: [
+  "SouzReptil - Dat Way (con El Viejo Nick & Original Sur)",
+  "Creepy The King - Dope 4 Days",
+  "Button Bricks - No Hook",
+  "Original Sur - Sur lado (con El Viejo Nick & Button Bricks)",
+  "Original Sur - Maniaco (con El Viejo Nick & Button Bricks)",
+  "Original Sur - No gracias (con El Viejo Nick)",
+  "Button Bricks - Rock Stars (con El Viejo Nick, Original Sur & SouzReptil)",
+  "Original Sur - Drill Shit (con Button Bricks)",
+],
     cover:
       "https://e.snmc.io/i/600/w/a084144fd54eda8bab9f0bd856946316/8497034/anb-blueworld2k17-Cover-Art.jpg",
   },
@@ -318,8 +327,79 @@ const DATA_2017 = [
     cover:
       "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/6651/big_M.O.M..jpg",
   },
+
+  {
+    a: "Cecilio G",
+    t: "Caries Hoe Xmas 2",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#32CD32",
+    tk: [
+      "23",
+      "Mi Hermano (con Jalber Enfermo)",
+      "Como el de Coco (con Damed Squad)",
+      "QUE (con Lil Moss)",
+    ],
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273239fbe7ec702c73aece7c8b1",
+  },
+
+  {
+    a: "Cecilio G",
+    t: "Praw Combo",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#32CD32",
+    tk: [
+      "Intro",
+      "Praw Combo",
+      "De Chico",
+      "Rally Out",
+    ],
+    cover:
+      "https://f4.bcbits.com/img/a3375109845_16.jpg",
+  },
+
+  {
+    a: "Cecilio G",
+    t: "Fin",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#32CD32",
+    tk: [
+      "FIN",
+      "Lo Que Te Quiero",
+      "Peli",
+      "Faveleo",
+      "Friday",
+      "Skit",
+      "Antonio Alcántara (con El Coleta)",
+      "Como Naruto",
+      "500",
+    ],
+    cover:
+      "https://f4.bcbits.com/img/a1527237829_16.jpg",
+  },
+
+  {
+    a: "Cecilio G",
+    t: "RACISTALBUM",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#32CD32",
+    tk: [
+      "IPhone 7",
+      "Two Times",
+      "Retrokeys",
+      "Sobre la Calle (con Saky (ESP))",
+      "From Darkness With Love",
+    ],
+    cover:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/72/c9/d9/72c9d927-18f3-89e2-d30d-8e82082316b2/193483906058.jpg/600x600bf-60.jpg",
+  },
 ];
 
 export default DATA_2017;
+
 
 
