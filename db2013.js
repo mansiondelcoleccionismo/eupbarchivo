@@ -533,12 +533,13 @@ const DATA_2013 = [
       "I'm Nxt Lxcx by Cecilio G.",
     ],
     cover:
-      "https://i.postimg.cc/9Fhx8CWr/Captura-de-pantalla-2026-03-05-125504.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCIybMDRJwOC9TLIGoRvRbwVMwO_RiQVFUA&s",
   },
   
 ];
 
 export default DATA_2013;
+
 
 
 
