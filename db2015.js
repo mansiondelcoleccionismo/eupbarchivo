@@ -543,9 +543,45 @@ const DATA_2015 = [
     tk: [],
     cover: "https://i.scdn.co/image/ab67616d00001e024c229e8b2e32b85807f93f69",
   },
+
+   {
+    a: "Cecilio G",
+    t: "VOTOX FUBU",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#6a5a7a",
+    tk: [
+      "LO.OCO",
+      "☯☯☯☯☯ (con Kaixo)",
+      "SCORPIO (2015)",
+      "DE TROMPO (1312 REMIX)",
+      "EL TÍO MAJO DE LA DISCOTECA (con Mr. Neo)",
+      "Android by Scarface Johansson",
+      "Monster the doctor 46 (con El Mini)",
+      "Outro",
+    ],
+    cover: "https://images.genius.com/a62eff82d2f6eff46246370073a3fb7b.596x596x1.jpg",
+  },
+
+   {
+    a: "Cecilio G",
+    t: "Adamantium",
+    l: "Dope Music",
+    o: "Barcelona",
+    c: "#6a5a7a",
+    tk: [
+      "Meik the Intro",
+      "Demons",
+      "Game & Performance",
+      "Pussyos",
+      "Rock N Roll Star",
+    ],
+    cover: "https://f4.bcbits.com/img/a0674781415_10.jpg",
+  },
 ];
 
 export default DATA_2015;
+
 
 
 
