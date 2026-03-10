@@ -335,7 +335,47 @@ const DATA_2018 = [
       "https://i.scdn.co/image/ab67616d0000b273212b044847323d4f2fd3bb6a",
     spotify: "https://open.spotify.com/album/3xFCSN4oKeJE1lJ2c5KLZQ",
   },
+
+   {
+    a: "Cecilio G",
+    t: "Caries Hoe Xmas 3",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#5a6a7a",
+    tk: [
+  "Intro (Caries Hoe Xmas 3)",
+  "Psyco Killer",
+  "Baby (con Damed Squad)",
+  "Claro Que Si (con Lil Moss)",
+  "23.2",
+],
+    cover: "https://i.scdn.co/image/ab67616d0000b273928d46f31fbd49522f39860f",
+  },
+
+   {
+    a: "Cecilio G",
+    t: "MAD MAX POWER",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#5a6a7a",
+    tk: [
+  "Intro (MAD MAX POWER)",
+  "GFP",
+  "Trendy Balls + Maxzurrio",
+  "Barro",
+  "Chico Raro",
+  "MAD MAX POWER",
+  "Rally K (con WE$T DUBAI)",
+  "Tema Lil Moss by Cecilio G. & Lil Moss",
+  "C18 (con Mishii)",
+  "Quisiera (con Mr. Neo)",
+],
+    cover: "https://images.genius.com/84b02d4bb82096cefa83b91acb4c257b.1000x1000x1.jpg",
+  },
+
+  
 ];
 
 export default DATA_2018;
+
 
