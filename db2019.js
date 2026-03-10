@@ -5,7 +5,7 @@ const DATA_2019 = [
   {
     a: "Cecilio G",
     t: "Million Dollar Baby",
-    l: "Independiente",
+    l: "La Vendición",
     o: "Barcelona",
     c: "#FFD700",
     tk: [
@@ -65,7 +65,7 @@ const DATA_2019 = [
   {
     a: "Skyhook",
     t: "Moonchies",
-    l: "Independiente",
+    l: "Helsinkipro",
     o: "Zaragoza",
     c: "#4B0082",
     tk: [
@@ -325,4 +325,5 @@ const DATA_2019 = [
 ];
 
 export default DATA_2019;
+
 
