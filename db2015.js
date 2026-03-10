@@ -578,9 +578,44 @@ const DATA_2015 = [
     ],
     cover: "https://f4.bcbits.com/img/a0674781415_10.jpg",
   },
+ {
+    a: "Cecilio G",
+    t: "I Still With Apes HDA",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#6a5a7a",
+    tk: [
+      "Alloza Latino + Joven Pablo",
+      "Metalika-.-",
+      "Ferrari Negro (con Kinder Malo & Pimp Flaco)",
+      "El Luce Es Encantador",
+      "Colón Colón (con Dicc)",
+      "Hijo en Adopción de Drake y Pingu +2",
+      "El Hit: Cucacracas en la Cocina by Richard Mangosta",
+      "Marina",
+      "Ffffff + U",
+    ],
+    cover: "https://i.scdn.co/image/ab67616d0000b273a83e05f9465988c805a7592b",
+  },
+{
+    a: "Cecilio G",
+    t: "The Real Ninja",
+    l: "Poland Music",
+    o: "Barcelona",
+    c: "#6a5a7a",
+    tk: [
+      "Intro Dastal",
+      "Gucci Fendy o Prawda ç",
+      "El Maricon de Esteban y Su Colega el Negro by Cecilio G. & P.A.W.N. Gang",
+      "The Real Ninja by Cecilio G. & Pimp Flaco",
+    ],
+    cover: "https://cdn-images.dzcdn.net/images/cover/c674696f31cefe41502bb60d939327a4/0x1900-000000-80-0-0.jpg",
+  },
+  
 ];
 
 export default DATA_2015;
+
 
 
 
