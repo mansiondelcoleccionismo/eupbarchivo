@@ -480,9 +480,66 @@ const DATA_2013 = [
     cover:
       "https://i.postimg.cc/9Fhx8CWr/Captura-de-pantalla-2026-03-05-125504.png",
   },
+{
+    a: "Cecilio G",
+    t: "Cecilio Godzilla",
+    l: "Klayaya",
+    o: "Barcelona",
+    c: "#6a7a5a",
+    tk: [
+      "Enterrador de cementerios",
+      "Cecilio Godzilla (con Erre Noguera)",
+      "Ace-Ventura",
+      "Kogatell Bing",
+      "Pink Panther",
+      "Street Nektar (con MAG77 & Surekid)",
+      "King of Fabulous N Bimmer",
+      "Makarra MPB",
+      "Egipcian Pandero",
+      "Outro (Pervert)",
+    ],
+    cover:
+      "https://i1.sndcdn.com/artworks-2eNnHhuMz1AEyQKw-apgaAg-t500x500.jpg",
+  },
+
+   {
+    a: "Cecilio G",
+    t: "Fo Ma Blvncx Bichx",
+    l: "Klayaya",
+    o: "Barcelona",
+    c: "#6a7a5a",
+    tk: [
+      "Intro (Cumpleaños Feliz)",
+      "Trve Dxn Jvan",
+      "Fo Ma Blvncx Bichx",
+    ],
+    cover:
+      "https://images.genius.com/ba9dbb6ebb7a8cb6788bad89b3f9eaf7.600x600x1.jpg",
+  },
+
+   {
+    a: "Cecilio G",
+    t: "Flirting Dogz Album",
+    l: "Klayaya",
+    o: "Barcelona",
+    c: "#6a7a5a",
+    tk: [
+      "Intro F. Dogz (con Erre Noguera)",
+      "MediaFire",
+      "BVGZ BVNNY",
+      "RUFFIOOOh by Cecilio G. (con Yung Beef)",
+      "BENZEBV by Drakuling Ko-Karim",
+      "EL VIOLADOR (Is No Trapsilvania But Is Trapsilvania)",
+      "I'm Nxt Lxcx by Cecilio G.",
+    ],
+    cover:
+      "https://i.postimg.cc/9Fhx8CWr/Captura-de-pantalla-2026-03-05-125504.png",
+  },
+  
 ];
 
 export default DATA_2013;
+
 
 
 
