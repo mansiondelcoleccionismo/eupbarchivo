@@ -770,6 +770,23 @@ const DATA_2012 = [
       "https://ilustremario.com/contenido/proyectos/contenidos/thumbs/ilustremariobigsabanas01996833360.jpg",
   },
 
+   {
+    a: "Cecilio G",
+    aa: ["Kuor Larraz"],
+    t: "Legal Drugz",
+    l: "Klayaya",
+    o: "Barcelona",
+    c: "#6a7a5a",
+    tk: [
+      "Episode 1 by Cecilio G. & Kuor",
+      "Episode 2 by Cecilio G. & Kuor",
+      "Episode 3 (Agon Episode) by Cecilio G. & Kuor (con Akon, Porqe & Dual)",
+      "Episode 4 by Cecilio G. & Kuor (con Camilo Sesto)",
+    ],
+    cover:
+      "https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2F904560c0bf3ad2e1210ec05598093e55.1000x1000x1.jpg",
+  },
+
   {
     a: "Baboon Estudios",
     aa: ["Ceerre"],
@@ -781,6 +798,27 @@ const DATA_2012 = [
     cover:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ExEe_izA9n0PF-3g8FVCp6iq8wyGED7KEw&s",
   },
+
+   {
+    a: "Cecilio G",
+    t: "In The Corner",
+    l: "Klayaya",
+    o: "Barcelona",
+    c: "#5a7a6a",
+    tk: [
+      "Introducción a mi clase",
+      "Stupid MDF (con Kuor Larraz)",
+      "Mis Baladas",
+      "Skit - Drakuling by Drakuling Ko-Karim",
+      "Livin' La Shitness Loca Vol. 1 (con Surekid)",
+      "Chicken With Rice",
+      "Skit - Fat All by Fat All",
+      "Cuánta Puta Y Yo Que Viejo (con Siniestro Total)",
+      "Gipsy Eyes (Agon Remix)",
+    ],
+    cover:
+      "https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2Fe83481921541fbad4e4b8320c50bbd28.761x761x1.jpg",
+  },
   {
     a: "Asës",
     t: "Represëntandome",
@@ -791,6 +829,25 @@ const DATA_2012 = [
     cover:
       "https://i.postimg.cc/3wbFCHww/Captura-de-pantalla-2026-03-05-122545.png",
   },
+{
+    a: "Cecilio G",
+    t: "Morriers Gang",
+    l: "Klayaya",
+    o: "Barcelona",
+    c: "#5a6a7a",
+    tk: [
+      "Intro Massachusetts",
+      "Mad MC",
+      "EngerFace",
+      "Top Grip",
+      "Weeds (con Kuor Larraz)",
+      "Skit - Los Brincos",
+      "Outro Anal",
+    ],
+    cover:
+      "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F111021fd129586c864d67df42ecb7033.598x598x1.jpg",
+  },
+  
   {
     a: "Adriano Danzziani",
     t: "Catenaccio",
@@ -830,6 +887,7 @@ const DATA_2012 = [
 ];
 
 export default DATA_2012;
+
 
 
 
