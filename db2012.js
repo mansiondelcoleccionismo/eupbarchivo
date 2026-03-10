@@ -881,7 +881,7 @@ const DATA_2012 = [
   "MXCXRRX",
   "Bogatell Kinki",
   "Agon Entertainment (con Sula (ESP))",
-]
+],
     cover:
       "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Fdbfbeeef47129eaf83cf20aef52cb93e.1000x1000x1.jpg",
   },
@@ -889,6 +889,7 @@ const DATA_2012 = [
 ];
 
 export default DATA_2012;
+
 
 
 
