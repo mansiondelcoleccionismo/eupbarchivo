@@ -509,6 +509,40 @@ const DATA_2014 = [
     tk: [],
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJm91L9eFhQEu_hPcMVrOWglJEt8F7VJ8deg&s",
   },
+
+   {
+    a: "Cecilio G",
+    t: "Caries Gold",
+    l: "Klayaya",
+    o: "Barcelona",
+    c: "#6a7a5a",
+    tk: [
+      "Gaussian G-ndy",
+      "Goku (con Yung Beef)",
+      "Ma Thug Teenage Luv",
+      "Palmeras",
+    ],
+    cover: "https://i1.sndcdn.com/artworks-YlRDc2psgja3lNf8-LIktlA-t500x500.jpg",
+  },
+
+   {
+    a: "Cecilio G",
+    t: "Polla Blava",
+    l: "Klayaya",
+    o: "Barcelona",
+    c: "#6a7a5a",
+    tk: [
+      "Intro Polla Blava",
+      "My Signo (AGZ Diss.)",
+      "Trashss (con Drakuling Ko-Karim)",
+      "Chicken With Rice RMX",
+      "El Bueno de Markus",
+      "???????",
+      "Hobiron Bitch (con Hack_nug)",
+      "Donatello",
+    ],
+    cover: "https://cdn-images.dzcdn.net/images/cover/119265d59651d634f23a065ebd775d08/0x1900-000000-80-0-0.jpg",
+  },
   {
     a: "A. Rock",
     t: "Oceank",
@@ -521,6 +555,7 @@ const DATA_2014 = [
 ];
 
 export default DATA_2014;
+
 
 
 
