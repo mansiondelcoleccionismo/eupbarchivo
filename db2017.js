@@ -395,11 +395,12 @@ const DATA_2017 = [
       "From Darkness With Love",
     ],
     cover:
-      "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/72/c9/d9/72c9d927-18f3-89e2-d30d-8e82082316b2/193483906058.jpg/600x600bf-60.jpg",
+      "https://i.scdn.co/image/ab67616d0000b27349d44f9be51b2ec8593fabcd",
   },
 ];
 
 export default DATA_2017;
+
 
 
 
