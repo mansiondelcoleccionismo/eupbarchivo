@@ -357,7 +357,7 @@ const DATA_2019 = [
   "Yo No (con Pochi)",
 ],
     cover:
-      "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/c4/32/06c432d2-2fa4-7f4b-36ac-58745a3d0549/196292081947.jpg/600x600bf-60.jpg",
+      "https://i.scdn.co/image/ab67616d0000b273214a1930d941b407346cf678",
   },
     {
     a: "Cecilio G",
@@ -380,6 +380,7 @@ const DATA_2019 = [
 ];
 
 export default DATA_2019;
+
 
 
 
