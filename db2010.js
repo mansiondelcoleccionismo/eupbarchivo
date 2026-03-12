@@ -164,6 +164,7 @@ const DATA_2010 = [
     ],
     cover:
       "https://i.postimg.cc/85ZQc2p4/La-clave-urbana-Delantera-Subterraneo-septiembre-16601.jpg",
+    youtube: "esx-we30Slk",
   },
   {
     a: "Charly Efe",
@@ -190,6 +191,8 @@ const DATA_2010 = [
     ],
     cover:
       "https://images.genius.com/c00748077f89718ecb9d2e9a2e9ebd48.500x500x1.jpg",
+        youtube: "z09W2iZZvvg",
+
   },
   {
     a: "935",
@@ -221,6 +224,7 @@ const DATA_2010 = [
     ],
     cover:
       "https://i.postimg.cc/RFsy4wdb/935-Delantera-No-me-creo-nada-13388.jpg",
+    youtube: "sLrnM49fqXY",
   },
   {
     a: "Javier Petaka",
@@ -596,4 +600,5 @@ const DATA_2010 = [
 ];
 
 export default DATA_2010;
+
 
