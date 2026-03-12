@@ -51,6 +51,27 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="catalogo.css" />
+    <style>
+      /* ── YouTube embed en modal ── */
+      .mo-yt {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%; /* 16:9 */
+        height: 0;
+        margin: 0 0 18px;
+        border-radius: 8px;
+        overflow: hidden;
+        background: #000;
+      }
+      .mo-yt-frame {
+        position: absolute;
+        top: 0; left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+        border-radius: 8px;
+      }
+    </style>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -694,8 +715,7 @@
         let lk = "";
         if (a.spotify)
           lk += `<a class="mo-lk" href="${a.spotify}" target="_blank" rel="noopener">🎵 SPOTIFY</a>`;
-        if (a.youtube)
-          lk += `<a class="mo-lk" href="https://youtube.com/watch?v=${a.youtube}" target="_blank" rel="noopener">▶ YOUTUBE</a>`;
+        // YouTube se muestra como player embebido, no como enlace
         if (a.bandcamp)
           lk += `<a class="mo-lk" href="${a.bandcamp}" target="_blank" rel="noopener">🎧 BANDCAMP</a>`;
         const tk =
@@ -781,6 +801,7 @@
             ? `<div class="mo-rand"><button class="hero-cta" onclick="window._randAgain()">🎲 OTRO DISCO</button></div>`
             : ""
         }
+        ${a.youtube ? `<div class="sct">DISCO COMPLETO EN YOUTUBE</div><div class="mo-yt"><iframe class="mo-yt-frame" src="https://www.youtube.com/embed/${a.youtube}?rel=0" title="${esc(a.a)} — ${esc(a.t)}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe></div>` : ""}
         ${tk}
         ${(() => {
           // Get all discos from this artist (and aa artists)
