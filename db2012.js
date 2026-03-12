@@ -21,6 +21,8 @@ const DATA_2012 = [
     ],
     cover:
       "https://cdn-images.dzcdn.net/images/cover/7ecc42db4fba021e215cfe1cab4dfd66/1900x1900-000000-80-0-0.jpg",
+    youtube: "1fbueJt_d2c",
+
   },
   {
     a: "Kefta Boys",
@@ -299,6 +301,7 @@ const DATA_2012 = [
       "Slang",
     ],
     cover: "https://f4.bcbits.com/img/a0629426405_10.jpg",
+    youtube: "MqM7fsY0WP4",
   },
   {
     a: "Toscano",
@@ -889,6 +892,7 @@ const DATA_2012 = [
 ];
 
 export default DATA_2012;
+
 
 
 
