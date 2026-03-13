@@ -910,7 +910,6 @@
       .cd-link {
         text-decoration: none;
         color: inherit;
-        display: contents;
       }
       .cd:hover {
         border-color: rgba(237, 28, 36, 0.25);
