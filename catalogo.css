@@ -907,6 +907,11 @@
         transition: all 0.3s var(--ez);
         position: relative;
       }
+      .cd-link {
+        text-decoration: none;
+        color: inherit;
+        display: block;
+      }
       .cd:hover {
         border-color: rgba(237, 28, 36, 0.25);
         transform: translateY(-4px);
@@ -988,6 +993,10 @@
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
+      }
+      h3.cd-t {
+        font-weight: normal;
+        margin: 0;
       }
       .cd-ft {
         display: flex;
