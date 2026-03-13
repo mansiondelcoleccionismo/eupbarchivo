@@ -636,6 +636,9 @@
           h += `<div class="grd sr">${f.map(cd).join("")}</div>`;
         }
         c.innerHTML = h;
+        c.querySelectorAll(".cd").forEach((x) => {
+          x.onclick = () => window._o(x.dataset.id);
+        });
         requestAnimationFrame(() => {
           document.querySelectorAll(".sr:not(.vis)").forEach((el) => {
             const ob = new IntersectionObserver(
@@ -655,24 +658,22 @@
       function cd(a) {
         const s = gs(a.id),
           cl = s > 0 ? "pos" : s < 0 ? "neg" : "zer";
-        return `<a href="${a.permalink}" class="cd-link" onclick="event.preventDefault();window._o('${a.id}')">
-        <article class="cd" data-id="${a.id}">
+        return `<article class="cd" data-id="${a.id}">
         ${a.inM ? '<div class="cd-badge">🏛️</div>' : ""}
         <div class="cd-iw"><img class="cd-img" src="${cov(a.cover)}" alt="${a.a} - ${a.t}" loading="lazy"><div class="cd-ov"><div class="cd-play">▶</div></div></div>
-        <div class="cd-bd"><div class="cd-a">${linkedArtist(a)}</div><h3 class="cd-t">${a.t}</h3>
-        <div class="cd-ft"><span class="cd-o"><a class="cd-o-link" onclick="event.stopPropagation();event.preventDefault();window._filterCity('${a.o}')">${a.o}</a></span><span class="cd-v ${cl}">${s > 0 ? "+" : ""}${s} ♥</span></div></div></article></a>`;
+        <div class="cd-bd"><div class="cd-a">${linkedArtist(a)}</div><div class="cd-t">${a.t}</div>
+        <div class="cd-ft"><span class="cd-o"><a class="cd-o-link" onclick="event.stopPropagation();window._filterCity('${a.o}')">${a.o}</a></span><span class="cd-v ${cl}">${s > 0 ? "+" : ""}${s} ♥</span></div></div></article>`;
       }
 
       // Card variant for artist profile: shows year instead of city
       function cdArt(a) {
         const s = gs(a.id),
           cl = s > 0 ? "pos" : s < 0 ? "neg" : "zer";
-        return `<a href="${a.permalink}" class="cd-link" onclick="event.preventDefault();window._o('${a.id}')">
-        <article class="cd" data-id="${a.id}">
+        return `<article class="cd" data-id="${a.id}">
         ${a.inM ? '<div class="cd-badge">🏛️</div>' : ""}
         <div class="cd-iw"><img class="cd-img" src="${cov(a.cover)}" alt="${a.a} - ${a.t}" loading="lazy"><div class="cd-ov"><div class="cd-play">▶</div></div></div>
-        <div class="cd-bd"><div class="cd-a">${linkedArtist(a)}</div><h3 class="cd-t">${a.t}</h3>
-        <div class="cd-ft"><span class="cd-o">${a.year}</span><span class="cd-v ${cl}">${s > 0 ? "+" : ""}${s} ♥</span></div></div></article></a>`;
+        <div class="cd-bd"><div class="cd-a">${linkedArtist(a)}</div><div class="cd-t">${a.t}</div>
+        <div class="cd-ft"><span class="cd-o">${a.year}</span><span class="cd-v ${cl}">${s > 0 ? "+" : ""}${s} ♥</span></div></div></article>`;
       }
 
       // Modal
@@ -1116,6 +1117,10 @@
         const extra = all.filter((a) => a.year === +y && !a.inM);
         if (!grid) return;
         grid.innerHTML += extra.map(cd).join("");
+        grid.querySelectorAll(".cd:not([data-bound])").forEach((x) => {
+          x.dataset.bound = "1";
+          x.onclick = () => window._o(x.dataset.id);
+        });
         if (btn) btn.parentElement.remove();
       };
 
