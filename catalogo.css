@@ -896,6 +896,9 @@
         );
         gap: clamp(8px, 1.5vw, 14px);
       }
+      .grd > .cd-link {
+        min-width: 0;
+      }
 
       /* ═ CARD ═ */
       .cd {
@@ -911,6 +914,7 @@
         text-decoration: none;
         color: inherit;
         display: block;
+        min-width: 0;
       }
       .cd:hover {
         border-color: rgba(237, 28, 36, 0.25);
