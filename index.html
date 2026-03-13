@@ -660,9 +660,19 @@
           cl = s > 0 ? "pos" : s < 0 ? "neg" : "zer";
         return `<article class="cd" data-id="${a.id}">
         ${a.inM ? '<div class="cd-badge">🏛️</div>' : ""}
-        <div class="cd-iw"><img class="cd-img" src="${cov(a.cover)}" alt="${a.a} - ${a.t}" loading="lazy"><div class="cd-ov"><div class="cd-play">▶</div></div></div>
-        <div class="cd-bd"><div class="cd-a">${linkedArtist(a)}</div><div class="cd-t">${a.t}</div>
-        <div class="cd-ft"><span class="cd-o"><a class="cd-o-link" onclick="event.stopPropagation();window._filterCity('${a.o}')">${a.o}</a></span><span class="cd-v ${cl}">${s > 0 ? "+" : ""}${s} ♥</span></div></div></article>`;
+        <div class="cd-iw"><img class="cd-img" src="${cov(a.cover)}" alt="${
+          a.a
+        } - ${
+          a.t
+        }" loading="lazy"><div class="cd-ov"><div class="cd-play">▶</div></div></div>
+        <div class="cd-bd"><div class="cd-a">${linkedArtist(
+          a
+        )}</div><div class="cd-t">${a.t}</div>
+        <div class="cd-ft"><span class="cd-o"><a class="cd-o-link" onclick="event.stopPropagation();window._filterCity('${
+          a.o
+        }')">${a.o}</a></span><span class="cd-v ${cl}">${
+          s > 0 ? "+" : ""
+        }${s} ♥</span></div></div></article>`;
       }
 
       // Card variant for artist profile: shows year instead of city
@@ -671,9 +681,19 @@
           cl = s > 0 ? "pos" : s < 0 ? "neg" : "zer";
         return `<article class="cd" data-id="${a.id}">
         ${a.inM ? '<div class="cd-badge">🏛️</div>' : ""}
-        <div class="cd-iw"><img class="cd-img" src="${cov(a.cover)}" alt="${a.a} - ${a.t}" loading="lazy"><div class="cd-ov"><div class="cd-play">▶</div></div></div>
-        <div class="cd-bd"><div class="cd-a">${linkedArtist(a)}</div><div class="cd-t">${a.t}</div>
-        <div class="cd-ft"><span class="cd-o">${a.year}</span><span class="cd-v ${cl}">${s > 0 ? "+" : ""}${s} ♥</span></div></div></article>`;
+        <div class="cd-iw"><img class="cd-img" src="${cov(a.cover)}" alt="${
+          a.a
+        } - ${
+          a.t
+        }" loading="lazy"><div class="cd-ov"><div class="cd-play">▶</div></div></div>
+        <div class="cd-bd"><div class="cd-a">${linkedArtist(
+          a
+        )}</div><div class="cd-t">${a.t}</div>
+        <div class="cd-ft"><span class="cd-o">${
+          a.year
+        }</span><span class="cd-v ${cl}">${
+          s > 0 ? "+" : ""
+        }${s} ♥</span></div></div></article>`;
       }
 
       // Modal
@@ -2718,22 +2738,6 @@
           );
           ob.observe(el);
         });
-
-        // SEO: noscript-like link block for crawlers
-        const seoDiv = document.createElement('div');
-        seoDiv.id = 'seo-links';
-        seoDiv.setAttribute('aria-hidden', 'true');
-        seoDiv.style.cssText = 'position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)';
-        let seoHTML = '<nav aria-label="Catálogo completo">';
-        all.forEach(a => {
-          seoHTML += `<a href="${a.permalink}">${a.displayA || a.a} - ${a.t} (${a.year})</a> `;
-        });
-        Object.keys(slugToArtist).forEach(slug => {
-          seoHTML += `<a href="#artista/${slug}">${slugToArtist[slug][0].a}</a> `;
-        });
-        seoHTML += '</nav>';
-        seoDiv.innerHTML = seoHTML;
-        document.body.appendChild(seoDiv);
       }
       init();
     </script>
