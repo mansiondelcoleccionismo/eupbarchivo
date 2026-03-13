@@ -624,11 +624,18 @@
           Object.keys(g)
             .sort()
             .forEach((ci) => {
+              const first = g[ci].slice(0, 10);
+              const extra = g[ci].slice(10);
+              const gridId = `grd-city-${ci.replace(/[^a-zA-Z0-9]/g, '_')}`;
+              const btnId = `btn-city-${ci.replace(/[^a-zA-Z0-9]/g, '_')}`;
               h += `<div class="yh sr"><div class="yn" onclick="window._filterCity('${ci}')" style="cursor:pointer" title="Ver discos de ${ci}">📍 ${ci.toUpperCase()}</div><div class="yl"></div><div class="yc">${
                 g[ci].length
-              } DISCOS</div></div><div class="grd sr">${g[ci]
+              } DISCOS</div></div><div class="grd sr" id="${gridId}">${first
                 .map(cd)
                 .join("")}</div>`;
+              if (extra.length) {
+                h += `<div style="text-align:center;margin:-4px 0 28px"><button id="${btnId}" class="brnd" onclick="window._loadMoreCity('${ci.replace(/'/g, "\\'")}','${gridId}','${btnId}')" style="font-size:0.7rem;padding:8px 22px;letter-spacing:0.08em">&#9660; CARGAR M&Aacute;S &middot; ${extra.length} DISCOS</button></div>`;
+              }
             });
         } else {
           if (yr)
@@ -1115,6 +1122,20 @@
         const grid = document.getElementById(gridId);
         const btn = document.getElementById(btnId);
         const extra = all.filter((a) => a.year === +y && !a.inM);
+        if (!grid) return;
+        grid.innerHTML += extra.map(cd).join("");
+        grid.querySelectorAll(".cd:not([data-bound])").forEach((x) => {
+          x.dataset.bound = "1";
+          x.onclick = () => window._o(x.dataset.id);
+        });
+        if (btn) btn.parentElement.remove();
+      };
+
+      window._loadMoreCity = function (city, gridId, btnId) {
+        const grid = document.getElementById(gridId);
+        const btn = document.getElementById(btnId);
+        const cityDiscos = all.filter((a) => a.o === city);
+        const extra = cityDiscos.slice(10);
         if (!grid) return;
         grid.innerHTML += extra.map(cd).join("");
         grid.querySelectorAll(".cd:not([data-bound])").forEach((x) => {
