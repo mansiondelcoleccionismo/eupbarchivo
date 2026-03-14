@@ -624,11 +624,19 @@
           Object.keys(g)
             .sort()
             .forEach((ci) => {
+              const cityFirst = g[ci].slice(0, 10);
+              const cityExtra = g[ci].slice(10);
+              const safeCI = ci.replace(/[^a-zA-Z0-9]/g, '_');
+              const gridId = 'grd-city-' + safeCI;
+              const btnId = 'btn-city-' + safeCI;
               h += `<div class="yh sr"><div class="yn" onclick="window._filterCity('${ci}')" style="cursor:pointer" title="Ver discos de ${ci}">📍 ${ci.toUpperCase()}</div><div class="yl"></div><div class="yc">${
                 g[ci].length
-              } DISCOS</div></div><div class="grd sr">${g[ci]
+              } DISCOS</div></div><div class="grd sr" id="${gridId}">${cityFirst
                 .map(cd)
                 .join("")}</div>`;
+              if (cityExtra.length) {
+                h += `<div style="text-align:center;margin:-4px 0 28px"><button id="${btnId}" class="brnd" onclick="window._loadMoreCity('${ci.replace(/'/g, "\\'")}','${gridId}','${btnId}')" style="font-size:0.7rem;padding:8px 22px;letter-spacing:0.08em">&#9660; CARGAR M&Aacute;S &middot; ${cityExtra.length} DISCOS</button></div>`;
+              }
             });
         } else {
           if (yr)
@@ -1136,6 +1144,21 @@
         const btn = document.getElementById(btnId);
         const extra = all.filter((a) => a.year === +y && !a.inM);
         if (!grid) return;
+        grid.innerHTML += extra.map(cd).join("");
+        grid.querySelectorAll(".cd:not([data-bound])").forEach((x) => {
+          x.dataset.bound = "1";
+          x.onclick = () => window._o(x.dataset.id);
+        });
+        if (btn) btn.parentElement.remove();
+      };
+
+      window._loadMoreCity = function (city, gridId, btnId) {
+        const grid = document.getElementById(gridId);
+        const btn = document.getElementById(btnId);
+        if (!grid) return;
+        const s = q ? q.toLowerCase() : '';
+        const cityDiscos = all.filter((a) => a.o === city && (!s || a.a.toLowerCase().includes(s) || a.t.toLowerCase().includes(s) || a.o.toLowerCase().includes(s) || (a.l && a.l.toLowerCase().includes(s))));
+        const extra = cityDiscos.slice(10);
         grid.innerHTML += extra.map(cd).join("");
         grid.querySelectorAll(".cd:not([data-bound])").forEach((x) => {
           x.dataset.bound = "1";
