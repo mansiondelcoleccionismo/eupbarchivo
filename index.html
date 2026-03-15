@@ -83,7 +83,7 @@
       "inLanguage": "es",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://eupb.es/#buscar/{search_term_string}",
+        "target": "https://eupb.es/buscar/{search_term_string}",
         "query-input": "required name=search_term_string"
       }
     }
@@ -405,7 +405,7 @@
         a.slugA = as;
         a.slugT = ts;
         a.displayA = displayArtist(a);
-        a.permalink = `#disco/${a.year}/${as}/${ts}`;
+        a.permalink = `/disco/${a.year}/${as}/${ts}`;
         slugToAlbum[`${a.year}/${as}/${ts}`] = a;
       });
       all.forEach((a) => {
@@ -426,8 +426,8 @@
       function pushHash(h) {
         history.pushState(null, "", h);
       }
-      function getHash() {
-        return decodeURIComponent(location.hash.replace(/^#/, ""));
+      function getPath() {
+        return decodeURIComponent(location.pathname.replace(/^\//, ""));
       }
 
       // Animated counter
@@ -738,7 +738,7 @@
                 )
                 .join("")}</ol>`
             : "";
-        const shareUrl = location.origin + location.pathname + a.permalink;
+        const shareUrl = location.origin + a.permalink;
         document.getElementById("moc").innerHTML = `
         <div class="mo-top"><div class="mo-cw"><img class="mo-cv" src="${cov(
           a.cover
@@ -963,7 +963,7 @@
         document.body.style.right = "";
         document.body.style.overflow = "";
         window.scrollTo(0, scrollY);
-        if (wasShowing && getHash().startsWith("disco/")) {
+        if (wasShowing && getPath().startsWith("disco/")) {
           history.back();
         }
       }
@@ -1121,7 +1121,7 @@
         } else {
           artCameFrom = "cat";
         }
-        pushHash("#artista/" + artSlug);
+        pushHash("/artista/" + artSlug);
         showArtist(artSlug);
       };
 
@@ -1276,13 +1276,12 @@
             l.trim().toLowerCase() !== "sello"
         );
 
-        const shareUrl =
-          location.origin + location.pathname + "#artista/" + artSlug;
+        const shareUrl = location.origin + "/artista/" + artSlug;
 
         let h = `<div class="bread">
           <a href="#" class="bread-link" data-go="cat">INICIO</a>
           <span class="bread-sep">›</span>
-          <a href="#artistas" class="bread-link" data-go="artistas">ARTISTAS</a>
+          <a href="/artistas" class="bread-link" data-go="artistas">ARTISTAS</a>
           <span class="bread-sep">›</span>
           <span class="bread-cur">${esc(name)}</span>
         </div>
@@ -1933,19 +1932,19 @@
           e.preventDefault();
           const v = l.dataset.v;
           if (v === "rank") {
-            pushHash("#ranking");
+            pushHash("/ranking");
             switchView("rank");
             rnk();
           } else if (v === "artistas") {
-            pushHash("#artistas");
+            pushHash("/artistas");
             switchView("artistas");
             renderArtistas();
           } else if (v === "perfil") {
-            pushHash("#perfil");
+            pushHash("/perfil");
             switchView("perfil");
             renderCatalogoPerfil();
           } else {
-            pushHash(location.pathname);
+            pushHash("/");
             switchView("cat");
           }
           window.scrollTo({ top: 0, behavior: "smooth" });
@@ -1983,19 +1982,19 @@
           closeDrawer();
           const v = l.dataset.v;
           if (v === "rank") {
-            pushHash("#ranking");
+            pushHash("/ranking");
             switchView("rank");
             rnk();
           } else if (v === "artistas") {
-            pushHash("#artistas");
+            pushHash("/artistas");
             switchView("artistas");
             renderArtistas();
           } else if (v === "perfil") {
-            pushHash("#perfil");
+            pushHash("/perfil");
             switchView("perfil");
             renderCatalogoPerfil();
           } else {
-            pushHash(location.pathname);
+            pushHash("/");
             switchView("cat");
           }
           window.scrollTo({ top: 0, behavior: "smooth" });
@@ -2017,15 +2016,15 @@
       let artCameFrom = "cat";
       document.getElementById("art-back").onclick = () => {
         if (artCameFrom === "artistas") {
-          pushHash("#artistas");
+          pushHash("/artistas");
           switchView("artistas");
           renderArtistas();
         } else {
-          pushHash(location.pathname);
+          pushHash("/");
           switchView("cat");
         }
         document.title =
-          "EUPB Museo — Archivo Digital del Rap en Español (2010-2019)";
+          "Rap Español 2010-2019 | Catálogo de 100+ Discos y 220+ Artistas | EUPB";
       };
 
       document.getElementById("q").addEventListener("input", (e) => {
@@ -2067,7 +2066,16 @@
 
       // ═ URL ROUTER ═
       function route() {
-        const h = getHash();
+        const h = getPath();
+        // Retrocompatibilidad: si alguien entra con hash antiguo, redirigir
+        if (location.hash && location.hash.length > 1) {
+          const oldHash = decodeURIComponent(location.hash.replace(/^#/, ""));
+          if (oldHash.startsWith("disco/") || oldHash.startsWith("artista/") || oldHash === "ranking" || oldHash === "artistas" || oldHash === "perfil") {
+            history.replaceState(null, "", "/" + oldHash);
+            route();
+            return;
+          }
+        }
         // #disco/2015/artista-slug/titulo-slug
         if (h.startsWith("disco/")) {
           const key = h.replace("disco/", "");
@@ -2114,7 +2122,7 @@
         window.scrollTo(0, _sy);
         switchView("cat");
         document.title =
-          "EUPB Museo — Archivo Digital del Rap en Español (2010-2019)";
+          "Rap Español 2010-2019 | Catálogo de 100+ Discos y 220+ Artistas | EUPB";
       }
 
       // ═ AUTH + PERFIL for Catálogo ═
@@ -2683,10 +2691,10 @@
         e.stopPropagation();
         const go = link.dataset.go;
         if (go === "cat") {
-          pushHash(location.pathname);
+          pushHash("/");
           switchView("cat");
         } else if (go === "artistas") {
-          pushHash("#artistas");
+          pushHash("/artistas");
           switchView("artistas");
           renderArtistas();
         }
@@ -2745,7 +2753,7 @@
         };
 
         // Route on load (deep link support)
-        if (location.hash) {
+        if (location.pathname !== "/" && location.pathname !== "/index.html") {
           route();
         }
         // Reveal initial .sr elements
