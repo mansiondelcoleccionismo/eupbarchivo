@@ -1,0 +1,2385 @@
+{
+  "discos": {
+    "2010/chicoes3/inercia-24-7": {
+      "a": "ChicoES3",
+      "t": "Inercia 24/7",
+      "cover": "https://i.postimg.cc/wMN2pWWt/Captura-de-pantalla-2026-02-18-091639.png"
+    },
+    "2010/nasta/underground-clandestino": {
+      "a": "Nasta",
+      "t": "Underground Clandestino",
+      "cover": "https://i.postimg.cc/KzPjWv57/Nasta-Underground-clandestino-17135-F300-m.jpg"
+    },
+    "2010/elsso-rodriguez/baladas-heavys": {
+      "a": "Elsso Rodríguez",
+      "t": "Baladas Heavys",
+      "cover": "https://i.postimg.cc/W4p5zhd4/a2979238705-16.jpg"
+    },
+    "2010/kaydy-cain/life-is": {
+      "a": "Kaydy Cain",
+      "t": "Life is…",
+      "cover": "https://i.postimg.cc/mk6sX0KB/a2369614900-10.jpg"
+    },
+    "2010/corredores-de-bloque/cb-cuts-vol-1": {
+      "a": "Corredores de bloque",
+      "t": "CB cuts Vol. 1",
+      "cover": "https://i.postimg.cc/L6wSzFtS/Corrredores-de-bloque-Delantera-CB-cuts-Vol-1-21369.jpg"
+    },
+    "2010/la-clave-urbana/subterraneo": {
+      "a": "La Clave Urbana",
+      "t": "Subterraneo",
+      "cover": "https://i.postimg.cc/85ZQc2p4/La-clave-urbana-Delantera-Subterraneo-septiembre-16601.jpg"
+    },
+    "2010/charly-efe/bang-2": {
+      "a": "Charly Efe",
+      "t": "Bang 2",
+      "cover": "https://images.genius.com/c00748077f89718ecb9d2e9a2e9ebd48.500x500x1.jpg"
+    },
+    "2010/935/no-me-creo-nada": {
+      "a": "935",
+      "t": "No me creo nada",
+      "cover": "https://i.postimg.cc/RFsy4wdb/935-Delantera-No-me-creo-nada-13388.jpg"
+    },
+    "2010/javier-petaka/00-00am": {
+      "a": "Javier Petaka",
+      "t": "00:00Am",
+      "cover": "https://i.postimg.cc/xjGgvvLQ/Captura-de-pantalla-2026-02-17-110940.png"
+    },
+    "2010/ratas-inestables/corazones-sincronizados": {
+      "a": "Ratas Inestables",
+      "t": "Corazones Sincronizados",
+      "cover": "https://m.media-amazon.com/images/I/41sQwGc6D7L._UXNaN_FMjpg_QL85_.jpg"
+    },
+    "2010/nete-rodriguez/presidente": {
+      "a": "Ñete Rodriguez",
+      "t": "Presidente",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/2014/big_2014.jpg"
+    },
+    "2010/yasin-el-tangerino/eres-lo-que-te-rodea": {
+      "a": "Yasin El Tangerino",
+      "t": "Eres lo que te rodea",
+      "cover": "https://i.discogs.com/zD8qbVxqCnD3_1dYYohl1JN7TM0CWSXxOCAY_gTQQ4c/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzIz/MDg0LTE2ODEyMDUz/NjUtNjk4OS5qcGVn.jpeg"
+    },
+    "2010/sicario-hazhe/nucleares": {
+      "a": "Sicario & Hazhe",
+      "t": "Nucleares",
+      "cover": "https://djhazhe.com/wp-content/uploads/2025/07/a3158554730_10-800x800.jpg"
+    },
+    "2010/primer-dan/crimen-sin-castigo": {
+      "a": "Primer Dan",
+      "t": "Crimen Sin Castigo",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/2302/big_2302.jpg"
+    },
+    "2010/morodo/rebel-action": {
+      "a": "Morodo",
+      "t": "Rebel Action",
+      "cover": "https://morodostyle.es/wp-content/uploads/2015/11/Morodo-Rebel-Action-Portada-1024x1024.jpg"
+    },
+    "2010/mde-click/n-troducing-bobby-peru": {
+      "a": "MDE Click",
+      "t": "N'Troducing Bobby Peru",
+      "cover": "https://i.postimg.cc/0QT42vYT/Captura-de-pantalla-2026-03-05-110629.png"
+    },
+    "2010/lone/promo-2010": {
+      "a": "Lone",
+      "t": "Promo 2010",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b8951becf1ddb50a7d9e60c0"
+    },
+    "2010/la-jota-nostra/la-jota-nostra": {
+      "a": "La Jota Nostra",
+      "t": "La Jota Nostra",
+      "cover": "https://i.postimg.cc/G90XrjCs/Captura-de-pantalla-2026-03-05-110427.png"
+    },
+    "2010/ihon/depresihon": {
+      "a": "Ihon",
+      "t": "Depresihon",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB0A4lq6_eQC-gagOOVuGW3VmCr_e5vIwY0A&s"
+    },
+    "2010/elsso-rodriguez/elsso-rodriguez-vs-capcom": {
+      "a": "Elsso Rodriguez",
+      "t": "Elsso Rodriguez vs Capcom",
+      "cover": "https://i.discogs.com/3O7wNCDHDIubpsEygawYIiWsxw8hnZxoN--imH8yLl4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDcw/MzUtMTQ4MjQ4MjA0/Ny03ODkyLmpwZWc.jpeg"
+    },
+    "2010/el-nino-trapani/uomini-d-onore": {
+      "a": "El Niño Trapani",
+      "t": "Uomini d'onore",
+      "cover": "https://i.postimg.cc/0yMYkSQg/Captura-de-pantalla-2026-03-05-105019.png"
+    },
+    "2010/el-momo-pseudonimo/skills": {
+      "a": "El Momo & Pseudónimo",
+      "t": "Skills",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Lynww8BtaVmhDISspEQBLg1vQHLOfQp-AQ&s"
+    },
+    "2010/el-guincho/pop-negro": {
+      "a": "El Guincho",
+      "t": "Pop Negro",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d9932e79ffa935f380f0c691"
+    },
+    "2010/costa/morfina": {
+      "a": "Costa",
+      "t": "Morfina",
+      "cover": "https://i.scdn.co/image/ab67616d00001e026329b1fdedf6d8cabb9960c9"
+    },
+    "2010/capaz/ultimo-cigarro": {
+      "a": "Capaz",
+      "t": "Último Cigarro",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02f417db6fa880ac1fc8bf0206"
+    },
+    "2011/guante-blanco/moonglasses": {
+      "a": "Guante Blanco",
+      "t": "Moonglasses",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273af4e74ff05d0aaa643c28bd9"
+    },
+    "2011/erik-urano-zar1/energia-libre": {
+      "a": "Erik Urano & Zar1",
+      "t": "Energía Libre",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739472ff72f09a7fb151a7fc9a"
+    },
+    "2011/n-wise-mde-click/5": {
+      "a": "N-Wise (Mde Click)",
+      "t": "5%",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273fe12279d81b6f47aa45ef962"
+    },
+    "2011/baboon-estudios/baboon-estudios-vol-1": {
+      "a": "Baboon Estudios",
+      "t": "Baboon Estudios Vol. 1",
+      "cover": "https://i1.sndcdn.com/artworks-000008285603-m8m2ji-t500x500.jpg"
+    },
+    "2011/cheb-ruben/heridas": {
+      "a": "Cheb Rubén",
+      "t": "Heridas",
+      "cover": "https://i.postimg.cc/tC3MS0Pb/1900x1900-000000-80-0-0.jpg"
+    },
+    "2011/ebano/1984": {
+      "a": "Ébano",
+      "t": "1984",
+      "cover": "https://i1.sndcdn.com/artworks-CxW6YpZaWiLuCDOQ-cfM1kA-t500x500.jpg"
+    },
+    "2011/c-tangana/agorazein-presenta-a-c-tangana": {
+      "a": "C. Tangana",
+      "t": "Agorazein presenta a: C. Tangana",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27382957e168e02d109898d6780"
+    },
+    "2011/be-timeless/sencillo-y-en-silencio": {
+      "a": "Be Timeless",
+      "t": "Sencillo y en Silencio",
+      "cover": "https://i.postimg.cc/vTp3Ph8g/Be-timeless-Delantera-Sencillo-y-en-silencio-25461.jpg"
+    },
+    "2011/escandaloso-xposito-hartosopash/1974": {
+      "a": "Escandaloso Xpósito & Hartosopash",
+      "t": "1974",
+      "cover": "https://m.media-amazon.com/images/I/51FszjQUa7L._UXNaN_FMjpg_QL85_.jpg"
+    },
+    "2011/el-nino-trapani/el-nino-trapani": {
+      "a": "El Niño Trapani",
+      "t": "El Niño Trapani",
+      "cover": "https://i.postimg.cc/GmRZd3rD/hqdefault.jpg"
+    },
+    "2011/zetazen/inside": {
+      "a": "Zetazen",
+      "t": "Inside",
+      "cover": "https://f4.bcbits.com/img/a3800353332_5.jpg"
+    },
+    "2011/yonkos-team-y-la-mafia-tramontana/hijos-de-puta-infinitos": {
+      "a": "Yonkos Team Y La Mafia Tramontana",
+      "t": "Hijos De Puta Infinitos",
+      "cover": "https://i.discogs.com/aNlzL9aBYDJBb7yb4h64r6dX6YlECyck2BJusaWr7mw/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzA4/NjUtMTQzNjcwNzk3/Mi0xNzYwLmpwZWc.jpeg"
+    },
+    "2011/toscano/no-promo": {
+      "a": "Toscano",
+      "t": "No Promo",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/2650/big_2650.jpg"
+    },
+    "2011/tocha-pro/real": {
+      "a": "Tocha Pro",
+      "t": "Real",
+      "cover": "https://i.scdn.co/image/ab67616d00001e024caaba0052cb008bfa415878"
+    },
+    "2011/tibu-morales/just-like-marvin": {
+      "a": "Tibu Morales",
+      "t": "Just Like Marvin",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/3561/big_3561.jpg"
+    },
+    "2011/tetuan-most-wanted/tetuan-most-wanted": {
+      "a": "Tetuán Most Wanted",
+      "t": "Tetuán Most Wanted",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a89032f0a982d2fa3d62e0ab18d1f501/0x1900-000000-80-0-0.jpg"
+    },
+    "2011/supra/trastorno-limite": {
+      "a": "Supra",
+      "t": "Trastorno Limite",
+      "cover": "https://images.genius.com/08841a89379d5198515d1dea04a3466c.700x700x1.jpg"
+    },
+    "2011/sule-b/mvp": {
+      "a": "Sule B",
+      "t": "MVP",
+      "cover": "https://images.genius.com/fd081f2989733be7c6a8591c3b58bcba.1000x1000x1.jpg"
+    },
+    "2011/spitting-essence/underground-delicatessence": {
+      "a": "Spitting Essence",
+      "t": "Underground Delicatessence",
+      "cover": "https://images.genius.com/26806cb18103eb16504aa53793290751.720x720x1.jpg"
+    },
+    "2011/sh-musica/el-antibiotico": {
+      "a": "SH Música",
+      "t": "El Antibiótico",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e2997591abb387e6dc99fb43"
+    },
+    "2011/rafael-lechowski-y-glac/donde-duele-inspira-2007-2011": {
+      "a": "Rafael Lechowski y Glaç",
+      "t": "Donde duele, inspira (2007-2011)",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/2903/big_2903.jpg"
+    },
+    "2011/quimica-code/mal-karma": {
+      "a": "Química Code",
+      "t": "Mal Karma",
+      "cover": "https://images.genius.com/a44ed4829b2a3c872db6979480d78d30.1000x1000x1.jpg"
+    },
+    "2011/natos-waor/por-la-jeta": {
+      "a": "Natos & Waor",
+      "t": "Por la Jeta",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/21374/big_Por_la_Jeta.jpg"
+    },
+    "2011/mi-amargo/la-ganga": {
+      "a": "Mi Amargo",
+      "t": "La Ganga",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNndv0B5CJobiFmeGMs2MJTXU0nqRZ1QxZ9g&s"
+    },
+    "2011/me-cago-en-tu-padre/calido-lehamo-nino-maldito": {
+      "a": "Me cago en Tu Padre",
+      "t": "Calido Lehamo & Niño Maldito",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/e6/f8/c2e6f81d-17ad-7ced-62a9-a197f3eb14ed/8429006233854.jpg/600x600bf-60.jpg"
+    },
+    "2011/mde-click/mde-warriorz": {
+      "a": "MDE Click",
+      "t": "MDE Warriorz",
+      "cover": "https://f4.bcbits.com/img/a3016701514_16.jpg"
+    },
+    "2011/manto-fabianni/margen-de-error": {
+      "a": "Manto & Fabianni",
+      "t": "Margen de Error",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GDPgb6_V8k4auTOrhxoACUvQLz4xr2VIJw&s"
+    },
+    "2011/m-ramirez/r-e-c-la-mixtape": {
+      "a": "M. Ramirez",
+      "t": "R.E.C. La mixtape",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/4766/big_Darbal_-_R.E.C._La_mixtape.jpg"
+    },
+    "2011/m-padron/influencias-del-pasado": {
+      "a": "M. Padrón",
+      "t": "Influencias del pasado",
+      "cover": "https://f4.bcbits.com/img/a3021887072_16.jpg"
+    },
+    "2011/kase-o/jazz-magnetism": {
+      "a": "Kase O",
+      "t": "Jazz Magnetism",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c3921a51e8369f998ec79813"
+    },
+    "2011/inze-brashier/desde-cero": {
+      "a": "Inze Brashier",
+      "t": "Desde cero",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/2884/big_2884.jpg"
+    },
+    "2011/grand-groove/ii": {
+      "a": "Grand Groove",
+      "t": "II",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/2479/big_2479.jpg"
+    },
+    "2011/foyone/mi-zoologico": {
+      "a": "Foyone",
+      "t": "Mi zoológico",
+      "cover": "https://i1.sndcdn.com/artworks-000015311671-339wm8-t500x500.jpg"
+    },
+    "2011/fede-el-mono-shao/polvo-de-estrejazz": {
+      "a": "Fede´El & Mono Shao",
+      "t": "Polvo de EstreJazz",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsI-IeZQj7b4aaq46hSNEuf6jo6qbQ_i9R3g&s"
+    },
+    "2011/fasther/b-o-s-s": {
+      "a": "Fasther",
+      "t": "B.O.S.S.",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/4158/big_384045_4629438894367_1673855221_n.jpg"
+    },
+    "2011/eneko-y-gareta/el-primer-signo": {
+      "a": "Eneko y Gareta",
+      "t": "El Primer Signo",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXaJWcK0EM5cW1WOCza18VeFHSDqhs1avv5A&s"
+    },
+    "2011/el-momo-pseudonimo/9-musas": {
+      "a": "El Momo & Pseudónimo",
+      "t": "9 musas",
+      "cover": "https://images.genius.com/e8060df888bdc8bd1bd59905e15eed47.1000x1000x1.jpg"
+    },
+    "2011/el-coleta/mas-cornas-da-el-hambre": {
+      "a": "El Coleta",
+      "t": "Mas Cornas da el hambre",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02964338d7e59179ad20e2699e"
+    },
+    "2011/darmo/un-camino-inestable": {
+      "a": "Darmo",
+      "t": "Un camino inestable",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSwZTsUpFZVzsU-PRCi7cJPy-817pxjhPlOw&s"
+    },
+    "2011/kaydy-cain/swing-remixes": {
+      "a": "Kaydy Cain",
+      "t": "Swing Remixes",
+      "cover": "https://i1.sndcdn.com/artworks-000426873561-wqddk3-t240x240.jpg"
+    },
+    "2011/kaydy-cain/rock-fly": {
+      "a": "Kaydy Cain",
+      "t": "Rock & Fly",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273bdedb85c94c2444bdb82dfc8"
+    },
+    "2011/black-caesar/calidad-antes-que-cantidad": {
+      "a": "Black Caesar",
+      "t": "Calidad antes que cantidad",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/2867/big_2867.jpg"
+    },
+    "2011/are/impacto": {
+      "a": "Are",
+      "t": "Impacto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2e5f541b0bb776e89c65960088d4c600/1900x1900-000000-80-0-0.jpg"
+    },
+    "2011/agorazein/kind-of-red": {
+      "a": "Agorazein",
+      "t": "Kind Of Red",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/0b/86/3a/0b863a67-07f1-4a1e-d01c-a2005be9b858/8429006904129.jpg/600x600bf-60.jpg"
+    },
+    "2012/chicoes3/3012": {
+      "a": "ChicoES3",
+      "t": "3012",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7ecc42db4fba021e215cfe1cab4dfd66/1900x1900-000000-80-0-0.jpg"
+    },
+    "2012/kefta-boys/posgrvdesboys": {
+      "a": "Kefta Boys",
+      "t": "POSGRVDESBOYS",
+      "cover": "https://images.genius.com/dbf7a2bfca39d584c0b0910aa7d69c31.300x300x1.jpg"
+    },
+    "2012/kaydy-cain/musica-pa-vacilar": {
+      "a": "Kaydy Cain",
+      "t": "Música pa' Vacilar",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738d912dd3abfaa8919df07aec"
+    },
+    "2012/isayah-thomas/alturas": {
+      "a": "Isayah Thomas",
+      "t": "Alturas",
+      "cover": "https://i1.sndcdn.com/artworks-000171852838-fizr7w-large.jpg"
+    },
+    "2012/c-tangana/love-s": {
+      "a": "C. Tangana",
+      "t": "LOVE'S",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c8f499d3ce7a56fec6e1b2dc"
+    },
+    "2012/tetuan-most-wanted/tetuan-most-wanted": {
+      "a": "Tetuán Most Wanted",
+      "t": "Tetuán Most Wanted",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a89032f0a982d2fa3d62e0ab18d1f501/0x1900-000000-80-0-0.jpg"
+    },
+    "2012/yako-munoz/mgms": {
+      "a": "Yako Muñoz",
+      "t": "MGMS",
+      "cover": "https://i.postimg.cc/5yMmL0sG/Captura-de-pantalla-2026-02-17-113912.png"
+    },
+    "2012/dano/equilibrio": {
+      "a": "Dano",
+      "t": "Equilibrio",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d7a4bd3f86526f7249bf9a61"
+    },
+    "2012/chirie-vegas/shadows": {
+      "a": "Chirie Vegas",
+      "t": "Shadows",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736fdaa425240fb5735ca7d568"
+    },
+    "2012/sdj-crew/commandos": {
+      "a": "SDJ Crew",
+      "t": "Commandos",
+      "cover": "https://i1.sndcdn.com/artworks-000039061528-wqwnum-t500x500.jpg"
+    },
+    "2012/ziontifik/black-ps": {
+      "a": "Ziontifik",
+      "t": "Black Øps",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqIMhcncQKyclvdALT9VHBRQCilLSMzUruA&s"
+    },
+    "2012/victor-rutty/generacion-perdida": {
+      "a": "Victor Rutty",
+      "t": "Generación Perdida",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSKRsV7uHlElFnfqGakpwNSeV7AleuMpJMw&s"
+    },
+    "2012/tutto-vale-morf/slang-for-dummies": {
+      "a": "Tutto Vale & Morf",
+      "t": "Slang for dummies",
+      "cover": "https://f4.bcbits.com/img/a0629426405_10.jpg"
+    },
+    "2012/toscano/de-vuelta-al-hardest": {
+      "a": "Toscano",
+      "t": "De vuelta al hardest",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWFrsfxUxCU5luDh5nFPuCMoYVTC1tytXxA&s"
+    },
+    "2012/suite-soprano/nada-mas-lejos": {
+      "a": "Suite Soprano",
+      "t": "Nada más lejos",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gV_waeyTKkEKzGFF8KgY-wljnjhngmlGhg&s"
+    },
+    "2012/street-bucks/no-jewelz-in-our-life": {
+      "a": "Street Bucks",
+      "t": "No Jewelz In Our Life",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4H63fg9x98bfOtyJwNIBtnqIeR2snWUWrA&s"
+    },
+    "2012/soto-asa/sweet": {
+      "a": "Soto Asa",
+      "t": "Sweet",
+      "cover": "https://i.postimg.cc/pXBp8YGd/Captura-de-pantalla-2026-03-05-115008.png"
+    },
+    "2012/signo-yasin-el-tangerino/los-ultimos-seran-los-primeros": {
+      "a": "Signo & Yasin El Tangerino",
+      "t": "Los Últimos Serán Los Primeros",
+      "cover": "https://i1.sndcdn.com/artworks-000020533899-tsg9ju-t500x500.jpg"
+    },
+    "2012/seron/todo-queda-en-casa": {
+      "a": "Serón",
+      "t": "Todo queda en casa",
+      "cover": "https://i.postimg.cc/4xhqqwDd/Captura-de-pantalla-2026-03-05-115441.png"
+    },
+    "2012/serye-b/aborigen": {
+      "a": "Serye-B",
+      "t": "Aborigen",
+      "cover": "https://feelingandattitude.wordpress.com/wp-content/uploads/2013/02/380829_383180071766027_876228018_n.jpg?w=448&h=448"
+    },
+    "2012/r-s-n/redencion": {
+      "a": "R.S.N.",
+      "t": "Redención",
+      "cover": "https://i.discogs.com/j8-LCrsf2LsBaL9hMZaUpZbaOeTEUnDoARjBXkl9xq4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjc4/ODkxLTE3MTIwNTgw/MjYtNjE0Mi5qcGVn.jpeg"
+    },
+    "2012/pseudonimo/bounce-back": {
+      "a": "Pseudónimo",
+      "t": "Bounce Back",
+      "cover": "https://t2.genius.com/unsafe/817x0/https%3A%2F%2Fimages.genius.com%2F7ebe6a64ff7403df19aed4f2b48f385b.800x800x1.jpg"
+    },
+    "2012/priteo/gumbo": {
+      "a": "Priteo",
+      "t": "Gumbo",
+      "cover": "https://f4.bcbits.com/img/a2573854082_10.jpg"
+    },
+    "2012/phicycle/proporcion": {
+      "a": "Phicycle",
+      "t": "Proporción",
+      "cover": "https://i.discogs.com/mGzK3S9RlpHftLoC3KbtiCvpIIBhDQQtklIbjSRzcPY/rs:fit/g:sm/q:90/h:244/w:245/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDg4/MTMtMTQxNjEzNjQ4/MS04MzQwLmpwZWc.jpeg"
+    },
+    "2012/nasta/magnifico": {
+      "a": "Nasta",
+      "t": "Magnifico",
+      "cover": "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F2d2213758811ef6a0f09fc23e1805584.300x300x1.jpg"
+    },
+    "2012/miguel-grimaldo/el-gato-de-schrodinger": {
+      "a": "Miguel Grimaldo",
+      "t": "El Gato De Schrödinger",
+      "cover": "https://f4.bcbits.com/img/a3504974114_10.jpg"
+    },
+    "2012/mi-amargo/la-vida-sin-maletas": {
+      "a": "Mi Amargo",
+      "t": "La vida sin maletas",
+      "cover": "https://f4.bcbits.com/img/a1602747174_10.jpg"
+    },
+    "2012/leitmotiv/leitmotiv": {
+      "a": "Leitmotiv",
+      "t": "Leitmotiv",
+      "cover": "https://images.genius.com/b91dafbfe13a18f23a4e4fa1c5b94d86.280x280x1.png"
+    },
+    "2012/la-boheme/chardonnay": {
+      "a": "La Bohème",
+      "t": "Chardonnay",
+      "cover": "https://f4.bcbits.com/img/a0952431755_10.jpg"
+    },
+    "2012/kraf/woolgather": {
+      "a": "Kraf",
+      "t": "Woolgather",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsrf1BKzGxYzj_t6sKmaDBUbgBTP8rqGspg&s"
+    },
+    "2012/jerva-agz/all-black": {
+      "a": "Jerva.Agz",
+      "t": "All Black",
+      "cover": "https://m.media-amazon.com/images/I/511gl9aDMvL._UXNaN_FMjpg_QL85_.jpg"
+    },
+    "2012/javier-petaka/black-label": {
+      "a": "Javier Petaka",
+      "t": "Black Label",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2v8YxQwKhEDAY8tl07WGXp7WR8BJrDzAHcQ&s"
+    },
+    "2012/ivan-nieto/maleza": {
+      "a": "Ivan Nieto",
+      "t": "Maleza",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2A-ieRhgEd5pzK7LWlw2Q897XKhmHmFPbeQ&s"
+    },
+    "2012/i-ace-j-o/carambola": {
+      "a": "I.Ace & J.O",
+      "t": "Carambola",
+      "cover": "https://m.media-amazon.com/images/I/31NuMzNOSbL._UXNaN_FMjpg_QL85_.jpg"
+    },
+    "2012/foyone/pvta": {
+      "a": "Foyone",
+      "t": "Pvta",
+      "cover": "https://i.postimg.cc/SsDz46BY/Captura-de-pantalla-2026-03-05-121243.png"
+    },
+    "2012/f-ckin-maniacs/premium": {
+      "a": "F*ckin' Maniacs",
+      "t": "Premium",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHOPEXHgi813ryCRQ9zDc5KlOwlpil4lH1jQ&s"
+    },
+    "2012/el-nino-trapani/ii": {
+      "a": "El Niño Trapani",
+      "t": "II",
+      "cover": "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F7941b0ebeee1f0c6319d49b6f3d7f459.300x300x1.jpg"
+    },
+    "2012/el-nino-snake/snake": {
+      "a": "El Niño Snake",
+      "t": "Snake",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCcJ7UifwRcACs2D28BnEja9SLpwH92urKhQ&s"
+    },
+    "2012/cheb-ruben/reproches": {
+      "a": "Cheb Rubën",
+      "t": "Reproches",
+      "cover": "https://m.media-amazon.com/images/I/31VB9rNOMeL._UXNaN_FMjpg_QL85_.jpg"
+    },
+    "2012/charly-efe/todos-los-ojos-lloran-mierda": {
+      "a": "Charly Efe",
+      "t": "Todos los ojos lloran mierda",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mJTRAngZDtWMn2-D9Hnde5kIleFJSx476w&s"
+    },
+    "2012/charlestan/cortocircuitos": {
+      "a": "Charlestan",
+      "t": "Cortocircuitos",
+      "cover": "https://i.postimg.cc/q7c18F36/Captura-de-pantalla-2026-03-05-122044.png"
+    },
+    "2012/carmona/por-necesidad": {
+      "a": "Carmona",
+      "t": "Por Necesidad",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273461df4af2e2fff1d499a20b6"
+    },
+    "2012/blanco/it-s-sugar-baby": {
+      "a": "Blanco",
+      "t": "It's Sugar Baby!",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b5cfb2b8da201388f9cf1d34"
+    },
+    "2012/big-sabanas/tension": {
+      "a": "Big Sábanas",
+      "t": "Tensión",
+      "cover": "https://ilustremario.com/contenido/proyectos/contenidos/thumbs/ilustremariobigsabanas01996833360.jpg"
+    },
+    "2012/cecilio-g/legal-drugz": {
+      "a": "Cecilio G",
+      "t": "Legal Drugz",
+      "cover": "https://i1.sndcdn.com/artworks-wxMzcF6aDABpDj4A-itYrtA-t500x500.jpg"
+    },
+    "2012/baboon-estudios/re-out": {
+      "a": "Baboon Estudios",
+      "t": "Re Out",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ExEe_izA9n0PF-3g8FVCp6iq8wyGED7KEw&s"
+    },
+    "2012/cecilio-g/in-the-corner": {
+      "a": "Cecilio G",
+      "t": "In The Corner",
+      "cover": "https://images.genius.com/e83481921541fbad4e4b8320c50bbd28.761x761x1.jpg"
+    },
+    "2012/ases/representandome": {
+      "a": "Asës",
+      "t": "Represëntandome",
+      "cover": "https://i.postimg.cc/3wbFCHww/Captura-de-pantalla-2026-03-05-122545.png"
+    },
+    "2012/cecilio-g/morriers-gang": {
+      "a": "Cecilio G",
+      "t": "Morriers Gang",
+      "cover": "https://i.ytimg.com/vi/kyiZoaSjVxU/maxresdefault.jpg"
+    },
+    "2012/adriano-danzziani/catenaccio": {
+      "a": "Adriano Danzziani",
+      "t": "Catenaccio",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7d4e6825868a8703206d4dac71b60b4e/1900x1900-000000-80-0-0.jpg"
+    },
+    "2012/acaraperro/aka-la-cloaca": {
+      "a": "Acaraperro",
+      "t": "Aka la cloaca",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCBKAi7G4hOZu8aw2FvNMwW1uvuwRp1cYlug&s"
+    },
+    "2012/cecilio-g/rememberin-pachangeo-back-in-the-days": {
+      "a": "Cecilio G",
+      "t": "REMEMBERIN’ PACHANGEO (Back in the Days)",
+      "cover": "https://images.genius.com/dbfbeeef47129eaf83cf20aef52cb93e.1000x1000x1.jpg"
+    },
+    "2013/la-sdj-crew/nessuno": {
+      "a": "La SDJ Crew",
+      "t": "Nessuno",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5c6feeacb46f77364910a7c8a52e55f4/0x1900-000000-80-0-0.jpg"
+    },
+    "2013/drisket/supermassive-blackholes-the-spacetape": {
+      "a": "Drisket",
+      "t": "Supermassive BlackHoles The Spacetape",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ff0166611507e9b8f322c2b1"
+    },
+    "2013/lost-twin-urano-players-agorazein/agz0euz10lt": {
+      "a": "Lost Twin + Urano Players + Agorazein",
+      "t": "AGZ0EUZ10LT",
+      "cover": "https://i1.sndcdn.com/avatars-000059266794-9118iu-t1080x1080.jpg"
+    },
+    "2013/zar1-elsso-rodriguez/feelmatic": {
+      "a": "Zar1 & Elsso Rodríguez",
+      "t": "Feelmatic",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLGtYbrtRD1IiX_depRfxY0TOvfNN0VEJAQ&s"
+    },
+    "2013/supra/peligra-la-vida-del-artista": {
+      "a": "Supra",
+      "t": "Peligra la vida del artista",
+      "cover": "https://i.postimg.cc/WpB4mZ62/portada.jpg"
+    },
+    "2013/el-nino-trapani/el-nino-trapani-2": {
+      "a": "El Niño Trapani",
+      "t": "El Niño Trapani 2",
+      "cover": "https://i.postimg.cc/NG308X7G/avatars_000025293495_nzwp35_t500x500.jpg"
+    },
+    "2013/cecilio-g/robots-n-unicorns": {
+      "a": "Cecilio G",
+      "t": "Robots N Unicorns",
+      "cover": "https://i1.sndcdn.com/artworks-000416302590-zfylog-t1080x1080.jpg"
+    },
+    "2013/yung-beef/a-d-r-o-m-i-c-f-m-s": {
+      "a": "Yung Beef",
+      "t": "A.D.R.O.M.I.C.F.M.S.",
+      "cover": "https://i.postimg.cc/2js5dWFk/Captura_de_pantalla_2026_02_17_114456.png"
+    },
+    "2013/charly-efe/todos-los-ojos-lloran-sangre": {
+      "a": "Charly Efe",
+      "t": "Todos los ojos lloran sangre",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f8cfe4841c1522edcf8af783"
+    },
+    "2013/la-espiral/me-cago-en-tu-padre": {
+      "a": "La Espiral",
+      "t": "Me cago en tu padre",
+      "cover": "https://i.postimg.cc/Kc6Y7Trv/a2334350709_10.jpg"
+    },
+    "2013/etre-supreme-groove-drama/el-secreto-de-victoria": {
+      "a": "Étre Supreme & Groove Drama",
+      "t": "El secreto de Victoria",
+      "cover": "https://i.postimg.cc/d3m5yRP0/Captura-de-pantalla-2026-03-03-164537.png"
+    },
+    "2013/zode/religion-de-barrio": {
+      "a": "Zode",
+      "t": "Religión de barrio",
+      "cover": "https://feelingandattitude.wordpress.com/wp-content/uploads/2013/06/30shs3t.jpg?w=462&h=469"
+    },
+    "2013/yako-munoz-yzeberg-catzola/why-why": {
+      "a": "Yako Muñoz & Yzeberg Catzola",
+      "t": "WHY WHY",
+      "cover": "https://i.postimg.cc/k4H1CMNg/Captura-de-pantalla-2026-03-03-164229.png"
+    },
+    "2013/subliminal-class/end-is-here": {
+      "a": "Subliminal Class",
+      "t": "End is Here",
+      "cover": "https://i.scdn.co/image/ab67616d00001e0275e56cf3b7ef7924766dce54"
+    },
+    "2013/soto-asa/check-joint": {
+      "a": "Soto Asa",
+      "t": "Check Joint",
+      "cover": "https://images.genius.com/008a721d3c06aaac42ebd35c3bd1020d.953x953x1.jpeg"
+    },
+    "2013/shn/vital": {
+      "a": "SHN",
+      "t": "Vital",
+      "cover": "https://i.scdn.co/image/ab67616d00001e0238658153c27421f381bfbc45"
+    },
+    "2013/rare/dealing": {
+      "a": "Rare",
+      "t": "DEALING",
+      "cover": "https://i.postimg.cc/mDnRshgP/Captura-de-pantalla-2026-03-05-123741.png"
+    },
+    "2013/nasta/ghetto-quorum": {
+      "a": "Nasta",
+      "t": "Ghetto Quorum",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273bd0e33bd9b5a50bbbb55485b"
+    },
+    "2013/morf-la-boheme/the-sad-dealer": {
+      "a": "Morf (La Boheme)",
+      "t": "The sad dealer",
+      "cover": "https://images.genius.com/8173d1bf05216ab7b08ca2637d7c61cb.1000x1000x1.jpg"
+    },
+    "2013/momo/viento": {
+      "a": "Momo",
+      "t": "Viento",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItMR8_qnpPIM4N98P3HxeLgonX59PWKve0A&s"
+    },
+    "2013/los-chastas/vidas-quimicas": {
+      "a": "Los Chastas",
+      "t": "Vidas Químicas",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273fd60c9930a760ac215012caf"
+    },
+    "2013/infinitum/vida-en-transito": {
+      "a": "Infinitum",
+      "t": "Vida En Tránsito",
+      "cover": "https://f4.bcbits.com/img/a1543454409_5.jpg"
+    },
+    "2013/gonzalo-m-evan-malakay/trilled-mamis": {
+      "a": "Gonzalo.M & Evan Malakay",
+      "t": "Trilled Mamis",
+      "cover": "https://i.postimg.cc/260d8Rsx/Captura-de-pantalla-2026-03-05-124431.png"
+    },
+    "2013/gastonbeiker/solido": {
+      "a": "Gastonbeiker",
+      "t": "Sólido",
+      "cover": "https://f4.bcbits.com/img/a2217810672_10.jpg"
+    },
+    "2013/foyone/dolares-mentales": {
+      "a": "Foyone",
+      "t": "Dólares Mentales",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d2f421f8ed075fe45a8dd83d"
+    },
+    "2013/fasther/ciclotimia": {
+      "a": "Fasther",
+      "t": "Ciclotimia",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/4162/big_ciclotimiacover.jpg"
+    },
+    "2013/el-coleta/yo-el-coleta": {
+      "a": "El Coleta",
+      "t": "Yo, El Coleta",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27322712312a193f536bbc04604"
+    },
+    "2013/dual-tod/mendekua": {
+      "a": "Dual Tod",
+      "t": "Mendekua",
+      "cover": "https://f4.bcbits.com/img/a0816620945_16.jpg"
+    },
+    "2013/dheformer/ineditos": {
+      "a": "Dheformer",
+      "t": "Inéditos",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/3851/big_3851.jpg"
+    },
+    "2013/dheformer/el-renacimiento": {
+      "a": "Dheformer",
+      "t": "El Renacimiento",
+      "cover": "https://i1.sndcdn.com/artworks-000039548870-l7zgkj-t500x500.jpg"
+    },
+    "2013/cheb-ruben/entelequia": {
+      "a": "Cheb Rubën",
+      "t": "Entelequia",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQdvDSjxnB3xdFcQqcOOOr11IeeWV-VLpGqg&s"
+    },
+    "2013/charly-efe-y-delagang/castillos-en-el-aire": {
+      "a": "Charly Efe y Delagang",
+      "t": "Castillos en el aire",
+      "cover": "https://www.kafcafe.com/wp-content/uploads/2014/05/Charly-EFE-castillos-en-el-aire.jpg"
+    },
+    "2013/chaman-black-jackets/poetica": {
+      "a": "Chaman & Black Jackets",
+      "t": "Poética",
+      "cover": "https://images.genius.com/9482f1d3731eee58afeb043343bade7e.300x300x1.jpg"
+    },
+    "2013/bray-fine/q-e-d": {
+      "a": "Bray Finé",
+      "t": "Q.E.D.",
+      "cover": "https://i1.sndcdn.com/artworks-000044619415-v04itf-t240x240.jpg"
+    },
+    "2013/blowin-up-treez/ain-t-nothing-like": {
+      "a": "Blowin' Up Treez",
+      "t": "Ain't nothing like",
+      "cover": "https://i1.sndcdn.com/avatars-000058363707-owrza0-t1080x1080.jpg"
+    },
+    "2013/amores-perros/novum-dermis": {
+      "a": "Amores Perros",
+      "t": "Novum dermis",
+      "cover": "https://i.postimg.cc/9Fhx8CWr/Captura-de-pantalla-2026-03-05-125504.png"
+    },
+    "2013/cecilio-g/cecilio-godzilla": {
+      "a": "Cecilio G",
+      "t": "Cecilio Godzilla",
+      "cover": "https://i1.sndcdn.com/artworks-2eNnHhuMz1AEyQKw-apgaAg-t500x500.jpg"
+    },
+    "2013/cecilio-g/fo-ma-blvncx-bichx": {
+      "a": "Cecilio G",
+      "t": "Fo Ma Blvncx Bichx",
+      "cover": "https://images.genius.com/ba9dbb6ebb7a8cb6788bad89b3f9eaf7.600x600x1.jpg"
+    },
+    "2013/cecilio-g/flirting-dogz-album": {
+      "a": "Cecilio G",
+      "t": "Flirting Dogz Album",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCIybMDRJwOC9TLIGoRvRbwVMwO_RiQVFUA&s"
+    },
+    "2014/c-terrible/burundanga": {
+      "a": "C. Terrible",
+      "t": "Burundanga",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/33/8c/47/338c4798-028d-575b-92f9-de4be2e35cac/8433391151938_cover.jpg/600x600bf-60.jpg"
+    },
+    "2014/mi-amargo/documentar": {
+      "a": "Mi Amargo",
+      "t": "Documentar",
+      "cover": "https://i.postimg.cc/N0qBhwTt/a2508020627-10.jpg"
+    },
+    "2014/pedro-ladroga/skydrvg-1-0": {
+      "a": "Pedro LaDroga",
+      "t": "SKYDRVG 1.0",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273891c41a2e1dba8d0eb1cf6c4"
+    },
+    "2014/basilio/no-hay-educacion-ni-hay-maneras": {
+      "a": "Basilio",
+      "t": "No Hay Educación Ni Hay Maneras",
+      "cover": "https://i.postimg.cc/Y0nMTGf9/artworks-000096793581-2lhvtd-t1080x1080.jpg"
+    },
+    "2014/calido-lehamo/catorce": {
+      "a": "Calido Lehamo",
+      "t": "Catorce",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f9c388ae7525dd870d68a4ae"
+    },
+    "2014/erik-urano-y-zar-1/cosmonautica": {
+      "a": "Erik Urano y Zar 1",
+      "t": "Cosmonautica",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/720b6c63802e1a2f34a3bbee3b70e2a2/0x1900-000000-80-0-0.jpg"
+    },
+    "2014/ivo-incuerdo/nokturno": {
+      "a": "Ivo Incuerdo",
+      "t": "Nokturno",
+      "cover": "https://i.postimg.cc/76JRqCkZ/a3473381935-10.jpg"
+    },
+    "2014/josito-migrana/21-anos-de-viaje-subterraneo": {
+      "a": "Josito Migraña",
+      "t": "21 años de viaje subterraneo",
+      "cover": "https://i.postimg.cc/xd1DVT8C/Captura-de-pantalla-2026-02-18-145626.png"
+    },
+    "2014/elecesar/final-frontier": {
+      "a": "Elecesar",
+      "t": "Final Frontier",
+      "cover": "https://i.postimg.cc/fbpHqw0c/a0897766360-10.jpg"
+    },
+    "2014/sticky-m-a/chill-trill": {
+      "a": "Sticky M.A.",
+      "t": "Chill Trill",
+      "cover": "https://images.genius.com/0a39de6b14b0f8830a7f0ae9be2666f9.1000x1000x1.jpg"
+    },
+    "2014/cheb-ruben/kinda-sadness": {
+      "a": "Cheb Rubën",
+      "t": "Kinda Sadness",
+      "cover": "https://images.genius.com/f07cbddccd6b55a2985bd6a6a6a8554e.1000x1000x1.jpg"
+    },
+    "2014/yung-beef/freemolly": {
+      "a": "Yung Beef",
+      "t": "#FreeMolly",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273dc898cb6654572bc4792f93b"
+    },
+    "2014/tutto-vale-golden-alex/onorata-societa": {
+      "a": "Tutto Vale & Golden Alex",
+      "t": "Onorata Societá",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737dbd4fdf94dbab60608a81d4"
+    },
+    "2014/suite-soprano/domenica": {
+      "a": "Suite Soprano",
+      "t": "Domenica",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737b18580252d460ab957619d6"
+    },
+    "2014/sokez/descalzo": {
+      "a": "Sokez",
+      "t": "Descalzo",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732235823e7c9afe7a52fc6dd1"
+    },
+    "2014/love-g-jimenez-al-des-saint/nino-valvane": {
+      "a": "Love G. Jiménez & Al' des Saint",
+      "t": "Niño Valvane",
+      "cover": "https://i.postimg.cc/qRcgBtMz/Captura-de-pantalla-2026-03-09-094325.png"
+    },
+    "2014/ldk-velazquez-y-b-walls/fenix": {
+      "a": "Ldk (Velazquez y B.Walls)",
+      "t": "Fénix",
+      "cover": "https://i.postimg.cc/mgq0k8tp/Captura-de-pantalla-2026-03-09-095906.png"
+    },
+    "2014/josito-migrana/el-chico-del-chandal-a-rayas": {
+      "a": "Josito Migraña",
+      "t": "El chico del chandal a rayas",
+      "cover": "https://i.postimg.cc/VNDHxgXQ/Captura-de-pantalla-2026-03-09-094511.png"
+    },
+    "2014/anb/chillin-on-a-porch-round-1": {
+      "a": "ANB",
+      "t": "Chillin on a Porch Round 1",
+      "cover": "https://e.snmc.io/i/600/w/559c613893ce6b96ae3766822989e20e/11515766/anb-los-diositos-chillin-on-a-porch-round-1-Cover-Art.jpg"
+    },
+    "2014/jay-hernandez/my-reality-show": {
+      "a": "Jay Hernandez",
+      "t": "My Reality Show",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735c5c6ad630eac3d41ee924fb"
+    },
+    "2014/gastonbeiker-dj-saum/colours": {
+      "a": "Gastonbeiker & DJ Saum",
+      "t": "Colours",
+      "cover": "https://i.scdn.co/image/ab67616d00001e0261122ba725a6431296abf3c3"
+    },
+    "2014/elmini-retarded/da-unfinished-ep": {
+      "a": "ElMini² Retarded+",
+      "t": "Da Unfinished EP",
+      "cover": "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Fa595bf8d937101138fa7a18bffe0db4a.598x598x1.jpg"
+    },
+    "2014/dnc-foyone-stanpida-kpo-jokerfeller/the-mixtape": {
+      "a": "DNC (Foyone, Stanpida, Kpo, Jokerfeller)",
+      "t": "The Mixtape",
+      "cover": "https://i.postimg.cc/MphyvQx9/Captura-de-pantalla-2026-03-09-095226.png"
+    },
+    "2014/dellafuente/recopilatorio-2012-14": {
+      "a": "Dellafuente",
+      "t": "Recopilatorio 2012-14",
+      "cover": "https://i.postimg.cc/xTmj9Jss/Captura-de-pantalla-2026-03-09-095425.png"
+    },
+    "2014/couple-minutes/space-degrees": {
+      "a": "Couple Minutes",
+      "t": "Space Degrees",
+      "cover": "https://i.postimg.cc/jjb4M79j/Captura-de-pantalla-2026-03-09-100144.png"
+    },
+    "2014/click-clack-gang/club-bamboo": {
+      "a": "Click Clack Gang",
+      "t": "Club Bamboo",
+      "cover": "https://f4.bcbits.com/img/a3885124119_16.jpg"
+    },
+    "2014/charlie/patente-de-corso": {
+      "a": "Charlie",
+      "t": "Patente de corso",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8d/87/f4/8d87f41c-3f66-af5c-8af7-884620a423b4/03bfe843-9677-40e7-bb84-69d9a325a97c.jpg/600x600bf-60.jpg"
+    },
+    "2014/cecilio-g/ceci-the-pimp": {
+      "a": "Cecilio G",
+      "t": "Ceci The Pimp",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLU9CHTb4M67MqwvNikS5J08gjRZJ2Gdi4A&s"
+    },
+    "2014/bong-x-dae-bryson/bongtape": {
+      "a": "Bong x Dae Bryson",
+      "t": "Bongtape",
+      "cover": "https://undergroundhiphopblog.com/wp-content/uploads/2014/09/bong.jpeg"
+    },
+    "2014/bombony-montana-lone/lb-finest": {
+      "a": "Bombony Montana & Lone",
+      "t": "LB Finest",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732da6831dd4de8fcb05253049"
+    },
+    "2014/black-caesar/intellectual-ignorance": {
+      "a": "Black Caesar",
+      "t": "Intellectual Ignorance",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/b0/5c/99/b05c99c7-5712-48b1-8692-7aefd7c9c75f/8429006736515.jpg/600x600bf-60.jpg"
+    },
+    "2014/aroon-baliti-y-dj-volo/cosas-que-decides-cosas-que-suceden": {
+      "a": "Aroon Baliti y Dj Volo",
+      "t": "Cosas que decides cosas que suceden",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrDJDwStqRSbJnim7WoHH7nE89atYfIxRjmg&s"
+    },
+    "2014/antonio-rodriguez-nete/barras-bravas": {
+      "a": "Antonio Rodriguez / Ñete",
+      "t": "Barras bravas",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzclhVJPUT00tHz2Nijqgpn7ColiVZVczow&s"
+    },
+    "2014/amores-perros/el-precio-de-la-corona": {
+      "a": "Amores Perros",
+      "t": "El precio de la corona",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJm91L9eFhQEu_hPcMVrOWglJEt8F7VJ8deg&s"
+    },
+    "2014/cecilio-g/caries-gold": {
+      "a": "Cecilio G",
+      "t": "Caries Gold",
+      "cover": "https://i1.sndcdn.com/artworks-YlRDc2psgja3lNf8-LIktlA-t500x500.jpg"
+    },
+    "2014/cecilio-g/polla-blava": {
+      "a": "Cecilio G",
+      "t": "Polla Blava",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/119265d59651d634f23a065ebd775d08/0x1900-000000-80-0-0.jpg"
+    },
+    "2014/a-rock/oceank": {
+      "a": "A. Rock",
+      "t": "Oceank",
+      "cover": "https://i.postimg.cc/285jgkMz/Captura-de-pantalla-2026-03-09-100822.png"
+    },
+    "2015/dellafuente/azulejos-de-corales": {
+      "a": "Dellafuente",
+      "t": "Azulejos de Corales",
+      "cover": "https://images.genius.com/7e112371793c92eeaa25c7978787885e.1000x1000x1.jpg"
+    },
+    "2015/chevalier/o-g": {
+      "a": "Chevalier",
+      "t": "O.G.",
+      "cover": "https://i1.sndcdn.com/artworks-000106469429-n3fhfw-t1080x1080.jpg"
+    },
+    "2015/foyone/la-jaula-de-oro": {
+      "a": "Foyone",
+      "t": "La Jaula de Oro",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730cc7a333757f028fc4cd384d"
+    },
+    "2015/cecilio-g/numero-tres": {
+      "a": "Cecilio G",
+      "t": "Número tres",
+      "cover": "https://images.genius.com/d193aed680ddeb071aa9efcd4b256762.700x700x1.jpg"
+    },
+    "2015/original-juan/dominican-most-wanted": {
+      "a": "Original Juan",
+      "t": "Dominican Most Wanted",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02f05138f8c1e5a8dbde67fd44"
+    },
+    "2015/3yo/el-diablo": {
+      "a": "3yo",
+      "t": "El Diablo",
+      "cover": "https://i1.sndcdn.com/artworks-000142150696-g9kwvn-t500x500.jpg"
+    },
+    "2015/anb/anb-world": {
+      "a": "ANB",
+      "t": "Anb World",
+      "cover": "https://images.genius.com/f8ee0644333d68afaa423ac162068a37.640x640x1.jpg"
+    },
+    "2015/el-coleta/movida-madrilena": {
+      "a": "El Coleta",
+      "t": "Movida Madrileña",
+      "cover": "https://images.genius.com/8c4e91d925f1b95fad09c48c4d86c13d.488x488x1.jpg"
+    },
+    "2015/owlkids/zlh-in-shobogenzo": {
+      "a": "Owlkids",
+      "t": "ZLH in Shobogenzo",
+      "cover": "https://i.postimg.cc/wMZDwxBC/a2736238848-10.jpg"
+    },
+    "2015/pedro-ladroga/locomotion-holograma-2000": {
+      "a": "Pedro LaDroga",
+      "t": "Locomotion (Holograma 2000)",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b5b88dc81aa0c0b7f263a9236700c1fd/500x500.jpg"
+    },
+    "2015/anb/fafa-muzik": {
+      "a": "ANB",
+      "t": "FAFA MUZIK",
+      "cover": "https://i.postimg.cc/ZYsy9Rwd/Captura-de-pantalla-2026-03-03-102114.png"
+    },
+    "2015/quimica-code/modo-avion": {
+      "a": "Quimica Code",
+      "t": "Modo Avión",
+      "cover": "https://i1.sndcdn.com/artworks-000140475723-87oy2u-t1080x1080.jpg"
+    },
+    "2015/pequenochico-jovennegro-mister-b/jovennegro-mixtape": {
+      "a": "PequeñoChico / Jovennegro / Mister B",
+      "t": "Jovennegro Mixtape",
+      "cover": "https://i1.sndcdn.com/artworks-000113517719-nsz5aq-t500x500.jpg"
+    },
+    "2015/pequenochico/right-coast-48950": {
+      "a": "PequeñoChico",
+      "t": "Right Coast 48950",
+      "cover": "https://i.postimg.cc/d0cj5x3j/Captura-de-pantalla-2026-03-09-102209.png"
+    },
+    "2015/ochoa/mellow-mood": {
+      "a": "Ochoa",
+      "t": "Mellow Mood",
+      "cover": "https://f4.bcbits.com/img/a2106646188_16.jpg"
+    },
+    "2015/morf/kiddrama": {
+      "a": "Morf",
+      "t": "Kiddrama",
+      "cover": "https://i.postimg.cc/3RvyzKqw/Captura-de-pantalla-2026-03-09-102603.png"
+    },
+    "2015/maka/pvreza": {
+      "a": "Maka",
+      "t": "Pvreza",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1c/01/87/1c018779-650f-0097-c324-99860a414c76/195081888392.jpg/1200x630bb.jpg"
+    },
+    "2015/los-chicos-de-la-lluvia/cross": {
+      "a": "Los Chicos de la lluvia",
+      "t": "Cross",
+      "cover": "https://i.scdn.co/image/ab67616d00001e0223bc690d38026e035d71abb0"
+    },
+    "2015/la-clave-urbana/orgullo-vol-1-vol-2": {
+      "a": "La Clave Urbana",
+      "t": "Orgullo vol.1/vol.2",
+      "cover": "https://i1.sndcdn.com/artworks-000108174410-osrbbm-t500x500.jpg"
+    },
+    "2015/jamas/unreleased": {
+      "a": "Jamas",
+      "t": "Unreleased",
+      "cover": "https://i.postimg.cc/RVsM1kPQ/Captura-de-pantalla-2026-03-09-102820.png"
+    },
+    "2015/anb/anb-ballin4ever": {
+      "a": "ANB",
+      "t": "ANB Ballin4ever",
+      "cover": "https://e.snmc.io/i/600/w/eb638f65fa6d9689f7110e86cf75de44/8497065/anb-anb-ballin4ever-Cover-Art.jpg"
+    },
+    "2015/el-mini/pesi-the-mixtape": {
+      "a": "El Mini",
+      "t": "Pesi The Mixtape",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c4dc07922a13bd2e90678251"
+    },
+    "2015/dellafuente/recopilatorio": {
+      "a": "Dellafuente",
+      "t": "Recopilatorio",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27366a53e4cd7885422fd1c2c62"
+    },
+    "2015/d-vilas-x-big-nasa/grow-up": {
+      "a": "D.Vilas X Big NASA",
+      "t": "GROW UP",
+      "cover": "https://i.postimg.cc/htD2nwgC/Captura-de-pantalla-2026-03-09-103346.png"
+    },
+    "2015/ceerre/grey-theory": {
+      "a": "Ceerre",
+      "t": "Grey Theory",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735e26c4ec5f5d5d268ca099e4"
+    },
+    "2015/a-santos/jet-lag": {
+      "a": "A. Santos",
+      "t": "Jet Lag",
+      "cover": "https://i.postimg.cc/26DbRpNb/Captura-de-pantalla-2026-03-09-103628.png"
+    },
+    "2015/94-brous/despues-de-la-calma": {
+      "a": "94 Brous",
+      "t": "Después de la calma",
+      "cover": "https://i1.sndcdn.com/artworks-000121040747-i2ryqu-t240x240.jpg"
+    },
+    "2015/oceank/vol-2": {
+      "a": "#Oceank",
+      "t": "Vol.2",
+      "cover": "https://i.scdn.co/image/ab67616d00001e024c229e8b2e32b85807f93f69"
+    },
+    "2015/cecilio-g/votox-fubu": {
+      "a": "Cecilio G",
+      "t": "VOTOX FUBU",
+      "cover": "https://images.genius.com/a62eff82d2f6eff46246370073a3fb7b.596x596x1.jpg"
+    },
+    "2015/cecilio-g/adamantium": {
+      "a": "Cecilio G",
+      "t": "Adamantium",
+      "cover": "https://f4.bcbits.com/img/a0674781415_10.jpg"
+    },
+    "2015/cecilio-g/i-still-with-apes-hda": {
+      "a": "Cecilio G",
+      "t": "I Still With Apes HDA",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a83e05f9465988c805a7592b"
+    },
+    "2015/cecilio-g/the-real-ninja": {
+      "a": "Cecilio G",
+      "t": "The Real Ninja",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c674696f31cefe41502bb60d939327a4/0x1900-000000-80-0-0.jpg"
+    },
+    "2016/dellafuente/ansia-viva": {
+      "a": "Dellafuente",
+      "t": "Ansia Viva",
+      "cover": "https://images.genius.com/0c8705de56a9c1d4794493205ea41b73.1000x1000x1.jpg"
+    },
+    "2016/mr-neo/caballito-fantasma": {
+      "a": "Mr. Neo",
+      "t": "Caballito Fantasma",
+      "cover": "https://i.postimg.cc/bJYJ6JVw/0006761223-10.jpg"
+    },
+    "2016/pepe-vizio/benditos": {
+      "a": "Pepe : Vizio",
+      "t": "Benditos",
+      "cover": "https://i.postimg.cc/N0dYjxbK/Captura-de-pantalla-2026-02-23-141844.png"
+    },
+    "2016/nino-maldito/werther": {
+      "a": "Niño Maldito",
+      "t": "Werther",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a5/ec/1f/a5ec1f9d-0b5c-28ba-6a15-3e9579f4c276/2294.jpg/600x600bf-60.jpg"
+    },
+    "2016/vietnam-1974/la-jaguarosis": {
+      "a": "Vietnam 1974",
+      "t": "La Jagüarosis",
+      "cover": "https://i.postimg.cc/QMFsVTP3/Vietnam-1-9-7-4-La-Jaguarosis-44072-front.jpg"
+    },
+    "2016/bad-gyal/slow-wine-mixtape": {
+      "a": "Bad Gyal",
+      "t": "Slow Wine Mixtape",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27389e3f61d79fedcd1d1e7ac81"
+    },
+    "2016/el-mini/drink-more-pesi": {
+      "a": "El Mini",
+      "t": "Drink More Pesi",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732bea0705a40126f6acebc9ef"
+    },
+    "2016/takers/ladrones-para-siempre": {
+      "a": "Takers",
+      "t": "Ladrones Para Siempre",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02c3d9b5f0d25595fadf21ba40"
+    },
+    "2016/cheb-ruben/vestido-con-chilaba": {
+      "a": "Cheb Rubën",
+      "t": "Vestido con chilaba",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27362e8338966e5bc08c0329303"
+    },
+    "2016/cecilio-g/joavelli": {
+      "a": "Cecilio G",
+      "t": "Joavelli",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fa6f98958e6d43ef848fe42aa6369552/0x1900-000000-80-0-0.jpg"
+    },
+    "2016/miguel-grimaldo-nino/las-aventuras-de-miguel-grimaldo-nino": {
+      "a": "Miguel Grimaldo & Niño",
+      "t": "Las aventuras de Miguel Grimaldo & Niño",
+      "cover": "https://f4.bcbits.com/img/a2058800946_10.jpg"
+    },
+    "2016/madh-white-trash/kunst": {
+      "a": "Madh White Trash",
+      "t": "KUNST",
+      "cover": "https://f4.bcbits.com/img/a2671186280_2.jpg"
+    },
+    "2016/madh-white-trash/hood-witch": {
+      "a": "Madh White Trash",
+      "t": "HOOD WITCH",
+      "cover": "https://f4.bcbits.com/img/a4233810453_16.jpg"
+    },
+    "2016/leiterman/primavera": {
+      "a": "Leiterman",
+      "t": "Primavera",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/6299/big_Primavera_EP.jpg"
+    },
+    "2016/j-dose-mrcs/flacko-favor": {
+      "a": "J DOSE & MRCS",
+      "t": "FLACKO FAVOR",
+      "cover": "https://mp3.hhgroups.com/albumes/J-Dose-y-Mr.-Mrcs-Flacko-favor-46553_front.jpg"
+    },
+    "2016/anb/28-n-company": {
+      "a": "ANB",
+      "t": "28 n' Company",
+      "cover": "https://e.snmc.io/i/600/w/c4db43480928849acbbf2eb0eec38aa2/12261738/anb-28-n-company-Cover-Art.png"
+    },
+    "2016/fran-laoren/renacimiento": {
+      "a": "Fran Laoren",
+      "t": "Renacimiento",
+      "cover": "https://images.genius.com/05f368672eedec919e41da8856b17052.1000x1000x1.jpg"
+    },
+    "2016/anb/nuevaera": {
+      "a": "ANB",
+      "t": "#NuevaEra",
+      "cover": "https://i.postimg.cc/15h8806X/Captura-de-pantalla-2026-03-05-152951.png"
+    },
+    "2016/elsso-rodriguez/cronicas-de-martires-y-poco-mas": {
+      "a": "Elsso Rodríguez",
+      "t": "Crónicas de Mártires/...Y Poco Más",
+      "cover": "https://f4.bcbits.com/img/a1024318358_16.jpg"
+    },
+    "2016/elphomega/nebuloso": {
+      "a": "Elphomega",
+      "t": "Nebuloso",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734a2e42504e6300b4ea480f6a"
+    },
+    "2016/el-guincho/hiperasia": {
+      "a": "El Guincho",
+      "t": "Hiperasia",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02940f7fbe5cd332ba6fe32267"
+    },
+    "2016/cecilio-g/caries-hoe-xmas": {
+      "a": "Cecilio G",
+      "t": "Caries Hoe Xmas",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02780ac6e922b8743e66be2e30"
+    },
+    "2016/cecilio-g/tiger": {
+      "a": "Cecilio G",
+      "t": "Tiger",
+      "cover": "https://f4.bcbits.com/img/a0307533366_10.jpg"
+    },
+    "2016/cecilio-g/ten-shin-juan-b-day-15th": {
+      "a": "Cecilio G",
+      "t": "Ten Shin Juan B-Day 15th",
+      "cover": "https://f4.bcbits.com/img/a2700069541_16.jpg"
+    },
+    "2016/cecilio-g/max-power": {
+      "a": "Cecilio G",
+      "t": "Max Power",
+      "cover": "https://images.genius.com/9c77b42bd3e1188b33d3f10d47151c66.1000x1000x1.jpg"
+    },
+    "2017/damed-squad/damed-squad-the-mixtape": {
+      "a": "Damed Squad",
+      "t": "Damed Squad The Mixtape",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/a3/5c/0c/a35c0c83-e382-3c1f-0a87-6d88c733432c/8429006979288.jpg/1200x630bb.jpg"
+    },
+    "2017/arufe/lil-rufio": {
+      "a": "Arufe",
+      "t": "Lil Rufio",
+      "cover": "https://i.postimg.cc/x1xbNBfq/Captura-de-pantalla-2026-02-23-143035.png"
+    },
+    "2017/gata-cattana/banzai": {
+      "a": "Gata Cattana",
+      "t": "Banzai",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c2/23/ba/c223ba67-a16e-a7ff-65e1-0e607924425e/8433391420492.jpg/600x600bf-60.jpg"
+    },
+    "2017/soto-asa/bruce-lean": {
+      "a": "Soto Asa",
+      "t": "Bruce Lean",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/72/c9/d9/72c9d927-18f3-89e2-d30d-8e82082316b2/193483906058.jpg/600x600bf-60.jpg"
+    },
+    "2017/kaydy-cain/calle-amor": {
+      "a": "Kaydy Cain",
+      "t": "Calle Amor",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/5a/c0/fd5ac0f3-edb7-8d28-00b0-4d57236a7194/8429006076130.jpg/1200x630bb.jpg"
+    },
+    "2017/pedro-ladroga/via-digital-skydrvg-2-0": {
+      "a": "Pedro LaDroga",
+      "t": "Vía Digital (Skydrvg 2.0)",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8cb3535594510b82ac8e0fa8a2f4db51/200x200.jpg"
+    },
+    "2017/la-mafia-del-amor/reggaeton-antiguo": {
+      "a": "La Mafia del Amor",
+      "t": "Reggaeton Antiguo",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b8/4e/25/b84e25c6-3daa-df29-1d19-94c95c74f979/193483893204.jpg/1200x630bb.jpg"
+    },
+    "2017/elsso-rodriguez/el-factor-humano": {
+      "a": "Elsso Rodríguez",
+      "t": "El Factor Humano",
+      "cover": "https://i.postimg.cc/sf48dJfw/a1980217110-10.jpg"
+    },
+    "2017/calido-lehamo/alegria-de-vivir": {
+      "a": "Cálido Lehamo",
+      "t": "Alegría de Vivir",
+      "cover": "https://i.postimg.cc/br51cMZw/a1359109423-10.jpg"
+    },
+    "2017/n-wise-allah/casino-chips": {
+      "a": "N-Wise Allah",
+      "t": "Casino Chips",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c6/29/02/c62902b8-d3b7-27d4-4b69-6094418ffcf0/artwork.jpg/486x486bb.png"
+    },
+    "2017/yako-munoz/outd0or-nation": {
+      "a": "Yako Muñoz",
+      "t": "OUTD0OR NATION",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/16052/big_0utd00r_Nati0n_Yako_Mu_oz.jpg"
+    },
+    "2017/la-clave-urbana/proyecto-0": {
+      "a": "La Clave Urbana",
+      "t": "Proyecto 0",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02b4d60e1159ee473d92b27d37"
+    },
+    "2017/josito-migrana/espimpnete-the-mixtape": {
+      "a": "Josito Migraña",
+      "t": "Espimpnete the Mixtape",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739c791a8f73685f47e8e45610"
+    },
+    "2017/anb/blueworld2k17": {
+      "a": "ANB",
+      "t": "Blueworld2k17",
+      "cover": "https://e.snmc.io/i/600/w/a084144fd54eda8bab9f0bd856946316/8497034/anb-blueworld2k17-Cover-Art.jpg"
+    },
+    "2017/erick-herve-yeke-boy/m-o-m": {
+      "a": "Erick Hervé & Yeke Boy",
+      "t": "M.O.M.",
+      "cover": "https://versosperfectos.com/OLDMEDIA/uploads/album/cover/6651/big_M.O.M..jpg"
+    },
+    "2017/cecilio-g/caries-hoe-xmas-2": {
+      "a": "Cecilio G",
+      "t": "Caries Hoe Xmas 2",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273239fbe7ec702c73aece7c8b1"
+    },
+    "2017/cecilio-g/praw-combo": {
+      "a": "Cecilio G",
+      "t": "Praw Combo",
+      "cover": "https://f4.bcbits.com/img/a3375109845_16.jpg"
+    },
+    "2017/cecilio-g/fin": {
+      "a": "Cecilio G",
+      "t": "Fin",
+      "cover": "https://f4.bcbits.com/img/a1527237829_16.jpg"
+    },
+    "2017/cecilio-g/racistalbum": {
+      "a": "Cecilio G",
+      "t": "RACISTALBUM",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27349d44f9be51b2ec8593fabcd"
+    },
+    "2018/sticky-m-a/las-pegajosas-aventuras-de-sticky-m-a": {
+      "a": "Sticky M.A.",
+      "t": "Las Pegajosas Aventuras de Sticky M.A.",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5BnJHN69BMUcZj_l-0jAild-CM74ge6sMA&s"
+    },
+    "2018/yung-beef/adromicfms-4": {
+      "a": "Yung Beef",
+      "t": "ADROMICFMS 4",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/64/30/1864303c-23a4-fdd0-f99b-8da6e9d36523/193483947471_cover.jpg/600x600bf-60.jpg"
+    },
+    "2018/fanso/musica-para-lagartos": {
+      "a": "Fanso",
+      "t": "Música para Lagartos",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxjmCHMKYIrHumFuqSeyIqSoWY01SeNvS_Ug&s"
+    },
+    "2018/soto-asa/down-music": {
+      "a": "Soto Asa",
+      "t": "Down Music",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/35/78/b23578e8-d770-07da-34d7-bdf8fe591e4e/dj.onejqyof.jpg/600x600bf-60.jpg"
+    },
+    "2018/goa-yung-beef/traumatismo-kraneoencefalico": {
+      "a": "Goa & Yung Beef",
+      "t": "Traumatismo Kraneoencefálico",
+      "cover": "https://images.genius.com/5f117ddb8f9e3b50caf991e784de4d3a.1000x1000x1.png"
+    },
+    "2018/la-zowi/ama-de-casa": {
+      "a": "La Zowi",
+      "t": "Ama de Casa",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uZpXZpkhzqlGq3XdA4A0tecQyZotV3U8yg&s"
+    },
+    "2018/space-surimi/double-flipper": {
+      "a": "Space Surimi",
+      "t": "Double Flipper",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD7ClDWb68ANGmqPZWETL2KKnxYAZyrpVM1g&s"
+    },
+    "2018/cruz-cafune/maracucho-bueno-muere-chiquito": {
+      "a": "Cruz Cafuné",
+      "t": "Maracucho Bueno Muere Chiquito",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9e/7f/2b/9e7f2b60-b76b-c7b6-fa11-7f5689f6c7f9/192562233085.jpg/600x600bf-60.jpg"
+    },
+    "2018/dheformer-ciclo/supremo-conocimiento-del-mundo": {
+      "a": "Dheformer & Ciclo",
+      "t": "Supremo Conocimiento del Mundo",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/28/ae/2128ae80-9a8f-9e2e-5120-a4aa42a98a96/cover.jpg/600x600bf-60.jpg"
+    },
+    "2018/rosalia/el-mal-querer": {
+      "a": "Rosalía",
+      "t": "El Mal Querer",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/55/e1/2c55e13f-15d8-1c7c-1826-c5fa55deaa8f/886447217139.jpg/600x600bf-60.jpg"
+    },
+    "2018/yako-munoz-yetbaby/amor-del-geto-iii": {
+      "a": "Yako Muñoz & Yetbaby",
+      "t": "Amor del geto III",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273962408900a138ccdd9fc4dde"
+    },
+    "2018/tpfam-y-miguel-grimaldo/no-memories": {
+      "a": "Tpfam y Miguel Grimaldo",
+      "t": "No Memories",
+      "cover": "https://i.postimg.cc/RV6NdLHF/Captura-de-pantalla-2026-03-09-152149.png"
+    },
+    "2018/madh-white-trash/post-human": {
+      "a": "Madh White Trash",
+      "t": "Post Human",
+      "cover": "https://f4.bcbits.com/img/a0358036396_16.jpg"
+    },
+    "2018/manu-beats/lupin-iii": {
+      "a": "Manu Beats",
+      "t": "Lupin III",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSnO6smKS-54sH-In9YbryFAjlzKcEX62A&s"
+    },
+    "2018/c-tangana/avida-dollars": {
+      "a": "C. Tangana",
+      "t": "Avida Dollars",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273212b044847323d4f2fd3bb6a"
+    },
+    "2018/cecilio-g/caries-hoe-xmas-3": {
+      "a": "Cecilio G",
+      "t": "Caries Hoe Xmas 3",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273928d46f31fbd49522f39860f"
+    },
+    "2018/cecilio-g/mad-max-power": {
+      "a": "Cecilio G",
+      "t": "MAD MAX POWER",
+      "cover": "https://images.genius.com/84b02d4bb82096cefa83b91acb4c257b.1000x1000x1.jpg"
+    },
+    "2019/cecilio-g/million-dollar-baby": {
+      "a": "Cecilio G",
+      "t": "Million Dollar Baby",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/c4/32/06c432d2-2fa4-7f4b-36ac-58745a3d0549/196292081947.jpg/600x600bf-60.jpg"
+    },
+    "2019/soto-asa/la-cruz": {
+      "a": "Soto Asa",
+      "t": "La Cruz",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/de/5f/10/de5f106a-89a6-b61f-333b-e8c3f2881e6d/194491773830.jpg/1200x630bb.jpg"
+    },
+    "2019/mc-buzz/baile-de-rua": {
+      "a": "MC Buzz",
+      "t": "Baile de Rua",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7b/51/8e/7b518efb-aca1-65be-cd2d-33955aebd3d7/757284216978.jpg/316x316bb.webp"
+    },
+    "2019/skyhook/moonchies": {
+      "a": "Skyhook",
+      "t": "Moonchies",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2a-yHPHOuc5QU5WK36Vl2HJu_iH3865PSA&s"
+    },
+    "2019/sticky-m-a/5ta-dimension": {
+      "a": "Sticky M.A.",
+      "t": "5ta Dimensión",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/d6/2a/c9d62a1f-c60c-dd47-7e55-779d04a0871a/197187113460.jpg/600x600bf-60.jpg"
+    },
+    "2019/goa/inmortal": {
+      "a": "Goa",
+      "t": "Inmortal",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/ac/b8/b3acb828-f6a1-4cd7-2839-fdf331847c78/190296200069.jpg/600x600bf-60.jpg"
+    },
+    "2019/lil-moss/titu": {
+      "a": "Lil Moss",
+      "t": "TITU",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWIyAOOwKDPiuu_3FE9idQcAgg45MwDR0Qg&s"
+    },
+    "2019/pedro-ladroga/eurococa": {
+      "a": "Pedro LaDroga",
+      "t": "Eurococa",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27390c47c8fa1afd66b6cca6d63"
+    },
+    "2019/dano/istmo": {
+      "a": "Dano",
+      "t": "Istmo",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/ff/a8/85ffa86c-eb1a-90cd-d915-99a5dba4b147/199350018299.jpg/600x600bf-60.jpg"
+    },
+    "2019/morad/m-d-l-r": {
+      "a": "Morad",
+      "t": "M.D.L.R",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/0a/64/250a64e9-c979-9e65-62cc-ae490e0e8073/196006247904.jpg/600x600bf-60.jpg"
+    },
+    "2019/souzreptil1k17-baby-pantera/going-crazy": {
+      "a": "SouzReptil1k17 & Baby Pantera",
+      "t": "Going Crazy",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9cbf432311ff03ae93e3a31821dbbf62/500x500-000000-80-0-0.jpg"
+    },
+    "2019/sen-senra/sensaciones": {
+      "a": "Sen Senra",
+      "t": "Sensaciones",
+      "cover": "https://m.media-amazon.com/images/I/51oYl7DULyL._UF894,1000_QL80_.jpg"
+    },
+    "2019/miguel-grimaldo/trip-ass": {
+      "a": "Miguel Grimaldo",
+      "t": "Trip Ass",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273370c329a35968821f5afe151"
+    },
+    "2019/califato-3-4/puerta-de-la-canne": {
+      "a": "Califato 3/4",
+      "t": "Puerta de la Cânne",
+      "cover": "https://f4.bcbits.com/img/a1945779714_16.jpg"
+    },
+    "2019/cecilio-g/todos-presos-tdps": {
+      "a": "Cecilio G",
+      "t": "Todos Presos {TDPS}",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737a1205f113c0450268dcc0cf"
+    },
+    "2019/cecilio-g/aleesha-la-mixtape": {
+      "a": "Cecilio G",
+      "t": "Aleesha la Mixtape",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273214a1930d941b407346cf678"
+    },
+    "2019/cecilio-g/caries-hoe-xmas-4": {
+      "a": "Cecilio G",
+      "t": "Caries Hoe Xmas 4",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273556bf54fc79a846001380607"
+    }
+  },
+  "artistas": {
+    "935": {
+      "name": "935",
+      "count": 1
+    },
+    "3yo": {
+      "name": "3yo",
+      "count": 1
+    },
+    "94-brous": {
+      "name": "94 Brous",
+      "count": 1
+    },
+    "a-rock": {
+      "name": "A. Rock",
+      "count": 1
+    },
+    "a-santos": {
+      "name": "A. Santos",
+      "count": 1
+    },
+    "acaraperro": {
+      "name": "Acaraperro",
+      "count": 1
+    },
+    "adriano-danzziani": {
+      "name": "Adriano Danzziani",
+      "count": 1
+    },
+    "agorazein": {
+      "name": "Agorazein",
+      "count": 1
+    },
+    "amores-perros": {
+      "name": "Amores Perros",
+      "count": 2
+    },
+    "anb": {
+      "name": "ANB",
+      "count": 7
+    },
+    "antonio-rodriguez-nete": {
+      "name": "Antonio Rodriguez / Ñete",
+      "count": 1
+    },
+    "are": {
+      "name": "Are",
+      "count": 1
+    },
+    "aroon-baliti-y-dj-volo": {
+      "name": "Aroon Baliti y Dj Volo",
+      "count": 1
+    },
+    "arufe": {
+      "name": "Arufe",
+      "count": 1
+    },
+    "ases": {
+      "name": "Asës",
+      "count": 1
+    },
+    "baboon-estudios": {
+      "name": "Baboon Estudios",
+      "count": 2
+    },
+    "bad-gyal": {
+      "name": "Bad Gyal",
+      "count": 1
+    },
+    "basilio": {
+      "name": "Basilio",
+      "count": 1
+    },
+    "be-timeless": {
+      "name": "Be Timeless",
+      "count": 1
+    },
+    "big-sabanas": {
+      "name": "Big Sábanas",
+      "count": 1
+    },
+    "black-caesar": {
+      "name": "Black Caesar",
+      "count": 2
+    },
+    "blanco": {
+      "name": "Blanco",
+      "count": 1
+    },
+    "blowin-up-treez": {
+      "name": "Blowin' Up Treez",
+      "count": 1
+    },
+    "bombony-montana-lone": {
+      "name": "Bombony Montana & Lone",
+      "count": 1
+    },
+    "bong-x-dae-bryson": {
+      "name": "Bong x Dae Bryson",
+      "count": 1
+    },
+    "bray-fine": {
+      "name": "Bray Finé",
+      "count": 1
+    },
+    "c-tangana": {
+      "name": "C. Tangana",
+      "count": 3
+    },
+    "c-terrible": {
+      "name": "C. Terrible",
+      "count": 1
+    },
+    "calido-lehamo": {
+      "name": "Calido Lehamo",
+      "count": 2
+    },
+    "califato-3-4": {
+      "name": "Califato 3/4",
+      "count": 1
+    },
+    "capaz": {
+      "name": "Capaz",
+      "count": 1
+    },
+    "carmona": {
+      "name": "Carmona",
+      "count": 1
+    },
+    "cecilio-g": {
+      "name": "Cecilio G",
+      "count": 31
+    },
+    "ceerre": {
+      "name": "Ceerre",
+      "count": 2
+    },
+    "chaman-black-jackets": {
+      "name": "Chaman & Black Jackets",
+      "count": 1
+    },
+    "charlestan": {
+      "name": "Charlestan",
+      "count": 1
+    },
+    "charlie": {
+      "name": "Charlie",
+      "count": 1
+    },
+    "charly-efe": {
+      "name": "Charly Efe",
+      "count": 3
+    },
+    "charly-efe-y-delagang": {
+      "name": "Charly Efe y Delagang",
+      "count": 1
+    },
+    "cheb-ruben": {
+      "name": "Cheb Rubén",
+      "count": 5
+    },
+    "chevalier": {
+      "name": "Chevalier",
+      "count": 1
+    },
+    "chicoes3": {
+      "name": "ChicoES3",
+      "count": 2
+    },
+    "chirie-vegas": {
+      "name": "Chirie Vegas",
+      "count": 1
+    },
+    "click-clack-gang": {
+      "name": "Click Clack Gang",
+      "count": 1
+    },
+    "corredores-de-bloque": {
+      "name": "Corredores de bloque",
+      "count": 1
+    },
+    "costa": {
+      "name": "Costa",
+      "count": 1
+    },
+    "couple-minutes": {
+      "name": "Couple Minutes",
+      "count": 1
+    },
+    "cruz-cafune": {
+      "name": "Cruz Cafuné",
+      "count": 1
+    },
+    "d-vilas-x-big-nasa": {
+      "name": "D.Vilas X Big NASA",
+      "count": 1
+    },
+    "damed-squad": {
+      "name": "Damed Squad",
+      "count": 1
+    },
+    "dano": {
+      "name": "Dano",
+      "count": 2
+    },
+    "darmo": {
+      "name": "Darmo",
+      "count": 1
+    },
+    "dellafuente": {
+      "name": "Dellafuente",
+      "count": 4
+    },
+    "dheformer": {
+      "name": "Dheformer",
+      "count": 2
+    },
+    "dheformer-ciclo": {
+      "name": "Dheformer & Ciclo",
+      "count": 1
+    },
+    "dj-longanisa": {
+      "name": "Dj Longanisa",
+      "count": 1
+    },
+    "dnc-foyone-stanpida-kpo-jokerfeller": {
+      "name": "DNC (Foyone, Stanpida, Kpo, Jokerfeller)",
+      "count": 1
+    },
+    "drisket": {
+      "name": "Drisket",
+      "count": 1
+    },
+    "dual-tod": {
+      "name": "Dual Tod",
+      "count": 1
+    },
+    "ebano": {
+      "name": "Ébano",
+      "count": 1
+    },
+    "el-coleta": {
+      "name": "El Coleta",
+      "count": 3
+    },
+    "el-guincho": {
+      "name": "El Guincho",
+      "count": 2
+    },
+    "el-mini": {
+      "name": "El Mini",
+      "count": 2
+    },
+    "el-momo-pseudonimo": {
+      "name": "El Momo & Pseudónimo",
+      "count": 2
+    },
+    "el-nino-snake": {
+      "name": "El Niño Snake",
+      "count": 1
+    },
+    "el-nino-trapani": {
+      "name": "El Niño Trapani",
+      "count": 4
+    },
+    "elecesar": {
+      "name": "Elecesar",
+      "count": 1
+    },
+    "elmini-retarded": {
+      "name": "ElMini² Retarded+",
+      "count": 1
+    },
+    "elphomega": {
+      "name": "Elphomega",
+      "count": 1
+    },
+    "elsso-rodriguez": {
+      "name": "Elsso Rodríguez",
+      "count": 4
+    },
+    "emelvi": {
+      "name": "Emelvi",
+      "count": 1
+    },
+    "eneko-y-gareta": {
+      "name": "Eneko y Gareta",
+      "count": 1
+    },
+    "erick-herve-yeke-boy": {
+      "name": "Erick Hervé & Yeke Boy",
+      "count": 1
+    },
+    "erik-urano-y-zar-1": {
+      "name": "Erik Urano y Zar 1",
+      "count": 1
+    },
+    "erik-urano-zar1": {
+      "name": "Erik Urano & Zar1",
+      "count": 1
+    },
+    "escandaloso-xposito-hartosopash": {
+      "name": "Escandaloso Xpósito & Hartosopash",
+      "count": 1
+    },
+    "etre-supreme-groove-drama": {
+      "name": "Étre Supreme & Groove Drama",
+      "count": 1
+    },
+    "f-ckin-maniacs": {
+      "name": "F*ckin' Maniacs",
+      "count": 1
+    },
+    "fanso": {
+      "name": "Fanso",
+      "count": 1
+    },
+    "fasther": {
+      "name": "Fasther",
+      "count": 2
+    },
+    "fede-el-mono-shao": {
+      "name": "Fede´El & Mono Shao",
+      "count": 1
+    },
+    "foyone": {
+      "name": "Foyone",
+      "count": 4
+    },
+    "fran-laoren": {
+      "name": "Fran Laoren",
+      "count": 1
+    },
+    "gastonbeiker": {
+      "name": "Gastonbeiker",
+      "count": 1
+    },
+    "gastonbeiker-dj-saum": {
+      "name": "Gastonbeiker & DJ Saum",
+      "count": 1
+    },
+    "gata-cattana": {
+      "name": "Gata Cattana",
+      "count": 1
+    },
+    "goa": {
+      "name": "Goa",
+      "count": 1
+    },
+    "goa-yung-beef": {
+      "name": "Goa & Yung Beef",
+      "count": 1
+    },
+    "gonzalo-m-evan-malakay": {
+      "name": "Gonzalo.M & Evan Malakay",
+      "count": 1
+    },
+    "grand-groove": {
+      "name": "Grand Groove",
+      "count": 1
+    },
+    "guante-blanco": {
+      "name": "Guante Blanco",
+      "count": 1
+    },
+    "i-ace-j-o": {
+      "name": "I.Ace & J.O",
+      "count": 1
+    },
+    "ihon": {
+      "name": "Ihon",
+      "count": 1
+    },
+    "infinitum": {
+      "name": "Infinitum",
+      "count": 1
+    },
+    "inze-brashier": {
+      "name": "Inze Brashier",
+      "count": 1
+    },
+    "isayah-thomas": {
+      "name": "Isayah Thomas",
+      "count": 1
+    },
+    "ivan-nieto": {
+      "name": "Ivan Nieto",
+      "count": 1
+    },
+    "ivo-incuerdo": {
+      "name": "Ivo Incuerdo",
+      "count": 1
+    },
+    "j-dose-mrcs": {
+      "name": "J DOSE & MRCS",
+      "count": 1
+    },
+    "jamas": {
+      "name": "Jamas",
+      "count": 1
+    },
+    "javier-petaka": {
+      "name": "Javier Petaka",
+      "count": 2
+    },
+    "jay-hernandez": {
+      "name": "Jay Hernandez",
+      "count": 1
+    },
+    "jerva-agz": {
+      "name": "Jerva.Agz",
+      "count": 1
+    },
+    "josito-migrana": {
+      "name": "Josito Migraña",
+      "count": 3
+    },
+    "kase-o": {
+      "name": "Kase O",
+      "count": 1
+    },
+    "kaydy-cain": {
+      "name": "Kaydy Cain",
+      "count": 5
+    },
+    "kefta-boys": {
+      "name": "Kefta Boys",
+      "count": 1
+    },
+    "kraf": {
+      "name": "Kraf",
+      "count": 1
+    },
+    "kuor-larraz": {
+      "name": "Kuor Larraz",
+      "count": 1
+    },
+    "kyhook": {
+      "name": "$kyhook",
+      "count": 2
+    },
+    "la-boheme": {
+      "name": "La Bohème",
+      "count": 1
+    },
+    "la-clave-urbana": {
+      "name": "La Clave Urbana",
+      "count": 3
+    },
+    "la-espiral": {
+      "name": "La Espiral",
+      "count": 1
+    },
+    "la-jota-nostra": {
+      "name": "La Jota Nostra",
+      "count": 1
+    },
+    "la-mafia-del-amor": {
+      "name": "La Mafia del Amor",
+      "count": 1
+    },
+    "la-sdj-crew": {
+      "name": "La SDJ Crew",
+      "count": 1
+    },
+    "la-zowi": {
+      "name": "La Zowi",
+      "count": 1
+    },
+    "ldk-velazquez-y-b-walls": {
+      "name": "Ldk (Velazquez y B.Walls)",
+      "count": 1
+    },
+    "leiterman": {
+      "name": "Leiterman",
+      "count": 1
+    },
+    "leitmotiv": {
+      "name": "Leitmotiv",
+      "count": 1
+    },
+    "lil-moss": {
+      "name": "Lil Moss",
+      "count": 1
+    },
+    "lone": {
+      "name": "Lone",
+      "count": 1
+    },
+    "los-chastas": {
+      "name": "Los Chastas",
+      "count": 1
+    },
+    "los-chicos-de-la-lluvia": {
+      "name": "Los Chicos de la lluvia",
+      "count": 1
+    },
+    "lost-twin-urano-players-agorazein": {
+      "name": "Lost Twin + Urano Players + Agorazein",
+      "count": 1
+    },
+    "love-g-jimenez-al-des-saint": {
+      "name": "Love G. Jiménez & Al' des Saint",
+      "count": 1
+    },
+    "m-padron": {
+      "name": "M. Padrón",
+      "count": 1
+    },
+    "m-ramirez": {
+      "name": "M. Ramirez",
+      "count": 1
+    },
+    "madh-white-trash": {
+      "name": "Madh White Trash",
+      "count": 3
+    },
+    "maka": {
+      "name": "Maka",
+      "count": 1
+    },
+    "manto-fabianni": {
+      "name": "Manto & Fabianni",
+      "count": 1
+    },
+    "manu-beats": {
+      "name": "Manu Beats",
+      "count": 1
+    },
+    "mc-buzz": {
+      "name": "MC Buzz",
+      "count": 1
+    },
+    "mde-click": {
+      "name": "MDE Click",
+      "count": 2
+    },
+    "me-cago-en-tu-padre": {
+      "name": "Me cago en Tu Padre",
+      "count": 1
+    },
+    "mi-amargo": {
+      "name": "Mi Amargo",
+      "count": 3
+    },
+    "miguel-grimaldo": {
+      "name": "Miguel Grimaldo",
+      "count": 2
+    },
+    "miguel-grimaldo-nino": {
+      "name": "Miguel Grimaldo & Niño",
+      "count": 1
+    },
+    "momo": {
+      "name": "Momo",
+      "count": 1
+    },
+    "morad": {
+      "name": "Morad",
+      "count": 1
+    },
+    "morf": {
+      "name": "Morf",
+      "count": 1
+    },
+    "morf-la-boheme": {
+      "name": "Morf (La Boheme)",
+      "count": 1
+    },
+    "morodo": {
+      "name": "Morodo",
+      "count": 1
+    },
+    "mr-neo": {
+      "name": "Mr. Neo",
+      "count": 1
+    },
+    "n-wise-allah": {
+      "name": "N-Wise Allah",
+      "count": 1
+    },
+    "n-wise-mde-click": {
+      "name": "N-Wise (Mde Click)",
+      "count": 1
+    },
+    "nasta": {
+      "name": "Nasta",
+      "count": 3
+    },
+    "natos-waor": {
+      "name": "Natos & Waor",
+      "count": 1
+    },
+    "nete-rodriguez": {
+      "name": "Ñete Rodriguez",
+      "count": 1
+    },
+    "nino-maldito": {
+      "name": "Niño Maldito",
+      "count": 1
+    },
+    "oceank": {
+      "name": "#Oceank",
+      "count": 1
+    },
+    "ochoa": {
+      "name": "Ochoa",
+      "count": 1
+    },
+    "original-juan": {
+      "name": "Original Juan",
+      "count": 1
+    },
+    "owlkids": {
+      "name": "Owlkids",
+      "count": 1
+    },
+    "pedro-ladroga": {
+      "name": "Pedro LaDroga",
+      "count": 4
+    },
+    "pepe-vizio": {
+      "name": "Pepe : Vizio",
+      "count": 1
+    },
+    "pequenochico": {
+      "name": "PequeñoChico",
+      "count": 1
+    },
+    "pequenochico-jovennegro-mister-b": {
+      "name": "PequeñoChico / Jovennegro / Mister B",
+      "count": 1
+    },
+    "phicycle": {
+      "name": "Phicycle",
+      "count": 1
+    },
+    "pocas-libras": {
+      "name": "Pocas Libras",
+      "count": 1
+    },
+    "primer-dan": {
+      "name": "Primer Dan",
+      "count": 1
+    },
+    "priteo": {
+      "name": "Priteo",
+      "count": 1
+    },
+    "pseudonimo": {
+      "name": "Pseudónimo",
+      "count": 1
+    },
+    "quimica-code": {
+      "name": "Química Code",
+      "count": 2
+    },
+    "r-s-n": {
+      "name": "R.S.N.",
+      "count": 1
+    },
+    "rafael-lechowski-y-glac": {
+      "name": "Rafael Lechowski y Glaç",
+      "count": 1
+    },
+    "rap-gotti": {
+      "name": "Rap Gotti",
+      "count": 1
+    },
+    "rare": {
+      "name": "Rare",
+      "count": 1
+    },
+    "ratas-inestables": {
+      "name": "Ratas Inestables",
+      "count": 1
+    },
+    "rosalia": {
+      "name": "Rosalía",
+      "count": 1
+    },
+    "sdj-crew": {
+      "name": "SDJ Crew",
+      "count": 1
+    },
+    "sen-senra": {
+      "name": "Sen Senra",
+      "count": 1
+    },
+    "seron": {
+      "name": "Serón",
+      "count": 1
+    },
+    "serye-b": {
+      "name": "Serye-B",
+      "count": 1
+    },
+    "sh-musica": {
+      "name": "SH Música",
+      "count": 2
+    },
+    "shn": {
+      "name": "SHN",
+      "count": 1
+    },
+    "sicario-hazhe": {
+      "name": "Sicario & Hazhe",
+      "count": 1
+    },
+    "signo-yasin-el-tangerino": {
+      "name": "Signo & Yasin El Tangerino",
+      "count": 1
+    },
+    "skyhook": {
+      "name": "Skyhook",
+      "count": 1
+    },
+    "sokez": {
+      "name": "Sokez",
+      "count": 1
+    },
+    "soto-asa": {
+      "name": "Soto Asa",
+      "count": 5
+    },
+    "souzreptil1k17-baby-pantera": {
+      "name": "SouzReptil1k17 & Baby Pantera",
+      "count": 1
+    },
+    "space-surimi": {
+      "name": "Space Surimi",
+      "count": 1
+    },
+    "spaced-out-family": {
+      "name": "Spaced Out Family",
+      "count": 1
+    },
+    "spitting-essence": {
+      "name": "Spitting Essence",
+      "count": 1
+    },
+    "sticky-m-a": {
+      "name": "Sticky M.A.",
+      "count": 3
+    },
+    "street-bucks": {
+      "name": "Street Bucks",
+      "count": 1
+    },
+    "subliminal-class": {
+      "name": "Subliminal Class",
+      "count": 1
+    },
+    "suite-soprano": {
+      "name": "Suite Soprano",
+      "count": 2
+    },
+    "sule-b": {
+      "name": "Sule B",
+      "count": 1
+    },
+    "supra": {
+      "name": "Supra",
+      "count": 2
+    },
+    "takers": {
+      "name": "Takers",
+      "count": 1
+    },
+    "tetuan-most-wanted": {
+      "name": "Tetuán Most Wanted",
+      "count": 2
+    },
+    "tibu-morales": {
+      "name": "Tibu Morales",
+      "count": 1
+    },
+    "tocha-pro": {
+      "name": "Tocha Pro",
+      "count": 1
+    },
+    "toscano": {
+      "name": "Toscano",
+      "count": 2
+    },
+    "tpfam-y-miguel-grimaldo": {
+      "name": "Tpfam y Miguel Grimaldo",
+      "count": 1
+    },
+    "tutto-vale-golden-alex": {
+      "name": "Tutto Vale & Golden Alex",
+      "count": 1
+    },
+    "tutto-vale-morf": {
+      "name": "Tutto Vale & Morf",
+      "count": 1
+    },
+    "victor-rutty": {
+      "name": "Victor Rutty",
+      "count": 1
+    },
+    "vietnam-1974": {
+      "name": "Vietnam 1974",
+      "count": 1
+    },
+    "yako-munoz": {
+      "name": "Yako Muñoz",
+      "count": 2
+    },
+    "yako-munoz-yetbaby": {
+      "name": "Yako Muñoz & Yetbaby",
+      "count": 1
+    },
+    "yako-munoz-yzeberg-catzola": {
+      "name": "Yako Muñoz & Yzeberg Catzola",
+      "count": 1
+    },
+    "yasin-el-tangerino": {
+      "name": "Yasin El Tangerino",
+      "count": 1
+    },
+    "yonkos-team-y-la-mafia-tramontana": {
+      "name": "Yonkos Team Y La Mafia Tramontana",
+      "count": 1
+    },
+    "yung-beef": {
+      "name": "Yung Beef",
+      "count": 3
+    },
+    "zar1-elsso-rodriguez": {
+      "name": "Zar1 & Elsso Rodríguez",
+      "count": 1
+    },
+    "zetazen": {
+      "name": "Zetazen",
+      "count": 1
+    },
+    "ziontifik": {
+      "name": "Ziontifik",
+      "count": 1
+    },
+    "zode": {
+      "name": "Zode",
+      "count": 1
+    }
+  }
+}
