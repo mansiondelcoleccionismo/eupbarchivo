@@ -6,2618 +6,3074 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://eupb.es/museo.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://eupb.es/catalogo.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://eupb.es/youtube.html</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://eupb.es/disco/chicoes3-inercia-24-7/</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/graffiti.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://eupb.es/ranking</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://eupb.es/disco/nasta-underground-clandestino/</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artistas</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://eupb.es/disco/elsso-rodriguez-baladas-heavys/</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/chicoes3/inercia-24-7</loc>
+    <loc>https://eupb.es/disco/kaydy-cain-life-is/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/nasta/underground-clandestino</loc>
+    <loc>https://eupb.es/disco/corredores-de-bloque-cb-cuts-vol-1/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/elsso-rodriguez/baladas-heavys</loc>
+    <loc>https://eupb.es/disco/la-clave-urbana-subterraneo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/kaydy-cain/life-is</loc>
+    <loc>https://eupb.es/disco/charly-efe-bang-2/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/corredores-de-bloque/cb-cuts-vol-1</loc>
+    <loc>https://eupb.es/disco/935-no-me-creo-nada/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/la-clave-urbana/subterraneo</loc>
+    <loc>https://eupb.es/disco/javier-petaka-00-00am/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/charly-efe/bang-2</loc>
+    <loc>https://eupb.es/disco/ratas-inestables-corazones-sincronizados/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/935/no-me-creo-nada</loc>
+    <loc>https://eupb.es/disco/nete-rodriguez-presidente/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/javier-petaka/00-00am</loc>
+    <loc>https://eupb.es/disco/yasin-el-tangerino-eres-lo-que-te-rodea/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/ratas-inestables/corazones-sincronizados</loc>
+    <loc>https://eupb.es/disco/sicario-hazhe-nucleares/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/nete-rodriguez/presidente</loc>
+    <loc>https://eupb.es/disco/primer-dan-crimen-sin-castigo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/yasin-el-tangerino/eres-lo-que-te-rodea</loc>
+    <loc>https://eupb.es/disco/morodo-rebel-action/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/sicario-hazhe/nucleares</loc>
+    <loc>https://eupb.es/disco/mde-click-n-troducing-bobby-peru/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/primer-dan/crimen-sin-castigo</loc>
+    <loc>https://eupb.es/disco/lone-promo-2010/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/morodo/rebel-action</loc>
+    <loc>https://eupb.es/disco/la-jota-nostra-la-jota-nostra/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/mde-click/n-troducing-bobby-peru</loc>
+    <loc>https://eupb.es/disco/ihon-depresihon/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/lone/promo-2010</loc>
+    <loc>https://eupb.es/disco/elsso-rodriguez-elsso-rodriguez-vs-capcom/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/la-jota-nostra/la-jota-nostra</loc>
+    <loc>https://eupb.es/disco/el-nino-trapani-uomini-d-onore/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/ihon/depresihon</loc>
+    <loc>https://eupb.es/disco/el-momo-pseudonimo-skills/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/elsso-rodriguez/elsso-rodriguez-vs-capcom</loc>
+    <loc>https://eupb.es/disco/el-guincho-pop-negro/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/el-nino-trapani/uomini-d-onore</loc>
+    <loc>https://eupb.es/disco/costa-morfina/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/el-momo-pseudonimo/skills</loc>
+    <loc>https://eupb.es/disco/capaz-ultimo-cigarro/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/el-guincho/pop-negro</loc>
+    <loc>https://eupb.es/disco/guante-blanco-moonglasses/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/costa/morfina</loc>
+    <loc>https://eupb.es/disco/erik-urano-zar1-energia-libre/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2010/capaz/ultimo-cigarro</loc>
+    <loc>https://eupb.es/disco/n-wise-mde-click-5/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/guante-blanco/moonglasses</loc>
+    <loc>https://eupb.es/disco/baboon-estudios-baboon-estudios-vol-1/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/erik-urano-zar1/energia-libre</loc>
+    <loc>https://eupb.es/disco/cheb-ruben-heridas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/n-wise-mde-click/5</loc>
+    <loc>https://eupb.es/disco/ebano-1984/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/baboon-estudios/baboon-estudios-vol-1</loc>
+    <loc>https://eupb.es/disco/c-tangana-agorazein-presenta-a-c-tangana/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/cheb-ruben/heridas</loc>
+    <loc>https://eupb.es/disco/be-timeless-sencillo-y-en-silencio/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/ebano/1984</loc>
+    <loc>https://eupb.es/disco/escandaloso-xposito-hartosopash-1974/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/c-tangana/agorazein-presenta-a-c-tangana</loc>
+    <loc>https://eupb.es/disco/el-nino-trapani-el-nino-trapani/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/be-timeless/sencillo-y-en-silencio</loc>
+    <loc>https://eupb.es/disco/zetazen-inside/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/escandaloso-xposito-hartosopash/1974</loc>
+    <loc>https://eupb.es/disco/yonkos-team-y-la-mafia-tramontana-hijos-de-puta-infinitos/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/el-nino-trapani/el-nino-trapani</loc>
+    <loc>https://eupb.es/disco/toscano-no-promo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/zetazen/inside</loc>
+    <loc>https://eupb.es/disco/tocha-pro-real/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/yonkos-team-y-la-mafia-tramontana/hijos-de-puta-infinitos</loc>
+    <loc>https://eupb.es/disco/tibu-morales-just-like-marvin/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/toscano/no-promo</loc>
+    <loc>https://eupb.es/disco/tetuan-most-wanted-tetuan-most-wanted-2011/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/tocha-pro/real</loc>
+    <loc>https://eupb.es/disco/supra-trastorno-limite/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/tibu-morales/just-like-marvin</loc>
+    <loc>https://eupb.es/disco/sule-b-mvp/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/tetuan-most-wanted/tetuan-most-wanted</loc>
+    <loc>https://eupb.es/disco/spitting-essence-underground-delicatessence/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/supra/trastorno-limite</loc>
+    <loc>https://eupb.es/disco/sh-musica-el-antibiotico/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/sule-b/mvp</loc>
+    <loc>https://eupb.es/disco/rafael-lechowski-y-glac-donde-duele-inspira-2007-2011/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/spitting-essence/underground-delicatessence</loc>
+    <loc>https://eupb.es/disco/quimica-code-mal-karma/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/sh-musica/el-antibiotico</loc>
+    <loc>https://eupb.es/disco/natos-waor-por-la-jeta/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/rafael-lechowski-y-glac/donde-duele-inspira-2007-2011</loc>
+    <loc>https://eupb.es/disco/mi-amargo-la-ganga/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/quimica-code/mal-karma</loc>
+    <loc>https://eupb.es/disco/me-cago-en-tu-padre-calido-lehamo-nino-maldito/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/natos-waor/por-la-jeta</loc>
+    <loc>https://eupb.es/disco/mde-click-mde-warriorz/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/mi-amargo/la-ganga</loc>
+    <loc>https://eupb.es/disco/manto-fabianni-margen-de-error/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/me-cago-en-tu-padre/calido-lehamo-nino-maldito</loc>
+    <loc>https://eupb.es/disco/m-ramirez-r-e-c-la-mixtape/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/mde-click/mde-warriorz</loc>
+    <loc>https://eupb.es/disco/m-padron-influencias-del-pasado/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/manto-fabianni/margen-de-error</loc>
+    <loc>https://eupb.es/disco/kase-o-jazz-magnetism/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/m-ramirez/r-e-c-la-mixtape</loc>
+    <loc>https://eupb.es/disco/inze-brashier-desde-cero/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/m-padron/influencias-del-pasado</loc>
+    <loc>https://eupb.es/disco/grand-groove-ii/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/kase-o/jazz-magnetism</loc>
+    <loc>https://eupb.es/disco/foyone-mi-zoologico/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/inze-brashier/desde-cero</loc>
+    <loc>https://eupb.es/disco/fede-el-mono-shao-polvo-de-estrejazz/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/grand-groove/ii</loc>
+    <loc>https://eupb.es/disco/fasther-b-o-s-s/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/foyone/mi-zoologico</loc>
+    <loc>https://eupb.es/disco/eneko-y-gareta-el-primer-signo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/fede-el-mono-shao/polvo-de-estrejazz</loc>
+    <loc>https://eupb.es/disco/el-momo-pseudonimo-9-musas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/fasther/b-o-s-s</loc>
+    <loc>https://eupb.es/disco/el-coleta-mas-cornas-da-el-hambre/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/eneko-y-gareta/el-primer-signo</loc>
+    <loc>https://eupb.es/disco/darmo-un-camino-inestable/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/el-momo-pseudonimo/9-musas</loc>
+    <loc>https://eupb.es/disco/kaydy-cain-swing-remixes/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/el-coleta/mas-cornas-da-el-hambre</loc>
+    <loc>https://eupb.es/disco/kaydy-cain-rock-fly/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/darmo/un-camino-inestable</loc>
+    <loc>https://eupb.es/disco/black-caesar-calidad-antes-que-cantidad/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/kaydy-cain/swing-remixes</loc>
+    <loc>https://eupb.es/disco/are-impacto/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/kaydy-cain/rock-fly</loc>
+    <loc>https://eupb.es/disco/agorazein-kind-of-red/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/black-caesar/calidad-antes-que-cantidad</loc>
+    <loc>https://eupb.es/disco/chicoes3-3012/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/are/impacto</loc>
+    <loc>https://eupb.es/disco/kefta-boys-posgrvdesboys/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2011/agorazein/kind-of-red</loc>
+    <loc>https://eupb.es/disco/kaydy-cain-musica-pa-vacilar/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/chicoes3/3012</loc>
+    <loc>https://eupb.es/disco/isayah-thomas-alturas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/kefta-boys/posgrvdesboys</loc>
+    <loc>https://eupb.es/disco/c-tangana-love-s/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/kaydy-cain/musica-pa-vacilar</loc>
+    <loc>https://eupb.es/disco/tetuan-most-wanted-tetuan-most-wanted-2012/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/isayah-thomas/alturas</loc>
+    <loc>https://eupb.es/disco/yako-munoz-mgms/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/c-tangana/love-s</loc>
+    <loc>https://eupb.es/disco/dano-equilibrio/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/tetuan-most-wanted/tetuan-most-wanted</loc>
+    <loc>https://eupb.es/disco/chirie-vegas-shadows/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/yako-munoz/mgms</loc>
+    <loc>https://eupb.es/disco/sdj-crew-commandos/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/dano/equilibrio</loc>
+    <loc>https://eupb.es/disco/ziontifik-black-ps/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/chirie-vegas/shadows</loc>
+    <loc>https://eupb.es/disco/victor-rutty-generacion-perdida/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/sdj-crew/commandos</loc>
+    <loc>https://eupb.es/disco/tutto-vale-morf-slang-for-dummies/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/ziontifik/black-ps</loc>
+    <loc>https://eupb.es/disco/toscano-de-vuelta-al-hardest/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/victor-rutty/generacion-perdida</loc>
+    <loc>https://eupb.es/disco/suite-soprano-nada-mas-lejos/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/tutto-vale-morf/slang-for-dummies</loc>
+    <loc>https://eupb.es/disco/street-bucks-no-jewelz-in-our-life/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/toscano/de-vuelta-al-hardest</loc>
+    <loc>https://eupb.es/disco/soto-asa-sweet/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/suite-soprano/nada-mas-lejos</loc>
+    <loc>https://eupb.es/disco/signo-yasin-el-tangerino-los-ultimos-seran-los-primeros/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/street-bucks/no-jewelz-in-our-life</loc>
+    <loc>https://eupb.es/disco/seron-todo-queda-en-casa/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/soto-asa/sweet</loc>
+    <loc>https://eupb.es/disco/serye-b-aborigen/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/signo-yasin-el-tangerino/los-ultimos-seran-los-primeros</loc>
+    <loc>https://eupb.es/disco/r-s-n-redencion/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/seron/todo-queda-en-casa</loc>
+    <loc>https://eupb.es/disco/pseudonimo-bounce-back/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/serye-b/aborigen</loc>
+    <loc>https://eupb.es/disco/priteo-gumbo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/r-s-n/redencion</loc>
+    <loc>https://eupb.es/disco/phicycle-proporcion/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/pseudonimo/bounce-back</loc>
+    <loc>https://eupb.es/disco/nasta-magnifico/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/priteo/gumbo</loc>
+    <loc>https://eupb.es/disco/miguel-grimaldo-el-gato-de-schrodinger/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/phicycle/proporcion</loc>
+    <loc>https://eupb.es/disco/mi-amargo-la-vida-sin-maletas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/nasta/magnifico</loc>
+    <loc>https://eupb.es/disco/leitmotiv-leitmotiv/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/miguel-grimaldo/el-gato-de-schrodinger</loc>
+    <loc>https://eupb.es/disco/la-boheme-chardonnay/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/mi-amargo/la-vida-sin-maletas</loc>
+    <loc>https://eupb.es/disco/kraf-woolgather/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/leitmotiv/leitmotiv</loc>
+    <loc>https://eupb.es/disco/jerva-agz-all-black/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/la-boheme/chardonnay</loc>
+    <loc>https://eupb.es/disco/javier-petaka-black-label/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/kraf/woolgather</loc>
+    <loc>https://eupb.es/disco/ivan-nieto-maleza/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/jerva-agz/all-black</loc>
+    <loc>https://eupb.es/disco/i-ace-j-o-carambola/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/javier-petaka/black-label</loc>
+    <loc>https://eupb.es/disco/foyone-pvta/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/ivan-nieto/maleza</loc>
+    <loc>https://eupb.es/disco/f-ckin-maniacs-premium/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/i-ace-j-o/carambola</loc>
+    <loc>https://eupb.es/disco/el-nino-trapani-ii/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/foyone/pvta</loc>
+    <loc>https://eupb.es/disco/el-nino-snake-snake/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/f-ckin-maniacs/premium</loc>
+    <loc>https://eupb.es/disco/cheb-ruben-reproches/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/el-nino-trapani/ii</loc>
+    <loc>https://eupb.es/disco/charly-efe-todos-los-ojos-lloran-mierda/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/el-nino-snake/snake</loc>
+    <loc>https://eupb.es/disco/charlestan-cortocircuitos/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/cheb-ruben/reproches</loc>
+    <loc>https://eupb.es/disco/carmona-por-necesidad/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/charly-efe/todos-los-ojos-lloran-mierda</loc>
+    <loc>https://eupb.es/disco/blanco-it-s-sugar-baby/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/charlestan/cortocircuitos</loc>
+    <loc>https://eupb.es/disco/big-sabanas-tension/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/carmona/por-necesidad</loc>
+    <loc>https://eupb.es/disco/cecilio-g-legal-drugz/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/blanco/it-s-sugar-baby</loc>
+    <loc>https://eupb.es/disco/baboon-estudios-re-out/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/big-sabanas/tension</loc>
+    <loc>https://eupb.es/disco/cecilio-g-in-the-corner/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/cecilio-g/legal-drugz</loc>
+    <loc>https://eupb.es/disco/ases-representandome/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/baboon-estudios/re-out</loc>
+    <loc>https://eupb.es/disco/cecilio-g-morriers-gang/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/cecilio-g/in-the-corner</loc>
+    <loc>https://eupb.es/disco/adriano-danzziani-catenaccio/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/ases/representandome</loc>
+    <loc>https://eupb.es/disco/acaraperro-aka-la-cloaca/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/cecilio-g/morriers-gang</loc>
+    <loc>https://eupb.es/disco/cecilio-g-rememberin-pachangeo-back-in-the-days/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/adriano-danzziani/catenaccio</loc>
+    <loc>https://eupb.es/disco/la-sdj-crew-nessuno/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/acaraperro/aka-la-cloaca</loc>
+    <loc>https://eupb.es/disco/drisket-supermassive-blackholes-the-spacetape/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2012/cecilio-g/rememberin-pachangeo-back-in-the-days</loc>
+    <loc>https://eupb.es/disco/lost-twin-urano-players-agorazein-agz0euz10lt/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/la-sdj-crew/nessuno</loc>
+    <loc>https://eupb.es/disco/zar1-elsso-rodriguez-feelmatic/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/drisket/supermassive-blackholes-the-spacetape</loc>
+    <loc>https://eupb.es/disco/supra-peligra-la-vida-del-artista/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/lost-twin-urano-players-agorazein/agz0euz10lt</loc>
+    <loc>https://eupb.es/disco/el-nino-trapani-el-nino-trapani-2/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/zar1-elsso-rodriguez/feelmatic</loc>
+    <loc>https://eupb.es/disco/cecilio-g-robots-n-unicorns/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/supra/peligra-la-vida-del-artista</loc>
+    <loc>https://eupb.es/disco/yung-beef-a-d-r-o-m-i-c-f-m-s/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/el-nino-trapani/el-nino-trapani-2</loc>
+    <loc>https://eupb.es/disco/charly-efe-todos-los-ojos-lloran-sangre/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/cecilio-g/robots-n-unicorns</loc>
+    <loc>https://eupb.es/disco/la-espiral-me-cago-en-tu-padre/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/yung-beef/a-d-r-o-m-i-c-f-m-s</loc>
+    <loc>https://eupb.es/disco/etre-supreme-groove-drama-el-secreto-de-victoria/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/charly-efe/todos-los-ojos-lloran-sangre</loc>
+    <loc>https://eupb.es/disco/zode-religion-de-barrio/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/la-espiral/me-cago-en-tu-padre</loc>
+    <loc>https://eupb.es/disco/yako-munoz-yzeberg-catzola-why-why/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/etre-supreme-groove-drama/el-secreto-de-victoria</loc>
+    <loc>https://eupb.es/disco/subliminal-class-end-is-here/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/zode/religion-de-barrio</loc>
+    <loc>https://eupb.es/disco/soto-asa-check-joint/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/yako-munoz-yzeberg-catzola/why-why</loc>
+    <loc>https://eupb.es/disco/shn-vital/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/subliminal-class/end-is-here</loc>
+    <loc>https://eupb.es/disco/rare-dealing/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/soto-asa/check-joint</loc>
+    <loc>https://eupb.es/disco/nasta-ghetto-quorum/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/shn/vital</loc>
+    <loc>https://eupb.es/disco/morf-la-boheme-the-sad-dealer/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/rare/dealing</loc>
+    <loc>https://eupb.es/disco/momo-viento/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/nasta/ghetto-quorum</loc>
+    <loc>https://eupb.es/disco/los-chastas-vidas-quimicas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/morf-la-boheme/the-sad-dealer</loc>
+    <loc>https://eupb.es/disco/infinitum-vida-en-transito/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/momo/viento</loc>
+    <loc>https://eupb.es/disco/gonzalo-m-evan-malakay-trilled-mamis/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/los-chastas/vidas-quimicas</loc>
+    <loc>https://eupb.es/disco/gastonbeiker-solido/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/infinitum/vida-en-transito</loc>
+    <loc>https://eupb.es/disco/foyone-dolares-mentales/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/gonzalo-m-evan-malakay/trilled-mamis</loc>
+    <loc>https://eupb.es/disco/fasther-ciclotimia/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/gastonbeiker/solido</loc>
+    <loc>https://eupb.es/disco/el-coleta-yo-el-coleta/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/foyone/dolares-mentales</loc>
+    <loc>https://eupb.es/disco/dual-tod-mendekua/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/fasther/ciclotimia</loc>
+    <loc>https://eupb.es/disco/dheformer-ineditos/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/el-coleta/yo-el-coleta</loc>
+    <loc>https://eupb.es/disco/dheformer-el-renacimiento/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/dual-tod/mendekua</loc>
+    <loc>https://eupb.es/disco/cheb-ruben-entelequia/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/dheformer/ineditos</loc>
+    <loc>https://eupb.es/disco/charly-efe-y-delagang-castillos-en-el-aire/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/dheformer/el-renacimiento</loc>
+    <loc>https://eupb.es/disco/chaman-black-jackets-poetica/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/cheb-ruben/entelequia</loc>
+    <loc>https://eupb.es/disco/bray-fine-q-e-d/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/charly-efe-y-delagang/castillos-en-el-aire</loc>
+    <loc>https://eupb.es/disco/blowin-up-treez-ain-t-nothing-like/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/chaman-black-jackets/poetica</loc>
+    <loc>https://eupb.es/disco/amores-perros-novum-dermis/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/bray-fine/q-e-d</loc>
+    <loc>https://eupb.es/disco/cecilio-g-cecilio-godzilla/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/blowin-up-treez/ain-t-nothing-like</loc>
+    <loc>https://eupb.es/disco/cecilio-g-fo-ma-blvncx-bichx/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/amores-perros/novum-dermis</loc>
+    <loc>https://eupb.es/disco/cecilio-g-flirting-dogz-album/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/cecilio-g/cecilio-godzilla</loc>
+    <loc>https://eupb.es/disco/c-terrible-burundanga/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/cecilio-g/fo-ma-blvncx-bichx</loc>
+    <loc>https://eupb.es/disco/mi-amargo-documentar/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2013/cecilio-g/flirting-dogz-album</loc>
+    <loc>https://eupb.es/disco/pedro-ladroga-skydrvg-1-0/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/c-terrible/burundanga</loc>
+    <loc>https://eupb.es/disco/basilio-no-hay-educacion-ni-hay-maneras/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/mi-amargo/documentar</loc>
+    <loc>https://eupb.es/disco/calido-lehamo-catorce/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/pedro-ladroga/skydrvg-1-0</loc>
+    <loc>https://eupb.es/disco/erik-urano-y-zar-1-cosmonautica/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/basilio/no-hay-educacion-ni-hay-maneras</loc>
+    <loc>https://eupb.es/disco/ivo-incuerdo-nokturno/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/calido-lehamo/catorce</loc>
+    <loc>https://eupb.es/disco/josito-migrana-21-anos-de-viaje-subterraneo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/erik-urano-y-zar-1/cosmonautica</loc>
+    <loc>https://eupb.es/disco/elecesar-final-frontier/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/ivo-incuerdo/nokturno</loc>
+    <loc>https://eupb.es/disco/sticky-m-a-chill-trill/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/josito-migrana/21-anos-de-viaje-subterraneo</loc>
+    <loc>https://eupb.es/disco/cheb-ruben-kinda-sadness/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/elecesar/final-frontier</loc>
+    <loc>https://eupb.es/disco/yung-beef-freemolly/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/sticky-m-a/chill-trill</loc>
+    <loc>https://eupb.es/disco/tutto-vale-golden-alex-onorata-societa/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/cheb-ruben/kinda-sadness</loc>
+    <loc>https://eupb.es/disco/suite-soprano-domenica/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/yung-beef/freemolly</loc>
+    <loc>https://eupb.es/disco/sokez-descalzo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/tutto-vale-golden-alex/onorata-societa</loc>
+    <loc>https://eupb.es/disco/love-g-jimenez-al-des-saint-nino-valvane/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/suite-soprano/domenica</loc>
+    <loc>https://eupb.es/disco/ldk-velazquez-y-b-walls-fenix/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/sokez/descalzo</loc>
+    <loc>https://eupb.es/disco/josito-migrana-el-chico-del-chandal-a-rayas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/love-g-jimenez-al-des-saint/nino-valvane</loc>
+    <loc>https://eupb.es/disco/anb-chillin-on-a-porch-round-1/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/ldk-velazquez-y-b-walls/fenix</loc>
+    <loc>https://eupb.es/disco/jay-hernandez-my-reality-show/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/josito-migrana/el-chico-del-chandal-a-rayas</loc>
+    <loc>https://eupb.es/disco/gastonbeiker-dj-saum-colours/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/anb/chillin-on-a-porch-round-1</loc>
+    <loc>https://eupb.es/disco/elmini-retarded-da-unfinished-ep/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/jay-hernandez/my-reality-show</loc>
+    <loc>https://eupb.es/disco/dnc-foyone-stanpida-kpo-jokerfeller-the-mixtape/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/gastonbeiker-dj-saum/colours</loc>
+    <loc>https://eupb.es/disco/dellafuente-recopilatorio-2012-14/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/elmini-retarded/da-unfinished-ep</loc>
+    <loc>https://eupb.es/disco/couple-minutes-space-degrees/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/dnc-foyone-stanpida-kpo-jokerfeller/the-mixtape</loc>
+    <loc>https://eupb.es/disco/click-clack-gang-club-bamboo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/dellafuente/recopilatorio-2012-14</loc>
+    <loc>https://eupb.es/disco/charlie-patente-de-corso/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/couple-minutes/space-degrees</loc>
+    <loc>https://eupb.es/disco/cecilio-g-ceci-the-pimp/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/click-clack-gang/club-bamboo</loc>
+    <loc>https://eupb.es/disco/bong-x-dae-bryson-bongtape/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/charlie/patente-de-corso</loc>
+    <loc>https://eupb.es/disco/bombony-montana-lone-lb-finest/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/cecilio-g/ceci-the-pimp</loc>
+    <loc>https://eupb.es/disco/black-caesar-intellectual-ignorance/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/bong-x-dae-bryson/bongtape</loc>
+    <loc>https://eupb.es/disco/aroon-baliti-y-dj-volo-cosas-que-decides-cosas-que-suceden/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/bombony-montana-lone/lb-finest</loc>
+    <loc>https://eupb.es/disco/antonio-rodriguez-nete-barras-bravas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/black-caesar/intellectual-ignorance</loc>
+    <loc>https://eupb.es/disco/amores-perros-el-precio-de-la-corona/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/aroon-baliti-y-dj-volo/cosas-que-decides-cosas-que-suceden</loc>
+    <loc>https://eupb.es/disco/cecilio-g-caries-gold/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/antonio-rodriguez-nete/barras-bravas</loc>
+    <loc>https://eupb.es/disco/cecilio-g-polla-blava/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/amores-perros/el-precio-de-la-corona</loc>
+    <loc>https://eupb.es/disco/a-rock-oceank/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/cecilio-g/caries-gold</loc>
+    <loc>https://eupb.es/disco/dellafuente-azulejos-de-corales/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/cecilio-g/polla-blava</loc>
+    <loc>https://eupb.es/disco/chevalier-o-g/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2014/a-rock/oceank</loc>
+    <loc>https://eupb.es/disco/foyone-la-jaula-de-oro/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/dellafuente/azulejos-de-corales</loc>
+    <loc>https://eupb.es/disco/cecilio-g-numero-tres/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/chevalier/o-g</loc>
+    <loc>https://eupb.es/disco/original-juan-dominican-most-wanted/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/foyone/la-jaula-de-oro</loc>
+    <loc>https://eupb.es/disco/3yo-el-diablo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/cecilio-g/numero-tres</loc>
+    <loc>https://eupb.es/disco/anb-anb-world/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/original-juan/dominican-most-wanted</loc>
+    <loc>https://eupb.es/disco/el-coleta-movida-madrilena/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/3yo/el-diablo</loc>
+    <loc>https://eupb.es/disco/owlkids-zlh-in-shobogenzo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/anb/anb-world</loc>
+    <loc>https://eupb.es/disco/pedro-ladroga-locomotion-holograma-2000/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/el-coleta/movida-madrilena</loc>
+    <loc>https://eupb.es/disco/anb-fafa-muzik/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/owlkids/zlh-in-shobogenzo</loc>
+    <loc>https://eupb.es/disco/quimica-code-modo-avion/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/pedro-ladroga/locomotion-holograma-2000</loc>
+    <loc>https://eupb.es/disco/pequenochico-jovennegro-mister-b-jovennegro-mixtape/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/anb/fafa-muzik</loc>
+    <loc>https://eupb.es/disco/pequenochico-right-coast-48950/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/quimica-code/modo-avion</loc>
+    <loc>https://eupb.es/disco/ochoa-mellow-mood/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/pequenochico-jovennegro-mister-b/jovennegro-mixtape</loc>
+    <loc>https://eupb.es/disco/morf-kiddrama/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/pequenochico/right-coast-48950</loc>
+    <loc>https://eupb.es/disco/maka-pvreza/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/ochoa/mellow-mood</loc>
+    <loc>https://eupb.es/disco/los-chicos-de-la-lluvia-cross/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/morf/kiddrama</loc>
+    <loc>https://eupb.es/disco/la-clave-urbana-orgullo-vol-1-vol-2/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/maka/pvreza</loc>
+    <loc>https://eupb.es/disco/jamas-unreleased/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/los-chicos-de-la-lluvia/cross</loc>
+    <loc>https://eupb.es/disco/anb-anb-ballin4ever/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/la-clave-urbana/orgullo-vol-1-vol-2</loc>
+    <loc>https://eupb.es/disco/el-mini-pesi-the-mixtape/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/jamas/unreleased</loc>
+    <loc>https://eupb.es/disco/dellafuente-recopilatorio/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/anb/anb-ballin4ever</loc>
+    <loc>https://eupb.es/disco/d-vilas-x-big-nasa-grow-up/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/el-mini/pesi-the-mixtape</loc>
+    <loc>https://eupb.es/disco/ceerre-grey-theory/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/dellafuente/recopilatorio</loc>
+    <loc>https://eupb.es/disco/a-santos-jet-lag/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/d-vilas-x-big-nasa/grow-up</loc>
+    <loc>https://eupb.es/disco/94-brous-despues-de-la-calma/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/ceerre/grey-theory</loc>
+    <loc>https://eupb.es/disco/oceank-vol-2/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/a-santos/jet-lag</loc>
+    <loc>https://eupb.es/disco/cecilio-g-votox-fubu/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/94-brous/despues-de-la-calma</loc>
+    <loc>https://eupb.es/disco/cecilio-g-adamantium/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/oceank/vol-2</loc>
+    <loc>https://eupb.es/disco/cecilio-g-i-still-with-apes-hda/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/cecilio-g/votox-fubu</loc>
+    <loc>https://eupb.es/disco/cecilio-g-the-real-ninja/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/cecilio-g/adamantium</loc>
+    <loc>https://eupb.es/disco/dellafuente-ansia-viva/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/cecilio-g/i-still-with-apes-hda</loc>
+    <loc>https://eupb.es/disco/mr-neo-caballito-fantasma/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2015/cecilio-g/the-real-ninja</loc>
+    <loc>https://eupb.es/disco/pepe-vizio-benditos/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/dellafuente/ansia-viva</loc>
+    <loc>https://eupb.es/disco/nino-maldito-werther/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/mr-neo/caballito-fantasma</loc>
+    <loc>https://eupb.es/disco/vietnam-1974-la-jaguarosis/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/pepe-vizio/benditos</loc>
+    <loc>https://eupb.es/disco/bad-gyal-slow-wine-mixtape/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/nino-maldito/werther</loc>
+    <loc>https://eupb.es/disco/el-mini-drink-more-pesi/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/vietnam-1974/la-jaguarosis</loc>
+    <loc>https://eupb.es/disco/takers-ladrones-para-siempre/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/bad-gyal/slow-wine-mixtape</loc>
+    <loc>https://eupb.es/disco/cheb-ruben-vestido-con-chilaba/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/el-mini/drink-more-pesi</loc>
+    <loc>https://eupb.es/disco/cecilio-g-joavelli/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/takers/ladrones-para-siempre</loc>
+    <loc>https://eupb.es/disco/miguel-grimaldo-nino-las-aventuras-de-miguel-grimaldo-nino/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/cheb-ruben/vestido-con-chilaba</loc>
+    <loc>https://eupb.es/disco/madh-white-trash-kunst/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/cecilio-g/joavelli</loc>
+    <loc>https://eupb.es/disco/madh-white-trash-hood-witch/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/miguel-grimaldo-nino/las-aventuras-de-miguel-grimaldo-nino</loc>
+    <loc>https://eupb.es/disco/leiterman-primavera/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/madh-white-trash/kunst</loc>
+    <loc>https://eupb.es/disco/j-dose-mrcs-flacko-favor/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/madh-white-trash/hood-witch</loc>
+    <loc>https://eupb.es/disco/anb-28-n-company/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/leiterman/primavera</loc>
+    <loc>https://eupb.es/disco/fran-laoren-renacimiento/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/j-dose-mrcs/flacko-favor</loc>
+    <loc>https://eupb.es/disco/anb-nuevaera/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/anb/28-n-company</loc>
+    <loc>https://eupb.es/disco/elsso-rodriguez-cronicas-de-martires-y-poco-mas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/fran-laoren/renacimiento</loc>
+    <loc>https://eupb.es/disco/elphomega-nebuloso/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/anb/nuevaera</loc>
+    <loc>https://eupb.es/disco/el-guincho-hiperasia/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/elsso-rodriguez/cronicas-de-martires-y-poco-mas</loc>
+    <loc>https://eupb.es/disco/cecilio-g-caries-hoe-xmas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/elphomega/nebuloso</loc>
+    <loc>https://eupb.es/disco/cecilio-g-tiger/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/el-guincho/hiperasia</loc>
+    <loc>https://eupb.es/disco/cecilio-g-ten-shin-juan-b-day-15th/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/cecilio-g/caries-hoe-xmas</loc>
+    <loc>https://eupb.es/disco/cecilio-g-max-power/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/cecilio-g/tiger</loc>
+    <loc>https://eupb.es/disco/damed-squad-damed-squad-the-mixtape/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/cecilio-g/ten-shin-juan-b-day-15th</loc>
+    <loc>https://eupb.es/disco/arufe-lil-rufio/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2016/cecilio-g/max-power</loc>
+    <loc>https://eupb.es/disco/gata-cattana-banzai/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/damed-squad/damed-squad-the-mixtape</loc>
+    <loc>https://eupb.es/disco/soto-asa-bruce-lean/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/arufe/lil-rufio</loc>
+    <loc>https://eupb.es/disco/kaydy-cain-calle-amor/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/gata-cattana/banzai</loc>
+    <loc>https://eupb.es/disco/pedro-ladroga-via-digital-skydrvg-2-0/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/soto-asa/bruce-lean</loc>
+    <loc>https://eupb.es/disco/la-mafia-del-amor-reggaeton-antiguo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/kaydy-cain/calle-amor</loc>
+    <loc>https://eupb.es/disco/elsso-rodriguez-el-factor-humano/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/pedro-ladroga/via-digital-skydrvg-2-0</loc>
+    <loc>https://eupb.es/disco/calido-lehamo-alegria-de-vivir/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/la-mafia-del-amor/reggaeton-antiguo</loc>
+    <loc>https://eupb.es/disco/n-wise-allah-casino-chips/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/elsso-rodriguez/el-factor-humano</loc>
+    <loc>https://eupb.es/disco/yako-munoz-outd0or-nation/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/calido-lehamo/alegria-de-vivir</loc>
+    <loc>https://eupb.es/disco/la-clave-urbana-proyecto-0/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/n-wise-allah/casino-chips</loc>
+    <loc>https://eupb.es/disco/josito-migrana-espimpnete-the-mixtape/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/yako-munoz/outd0or-nation</loc>
+    <loc>https://eupb.es/disco/anb-blueworld2k17/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/la-clave-urbana/proyecto-0</loc>
+    <loc>https://eupb.es/disco/erick-herve-yeke-boy-m-o-m/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/josito-migrana/espimpnete-the-mixtape</loc>
+    <loc>https://eupb.es/disco/cecilio-g-caries-hoe-xmas-2/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/anb/blueworld2k17</loc>
+    <loc>https://eupb.es/disco/cecilio-g-praw-combo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/erick-herve-yeke-boy/m-o-m</loc>
+    <loc>https://eupb.es/disco/cecilio-g-fin/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/cecilio-g/caries-hoe-xmas-2</loc>
+    <loc>https://eupb.es/disco/cecilio-g-racistalbum/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/cecilio-g/praw-combo</loc>
+    <loc>https://eupb.es/disco/sticky-m-a-las-pegajosas-aventuras-de-sticky-m-a/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/cecilio-g/fin</loc>
+    <loc>https://eupb.es/disco/yung-beef-adromicfms-4/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2017/cecilio-g/racistalbum</loc>
+    <loc>https://eupb.es/disco/fanso-musica-para-lagartos/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/sticky-m-a/las-pegajosas-aventuras-de-sticky-m-a</loc>
+    <loc>https://eupb.es/disco/soto-asa-down-music/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/yung-beef/adromicfms-4</loc>
+    <loc>https://eupb.es/disco/goa-yung-beef-traumatismo-kraneoencefalico/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/fanso/musica-para-lagartos</loc>
+    <loc>https://eupb.es/disco/la-zowi-ama-de-casa/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/soto-asa/down-music</loc>
+    <loc>https://eupb.es/disco/space-surimi-double-flipper/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/goa-yung-beef/traumatismo-kraneoencefalico</loc>
+    <loc>https://eupb.es/disco/cruz-cafune-maracucho-bueno-muere-chiquito/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/la-zowi/ama-de-casa</loc>
+    <loc>https://eupb.es/disco/dheformer-ciclo-supremo-conocimiento-del-mundo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/space-surimi/double-flipper</loc>
+    <loc>https://eupb.es/disco/rosalia-el-mal-querer/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/cruz-cafune/maracucho-bueno-muere-chiquito</loc>
+    <loc>https://eupb.es/disco/yako-munoz-yetbaby-amor-del-geto-iii/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/dheformer-ciclo/supremo-conocimiento-del-mundo</loc>
+    <loc>https://eupb.es/disco/tpfam-y-miguel-grimaldo-no-memories/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/rosalia/el-mal-querer</loc>
+    <loc>https://eupb.es/disco/madh-white-trash-post-human/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/yako-munoz-yetbaby/amor-del-geto-iii</loc>
+    <loc>https://eupb.es/disco/manu-beats-lupin-iii/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/tpfam-y-miguel-grimaldo/no-memories</loc>
+    <loc>https://eupb.es/disco/c-tangana-avida-dollars/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/madh-white-trash/post-human</loc>
+    <loc>https://eupb.es/disco/cecilio-g-caries-hoe-xmas-3/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/manu-beats/lupin-iii</loc>
+    <loc>https://eupb.es/disco/cecilio-g-mad-max-power/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/c-tangana/avida-dollars</loc>
+    <loc>https://eupb.es/disco/cecilio-g-million-dollar-baby/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/cecilio-g/caries-hoe-xmas-3</loc>
+    <loc>https://eupb.es/disco/soto-asa-la-cruz/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2018/cecilio-g/mad-max-power</loc>
+    <loc>https://eupb.es/disco/mc-buzz-baile-de-rua/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/cecilio-g/million-dollar-baby</loc>
+    <loc>https://eupb.es/disco/skyhook-moonchies/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/soto-asa/la-cruz</loc>
+    <loc>https://eupb.es/disco/sticky-m-a-5ta-dimension/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/mc-buzz/baile-de-rua</loc>
+    <loc>https://eupb.es/disco/goa-inmortal/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/skyhook/moonchies</loc>
+    <loc>https://eupb.es/disco/lil-moss-titu/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/sticky-m-a/5ta-dimension</loc>
+    <loc>https://eupb.es/disco/pedro-ladroga-eurococa/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/goa/inmortal</loc>
+    <loc>https://eupb.es/disco/dano-istmo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/lil-moss/titu</loc>
+    <loc>https://eupb.es/disco/morad-m-d-l-r/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/pedro-ladroga/eurococa</loc>
+    <loc>https://eupb.es/disco/souzreptil1k17-baby-pantera-going-crazy/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/dano/istmo</loc>
+    <loc>https://eupb.es/disco/sen-senra-sensaciones/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/morad/m-d-l-r</loc>
+    <loc>https://eupb.es/disco/miguel-grimaldo-trip-ass/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/souzreptil1k17-baby-pantera/going-crazy</loc>
+    <loc>https://eupb.es/disco/califato-3-4-puerta-de-la-canne/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/sen-senra/sensaciones</loc>
+    <loc>https://eupb.es/disco/cecilio-g-todos-presos-tdps/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/miguel-grimaldo/trip-ass</loc>
+    <loc>https://eupb.es/disco/cecilio-g-aleesha-la-mixtape/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/califato-3-4/puerta-de-la-canne</loc>
+    <loc>https://eupb.es/disco/cecilio-g-caries-hoe-xmas-4/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/cecilio-g/todos-presos-tdps</loc>
+    <loc>https://eupb.es/artista/935/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/cecilio-g/aleesha-la-mixtape</loc>
+    <loc>https://eupb.es/artista/chicoes3/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/disco/2019/cecilio-g/caries-hoe-xmas-4</loc>
+    <loc>https://eupb.es/artista/nasta/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/3yo</loc>
+    <loc>https://eupb.es/artista/elsso-rodriguez/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/935</loc>
+    <loc>https://eupb.es/artista/kaydy-cain/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/94-brous</loc>
+    <loc>https://eupb.es/artista/corredores-de-bloque/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/a-rock</loc>
+    <loc>https://eupb.es/artista/la-clave-urbana/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/a-santos</loc>
+    <loc>https://eupb.es/artista/charly-efe/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/acaraperro</loc>
+    <loc>https://eupb.es/artista/javier-petaka/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/adriano-danzziani</loc>
+    <loc>https://eupb.es/artista/ratas-inestables/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/agorazein</loc>
+    <loc>https://eupb.es/artista/nete-rodriguez/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/amores-perros</loc>
+    <loc>https://eupb.es/artista/yasin-el-tangerino/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/anb</loc>
+    <loc>https://eupb.es/artista/sicario-hazhe/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/antonio-rodriguez-nete</loc>
+    <loc>https://eupb.es/artista/primer-dan/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/are</loc>
+    <loc>https://eupb.es/artista/morodo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/aroon-baliti-y-dj-volo</loc>
+    <loc>https://eupb.es/artista/mde-click/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/arufe</loc>
+    <loc>https://eupb.es/artista/lone/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/ases</loc>
+    <loc>https://eupb.es/artista/la-jota-nostra/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/baboon-estudios</loc>
+    <loc>https://eupb.es/artista/ihon/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/bad-gyal</loc>
+    <loc>https://eupb.es/artista/el-nino-trapani/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/basilio</loc>
+    <loc>https://eupb.es/artista/el-momo-pseudonimo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/be-timeless</loc>
+    <loc>https://eupb.es/artista/el-guincho/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/big-sabanas</loc>
+    <loc>https://eupb.es/artista/costa/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/black-caesar</loc>
+    <loc>https://eupb.es/artista/capaz/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/blanco</loc>
+    <loc>https://eupb.es/artista/guante-blanco/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/blowin-up-treez</loc>
+    <loc>https://eupb.es/artista/erik-urano-zar1/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/bombony-montana-lone</loc>
+    <loc>https://eupb.es/artista/n-wise-mde-click/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/bong-x-dae-bryson</loc>
+    <loc>https://eupb.es/artista/baboon-estudios/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/bray-fine</loc>
+    <loc>https://eupb.es/artista/cheb-ruben/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/c-tangana</loc>
+    <loc>https://eupb.es/artista/ebano/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/c-terrible</loc>
+    <loc>https://eupb.es/artista/c-tangana/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/calido-lehamo</loc>
+    <loc>https://eupb.es/artista/be-timeless/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/califato-3-4</loc>
+    <loc>https://eupb.es/artista/escandaloso-xposito-hartosopash/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/capaz</loc>
+    <loc>https://eupb.es/artista/zetazen/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/carmona</loc>
+    <loc>https://eupb.es/artista/yonkos-team-y-la-mafia-tramontana/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/cecilio-g</loc>
+    <loc>https://eupb.es/artista/toscano/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/ceerre</loc>
+    <loc>https://eupb.es/artista/tocha-pro/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/chaman-black-jackets</loc>
+    <loc>https://eupb.es/artista/tibu-morales/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/charlestan</loc>
+    <loc>https://eupb.es/artista/tetuan-most-wanted/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/charlie</loc>
+    <loc>https://eupb.es/artista/supra/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/charly-efe</loc>
+    <loc>https://eupb.es/artista/sule-b/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/charly-efe-y-delagang</loc>
+    <loc>https://eupb.es/artista/spitting-essence/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/cheb-ruben</loc>
+    <loc>https://eupb.es/artista/sh-musica/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/chevalier</loc>
+    <loc>https://eupb.es/artista/rafael-lechowski-y-glac/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/chicoes3</loc>
+    <loc>https://eupb.es/artista/quimica-code/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/chirie-vegas</loc>
+    <loc>https://eupb.es/artista/natos-waor/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/click-clack-gang</loc>
+    <loc>https://eupb.es/artista/mi-amargo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/corredores-de-bloque</loc>
+    <loc>https://eupb.es/artista/me-cago-en-tu-padre/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/costa</loc>
+    <loc>https://eupb.es/artista/manto-fabianni/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/couple-minutes</loc>
+    <loc>https://eupb.es/artista/m-ramirez/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/cruz-cafune</loc>
+    <loc>https://eupb.es/artista/m-padron/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/d-vilas-x-big-nasa</loc>
+    <loc>https://eupb.es/artista/kase-o/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/damed-squad</loc>
+    <loc>https://eupb.es/artista/inze-brashier/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/dano</loc>
+    <loc>https://eupb.es/artista/grand-groove/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/darmo</loc>
+    <loc>https://eupb.es/artista/foyone/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/dellafuente</loc>
+    <loc>https://eupb.es/artista/fede-el-mono-shao/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/dheformer</loc>
+    <loc>https://eupb.es/artista/fasther/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/dheformer-ciclo</loc>
+    <loc>https://eupb.es/artista/eneko-y-gareta/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/dj-longanisa</loc>
+    <loc>https://eupb.es/artista/el-coleta/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/dnc-foyone-stanpida-kpo-jokerfeller</loc>
+    <loc>https://eupb.es/artista/darmo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/drisket</loc>
+    <loc>https://eupb.es/artista/black-caesar/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/dual-tod</loc>
+    <loc>https://eupb.es/artista/are/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/ebano</loc>
+    <loc>https://eupb.es/artista/agorazein/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/el-coleta</loc>
+    <loc>https://eupb.es/artista/kefta-boys/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/el-guincho</loc>
+    <loc>https://eupb.es/artista/isayah-thomas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/el-mini</loc>
+    <loc>https://eupb.es/artista/yako-munoz/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/el-momo-pseudonimo</loc>
+    <loc>https://eupb.es/artista/dano/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/el-nino-snake</loc>
+    <loc>https://eupb.es/artista/chirie-vegas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/el-nino-trapani</loc>
+    <loc>https://eupb.es/artista/sdj-crew/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/elecesar</loc>
+    <loc>https://eupb.es/artista/ziontifik/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/elmini-retarded</loc>
+    <loc>https://eupb.es/artista/victor-rutty/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/elphomega</loc>
+    <loc>https://eupb.es/artista/tutto-vale-morf/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/elsso-rodriguez</loc>
+    <loc>https://eupb.es/artista/suite-soprano/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/emelvi</loc>
+    <loc>https://eupb.es/artista/street-bucks/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/eneko-y-gareta</loc>
+    <loc>https://eupb.es/artista/soto-asa/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/erick-herve-yeke-boy</loc>
+    <loc>https://eupb.es/artista/signo-yasin-el-tangerino/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/erik-urano-y-zar-1</loc>
+    <loc>https://eupb.es/artista/seron/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/erik-urano-zar1</loc>
+    <loc>https://eupb.es/artista/serye-b/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/escandaloso-xposito-hartosopash</loc>
+    <loc>https://eupb.es/artista/r-s-n/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/etre-supreme-groove-drama</loc>
+    <loc>https://eupb.es/artista/pseudonimo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/f-ckin-maniacs</loc>
+    <loc>https://eupb.es/artista/priteo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/fanso</loc>
+    <loc>https://eupb.es/artista/phicycle/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/fasther</loc>
+    <loc>https://eupb.es/artista/miguel-grimaldo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/fede-el-mono-shao</loc>
+    <loc>https://eupb.es/artista/leitmotiv/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/foyone</loc>
+    <loc>https://eupb.es/artista/la-boheme/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/fran-laoren</loc>
+    <loc>https://eupb.es/artista/kraf/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/gastonbeiker</loc>
+    <loc>https://eupb.es/artista/jerva-agz/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/gastonbeiker-dj-saum</loc>
+    <loc>https://eupb.es/artista/ivan-nieto/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/gata-cattana</loc>
+    <loc>https://eupb.es/artista/i-ace-j-o/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/goa</loc>
+    <loc>https://eupb.es/artista/f-ckin-maniacs/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/goa-yung-beef</loc>
+    <loc>https://eupb.es/artista/el-nino-snake/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/gonzalo-m-evan-malakay</loc>
+    <loc>https://eupb.es/artista/charlestan/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/grand-groove</loc>
+    <loc>https://eupb.es/artista/carmona/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/guante-blanco</loc>
+    <loc>https://eupb.es/artista/blanco/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/i-ace-j-o</loc>
+    <loc>https://eupb.es/artista/big-sabanas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/ihon</loc>
+    <loc>https://eupb.es/artista/cecilio-g/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/infinitum</loc>
+    <loc>https://eupb.es/artista/ases/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/inze-brashier</loc>
+    <loc>https://eupb.es/artista/adriano-danzziani/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/isayah-thomas</loc>
+    <loc>https://eupb.es/artista/acaraperro/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/ivan-nieto</loc>
+    <loc>https://eupb.es/artista/la-sdj-crew/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/ivo-incuerdo</loc>
+    <loc>https://eupb.es/artista/drisket/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/j-dose-mrcs</loc>
+    <loc>https://eupb.es/artista/lost-twin-urano-players-agorazein/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/jamas</loc>
+    <loc>https://eupb.es/artista/zar1-elsso-rodriguez/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/javier-petaka</loc>
+    <loc>https://eupb.es/artista/yung-beef/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/jay-hernandez</loc>
+    <loc>https://eupb.es/artista/la-espiral/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/jerva-agz</loc>
+    <loc>https://eupb.es/artista/etre-supreme-groove-drama/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/josito-migrana</loc>
+    <loc>https://eupb.es/artista/zode/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/kase-o</loc>
+    <loc>https://eupb.es/artista/yako-munoz-yzeberg-catzola/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/kaydy-cain</loc>
+    <loc>https://eupb.es/artista/subliminal-class/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/kefta-boys</loc>
+    <loc>https://eupb.es/artista/shn/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/kraf</loc>
+    <loc>https://eupb.es/artista/rare/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/kuor-larraz</loc>
+    <loc>https://eupb.es/artista/morf-la-boheme/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/kyhook</loc>
+    <loc>https://eupb.es/artista/momo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/la-boheme</loc>
+    <loc>https://eupb.es/artista/los-chastas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/la-clave-urbana</loc>
+    <loc>https://eupb.es/artista/infinitum/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/la-espiral</loc>
+    <loc>https://eupb.es/artista/gonzalo-m-evan-malakay/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/la-jota-nostra</loc>
+    <loc>https://eupb.es/artista/gastonbeiker/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/la-mafia-del-amor</loc>
+    <loc>https://eupb.es/artista/dual-tod/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/la-sdj-crew</loc>
+    <loc>https://eupb.es/artista/dheformer/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/la-zowi</loc>
+    <loc>https://eupb.es/artista/charly-efe-y-delagang/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/ldk-velazquez-y-b-walls</loc>
+    <loc>https://eupb.es/artista/chaman-black-jackets/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/leiterman</loc>
+    <loc>https://eupb.es/artista/bray-fine/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/leitmotiv</loc>
+    <loc>https://eupb.es/artista/blowin-up-treez/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/lil-moss</loc>
+    <loc>https://eupb.es/artista/amores-perros/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/lone</loc>
+    <loc>https://eupb.es/artista/c-terrible/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/los-chastas</loc>
+    <loc>https://eupb.es/artista/pedro-ladroga/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/los-chicos-de-la-lluvia</loc>
+    <loc>https://eupb.es/artista/basilio/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/lost-twin-urano-players-agorazein</loc>
+    <loc>https://eupb.es/artista/calido-lehamo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/love-g-jimenez-al-des-saint</loc>
+    <loc>https://eupb.es/artista/erik-urano-y-zar-1/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/m-padron</loc>
+    <loc>https://eupb.es/artista/ivo-incuerdo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/m-ramirez</loc>
+    <loc>https://eupb.es/artista/josito-migrana/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/madh-white-trash</loc>
+    <loc>https://eupb.es/artista/elecesar/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/maka</loc>
+    <loc>https://eupb.es/artista/sticky-m-a/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/manto-fabianni</loc>
+    <loc>https://eupb.es/artista/tutto-vale-golden-alex/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/manu-beats</loc>
+    <loc>https://eupb.es/artista/sokez/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/mc-buzz</loc>
+    <loc>https://eupb.es/artista/love-g-jimenez-al-des-saint/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/mde-click</loc>
+    <loc>https://eupb.es/artista/ldk-velazquez-y-b-walls/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/me-cago-en-tu-padre</loc>
+    <loc>https://eupb.es/artista/anb/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/mi-amargo</loc>
+    <loc>https://eupb.es/artista/jay-hernandez/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/miguel-grimaldo</loc>
+    <loc>https://eupb.es/artista/gastonbeiker-dj-saum/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/miguel-grimaldo-nino</loc>
+    <loc>https://eupb.es/artista/elmini-retarded/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/momo</loc>
+    <loc>https://eupb.es/artista/dnc-foyone-stanpida-kpo-jokerfeller/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/morad</loc>
+    <loc>https://eupb.es/artista/dellafuente/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/morf</loc>
+    <loc>https://eupb.es/artista/couple-minutes/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/morf-la-boheme</loc>
+    <loc>https://eupb.es/artista/click-clack-gang/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/morodo</loc>
+    <loc>https://eupb.es/artista/charlie/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/mr-neo</loc>
+    <loc>https://eupb.es/artista/bong-x-dae-bryson/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/n-wise-allah</loc>
+    <loc>https://eupb.es/artista/bombony-montana-lone/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/n-wise-mde-click</loc>
+    <loc>https://eupb.es/artista/aroon-baliti-y-dj-volo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/nasta</loc>
+    <loc>https://eupb.es/artista/antonio-rodriguez-nete/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/natos-waor</loc>
+    <loc>https://eupb.es/artista/a-rock/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/nete-rodriguez</loc>
+    <loc>https://eupb.es/artista/chevalier/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/nino-maldito</loc>
+    <loc>https://eupb.es/artista/original-juan/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/oceank</loc>
+    <loc>https://eupb.es/artista/3yo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/ochoa</loc>
+    <loc>https://eupb.es/artista/owlkids/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/original-juan</loc>
+    <loc>https://eupb.es/artista/pequenochico-jovennegro-mister-b/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/owlkids</loc>
+    <loc>https://eupb.es/artista/pequenochico/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/pedro-ladroga</loc>
+    <loc>https://eupb.es/artista/ochoa/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/pepe-vizio</loc>
+    <loc>https://eupb.es/artista/morf/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/pequenochico</loc>
+    <loc>https://eupb.es/artista/maka/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/pequenochico-jovennegro-mister-b</loc>
+    <loc>https://eupb.es/artista/los-chicos-de-la-lluvia/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/phicycle</loc>
+    <loc>https://eupb.es/artista/jamas/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/pocas-libras</loc>
+    <loc>https://eupb.es/artista/el-mini/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/primer-dan</loc>
+    <loc>https://eupb.es/artista/d-vilas-x-big-nasa/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/priteo</loc>
+    <loc>https://eupb.es/artista/ceerre/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/pseudonimo</loc>
+    <loc>https://eupb.es/artista/a-santos/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/quimica-code</loc>
+    <loc>https://eupb.es/artista/94-brous/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/r-s-n</loc>
+    <loc>https://eupb.es/artista/oceank/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/rafael-lechowski-y-glac</loc>
+    <loc>https://eupb.es/artista/mr-neo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/rap-gotti</loc>
+    <loc>https://eupb.es/artista/pepe-vizio/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/rare</loc>
+    <loc>https://eupb.es/artista/nino-maldito/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/ratas-inestables</loc>
+    <loc>https://eupb.es/artista/vietnam-1974/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/rosalia</loc>
+    <loc>https://eupb.es/artista/bad-gyal/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/sdj-crew</loc>
+    <loc>https://eupb.es/artista/takers/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/sen-senra</loc>
+    <loc>https://eupb.es/artista/miguel-grimaldo-nino/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/seron</loc>
+    <loc>https://eupb.es/artista/madh-white-trash/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/serye-b</loc>
+    <loc>https://eupb.es/artista/leiterman/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/sh-musica</loc>
+    <loc>https://eupb.es/artista/j-dose-mrcs/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/shn</loc>
+    <loc>https://eupb.es/artista/fran-laoren/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/sicario-hazhe</loc>
+    <loc>https://eupb.es/artista/elphomega/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/signo-yasin-el-tangerino</loc>
+    <loc>https://eupb.es/artista/damed-squad/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/skyhook</loc>
+    <loc>https://eupb.es/artista/arufe/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/sokez</loc>
+    <loc>https://eupb.es/artista/gata-cattana/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/soto-asa</loc>
+    <loc>https://eupb.es/artista/la-mafia-del-amor/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/souzreptil1k17-baby-pantera</loc>
+    <loc>https://eupb.es/artista/n-wise-allah/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/space-surimi</loc>
+    <loc>https://eupb.es/artista/erick-herve-yeke-boy/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/spaced-out-family</loc>
+    <loc>https://eupb.es/artista/fanso/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/spitting-essence</loc>
+    <loc>https://eupb.es/artista/goa-yung-beef/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/sticky-m-a</loc>
+    <loc>https://eupb.es/artista/la-zowi/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/street-bucks</loc>
+    <loc>https://eupb.es/artista/space-surimi/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/subliminal-class</loc>
+    <loc>https://eupb.es/artista/cruz-cafune/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/suite-soprano</loc>
+    <loc>https://eupb.es/artista/dheformer-ciclo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/sule-b</loc>
+    <loc>https://eupb.es/artista/rosalia/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/supra</loc>
+    <loc>https://eupb.es/artista/yako-munoz-yetbaby/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/takers</loc>
+    <loc>https://eupb.es/artista/tpfam-y-miguel-grimaldo/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/tetuan-most-wanted</loc>
+    <loc>https://eupb.es/artista/manu-beats/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/tibu-morales</loc>
+    <loc>https://eupb.es/artista/mc-buzz/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/tocha-pro</loc>
+    <loc>https://eupb.es/artista/skyhook/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/toscano</loc>
+    <loc>https://eupb.es/artista/goa/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/tpfam-y-miguel-grimaldo</loc>
+    <loc>https://eupb.es/artista/lil-moss/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/tutto-vale-golden-alex</loc>
+    <loc>https://eupb.es/artista/morad/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/tutto-vale-morf</loc>
+    <loc>https://eupb.es/artista/souzreptil1k17-baby-pantera/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/victor-rutty</loc>
+    <loc>https://eupb.es/artista/sen-senra/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://eupb.es/artista/vietnam-1974</loc>
+    <loc>https://eupb.es/artista/califato-3-4/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://eupb.es/artista/yako-munoz</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://eupb.es/artista/yako-munoz-yetbaby</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://eupb.es/artista/yako-munoz-yzeberg-catzola</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://eupb.es/artista/yasin-el-tangerino</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://eupb.es/artista/yonkos-team-y-la-mafia-tramontana</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://eupb.es/artista/yung-beef</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://eupb.es/artista/zar1-elsso-rodriguez</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://eupb.es/artista/zetazen</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://eupb.es/artista/ziontifik</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://eupb.es/artista/zode</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
 </urlset>
